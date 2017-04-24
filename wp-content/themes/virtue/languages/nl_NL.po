@@ -1,0 +1,6624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtue\n"
+"POT-Creation-Date: 2015-02-19 02:09-0700\n"
+"PO-Revision-Date: 2015-02-19 02:11-0700\n"
+"Last-Translator: Jouke Dokman\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Onze excuses, maar de pagina die je zoekt bestaat niet."
+
+#: ../404.php:14
+msgid "It looks like this was the result of either:"
+msgstr "Het lijkt er op dat is het resultaat is van:"
+
+#: ../404.php:16
+msgid "a mistyped address"
+msgstr "een verkeerd getypt adres"
+
+#: ../404.php:17
+msgid "an out-of-date link"
+msgstr "een oude link die niet meer bestaat"
+
+#: ../archive.php:29 ../index.php:13 ../search.php:13
+#: ../taxonomy-portfolio-type.php:13
+msgid "Sorry, no results were found."
+msgstr "Onze excuses, geen resultaten gevonden."
+
+#: ../base.php:13
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+
+#: ../index.php:28 ../page-blog-grid.php:66 ../page-portfolio.php:171
+#: ../search.php:46 ../taxonomy-portfolio-type.php:98
+msgid "&larr; Older posts"
+msgstr "&larr; Oudere berichten"
+
+#: ../index.php:29 ../page-blog-grid.php:67 ../page-portfolio.php:172
+#: ../search.php:47 ../taxonomy-portfolio-type.php:99
+msgid "Newer posts &rarr;"
+msgstr "Nieuwere berichten &rarr;"
+
+#: ../lib/authorbox.php:5
+msgid "About Author"
+msgstr "Over de Auteur"
+
+#: ../lib/authorbox.php:6 ../lib/custom.php:392 ../lib/utils.php:58
+#: ../themeoptions/options.php:404
+msgid "Latest Posts"
+msgstr "Laatste Berichten"
+
+#: ../lib/authorbox.php:13 ../lib/authorbox.php:16 ../lib/authorbox.php:20
+#: ../lib/authorbox.php:24 ../lib/authorbox.php:28 ../lib/authorbox.php:32
+#: ../lib/authorbox.php:36 ../lib/authorbox.php:40 ../lib/authorbox.php:44
+#: ../lib/authorbox.php:48
+msgid "Follow"
+msgstr "Volgen"
+
+#: ../lib/authorbox.php:16
+msgid "on Facebook"
+msgstr "op Facebook"
+
+#: ../lib/authorbox.php:20
+msgid "on Twitter"
+msgstr "op Twitter"
+
+#: ../lib/authorbox.php:24
+msgid "on Google Plus"
+msgstr "op Google Plus"
+
+#: ../lib/authorbox.php:28
+msgid "on Flickr"
+msgstr "op Flickr"
+
+#: ../lib/authorbox.php:32
+msgid "on Vimeo"
+msgstr "op Vimeo"
+
+#: ../lib/authorbox.php:36
+msgid "on linkedin"
+msgstr "op Linkedin"
+
+#: ../lib/authorbox.php:40
+msgid "on Dribbble"
+msgstr "op Dribble"
+
+#: ../lib/authorbox.php:44
+msgid "on Pinterest"
+msgstr "op Pinterest"
+
+#: ../lib/authorbox.php:48
+msgid "on Instagram"
+msgstr "op Instagram"
+
+#: ../lib/authorbox.php:65
+msgid "Latest posts from"
+msgstr "Laatste berichten van"
+
+#: ../lib/blog_shortcodes.php:56 ../lib/blog_shortcodes.php:159
+#: ../lib/blog_shortcodes.php:211 ../lib/blog_shortcodes.php:258
+#: ../page-blog-grid.php:55 ../page-blog.php:73
+#: ../templates/home/blog-home-onecolumn.php:136
+#: ../templates/home/blog-home.php:122 ../templates/home/latest-slider.php:36
+#: ../templates/similarblog-carousel.php:61
+msgid "Sorry, no blog entries found."
+msgstr "Onze excuses, geen berichten gevonden."
+
+#: ../lib/blog_shortcodes.php:150 ../lib/carousel_shortcodes.php:109
+#: ../lib/cleanup.php:162 ../lib/custom.php:779
+#: ../lib/testimonial_shortcodes.php:11 ../lib/widgets.php:791
+#: ../lib/widgets.php:797 ../page-testimonial-grid.php:59
+#: ../templates/content-fullpost.php:146
+#: ../templates/content-fullpostfull.php:146
+#: ../templates/home/blog-home-onecolumn.php:122
+#: ../templates/home/blog-home.php:112
+msgid "Read More"
+msgstr "Lees Meer"
+
+#: ../lib/breadcrumbs.php:77
+msgid "Search results for"
+msgstr "Zoekresultaten voor"
+
+#: ../lib/breadcrumbs.php:198
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../lib/breadcrumbs.php:203
+msgid "Page"
+msgstr "Pagina"
+
+#: ../lib/carousel_shortcodes.php:68 ../lib/portfolio_shortcodes.php:135
+#: ../page-portfolio.php:161 ../templates/bottomportfolio-carousel.php:161
+#: ../templates/home/portfolio-carousel.php:109
+#: ../templates/home/portfolio-full.php:140
+#: ../templates/recentblog-carousel.php:50
+msgid "Sorry, no portfolio entries found."
+msgstr "Geen portfolio items gevonden."
+
+#: ../lib/carousel_shortcodes.php:116
+msgid "Sorry, no post entries found."
+msgstr "Geen berichten gevonden"
+
+#: ../lib/class-tgm-plugin-activation.php:155
+#, fuzzy
+msgid "Install Recommended Plugins"
+msgstr "Installatie Vereist Plug-ins"
+
+#: ../lib/class-tgm-plugin-activation.php:156 ../lib/revslider-activate.php:97
+#, fuzzy
+msgid "Theme Recommended Plugins"
+msgstr "Ga terug naar aanbevolen Plug-in installatie"
+
+#: ../lib/class-tgm-plugin-activation.php:157 ../lib/revslider-activate.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installeren Plugin: %s"
+
+#: ../lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan."
+
+#: ../lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "Terugkeren naar Vereiste Plug-in Installeerder"
+
+#: ../lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Terugkeren naar het dashboard"
+
+#: ../lib/class-tgm-plugin-activation.php:171
+#: ../lib/class-tgm-plugin-activation.php:1843
+#: ../lib/revslider-activate.php:111
+msgid "Plugin activated successfully."
+msgstr "Plug-in succesvol geactiveerd."
+
+#: ../lib/class-tgm-plugin-activation.php:172
+#: ../lib/class-tgm-plugin-activation.php:1541
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn succesvol geactiveerd:"
+
+#: ../lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle geinstalleerde plugins zijn succesvol geactiveerd. %1s"
+
+#: ../lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Verwijder deze melding"
+
+#: ../lib/class-tgm-plugin-activation.php:1088
+msgid "External Link"
+msgstr "Externe link"
+
+#: ../lib/class-tgm-plugin-activation.php:1093
+msgid "Private Repository"
+msgstr "Privé opslagplaats"
+
+#: ../lib/class-tgm-plugin-activation.php:1096
+msgid "Pre-Packaged"
+msgstr "Voorverpakte"
+
+#: ../lib/class-tgm-plugin-activation.php:1100
+msgid "WordPress Repository"
+msgstr "Wordpress opslagplaats"
+
+#: ../lib/class-tgm-plugin-activation.php:1103
+msgid "Required"
+msgstr "Vereiste"
+
+#: ../lib/class-tgm-plugin-activation.php:1103
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: ../lib/class-tgm-plugin-activation.php:1106
+msgid "Not Installed"
+msgstr "Niet geinstalleerd"
+
+#: ../lib/class-tgm-plugin-activation.php:1108
+msgid "Installed But Not Activated"
+msgstr "Geinstalleerd maar niet geactiveerd"
+
+#: ../lib/class-tgm-plugin-activation.php:1278
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Geen plugins geactiveerd of actief <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+
+#: ../lib/class-tgm-plugin-activation.php:1294
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../lib/class-tgm-plugin-activation.php:1295
+msgid "Source"
+msgstr "Bron"
+
+#: ../lib/class-tgm-plugin-activation.php:1296 ../lib/post-types.php:40
+msgid "Type"
+msgstr "Type"
+
+#: ../lib/class-tgm-plugin-activation.php:1297
+msgid "Status"
+msgstr "Status"
+
+#: ../lib/class-tgm-plugin-activation.php:1315
+msgid "Install"
+msgstr "Installeer"
+
+#: ../lib/class-tgm-plugin-activation.php:1316
+msgid "Activate"
+msgstr "Activeer"
+
+#: ../lib/class-tgm-plugin-activation.php:1826
+msgid "Install package not available."
+msgstr "Installatie pakket niet beschikbaar."
+
+#: ../lib/class-tgm-plugin-activation.php:1827
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Installatie pakket word gedownload van <span class=\"code\">%s</span>&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1828
+msgid "Unpacking the package&#8230;"
+msgstr "Uitpakket van pakket&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1829
+msgid "Installing the plugin&#8230;"
+msgstr "Installeren van plugin&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1830
+msgid "Plugin install failed."
+msgstr "Plugin installatie mislukt."
+
+#: ../lib/class-tgm-plugin-activation.php:1831
+msgid "Plugin installed successfully."
+msgstr "Plugin succesvol geinstalleerd."
+
+#: ../lib/class-tgm-plugin-activation.php:1842
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#: ../lib/class-tgm-plugin-activation.php:1952
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie en activatie proces word gestart Dit proces neemt enige tijd "
+"in beslag op bepaalde hostings, wees geduldig."
+
+#: ../lib/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geinstallerd en geactiveerd."
+
+#: ../lib/class-tgm-plugin-activation.php:1953
+#: ../lib/class-tgm-plugin-activation.php:1962
+msgid "Show Details"
+msgstr "Bekijk Details"
+
+#: ../lib/class-tgm-plugin-activation.php:1953
+#: ../lib/class-tgm-plugin-activation.php:1962
+msgid "Hide Details"
+msgstr "Verberg Details"
+
+#: ../lib/class-tgm-plugin-activation.php:1954
+msgid "All installations and activations have been completed."
+msgstr "Alle instalaties en activaties zijn voltooid."
+
+#: ../lib/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeerd en Activeert Plugin  %1$s (%2$d/%3$d)"
+
+#: ../lib/class-tgm-plugin-activation.php:1959
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatie proces word gestart. Dit proces neemt wat tijd in beslag op "
+"bepaalde hostings, wees alstublieft geduldig."
+
+#: ../lib/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens de installatie van %1$s: <strong>%2$s</"
+"strong>."
+
+#: ../lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: ../lib/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geinstalleerd."
+
+#: ../lib/class-tgm-plugin-activation.php:1963
+msgid "All installations have been completed."
+msgstr "Alles instalaties zijn voltooid."
+
+#: ../lib/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instaleren Plugin %1$s (%2$d/%3$d)"
+
+#: ../lib/class-tgm-plugin-activation.php:2055
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het Dashboard"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Probeer Opnieuw"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr "Verwijder Embed"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Geen oEmbed gevonden voor %s. Meer informatie op"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr "Groep Toevoegen"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr "Verwijder Groep"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr "Rij Toevoegen"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:306
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768 ../lib/custom-nav.php:292
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:601
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr "Geen Termen"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:674
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr "Upload of Voeg een Bestand Toe"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:695
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr "Verwijder Afbeelding"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr "Bestand:"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr "Download"
+
+#: ../lib/cmb/init.php:258
+msgid "Clear"
+msgstr "Wissen"
+
+#: ../lib/cmb/init.php:259 ../lib/kad_shortcodes.php:314
+#: ../lib/kad_shortcodes.php:324 ../lib/kad_shortcodes.php:795
+#: ../lib/kad_shortcodes.php:805 ../lib/metaboxes.php:207
+#: ../lib/metaboxes.php:224 ../lib/metaboxes.php:235 ../lib/metaboxes.php:495
+msgid "Default"
+msgstr "Standaardwaarde"
+
+#: ../lib/cmb/init.php:260
+msgid "Select Color"
+msgstr "Selecteer Kleur"
+
+#: ../lib/cmb/init.php:261
+msgid "Current Color"
+msgstr "Huidige Kleur"
+
+#: ../lib/cmb/init.php:288
+msgid "Select / Deselect All"
+msgstr "Selecteer / Deselecteer Alles"
+
+#: ../lib/cmb/init.php:1177
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../lib/comments.php:38 ../templates/comment.php:5
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../lib/comments.php:43
+msgid "| (Edit)"
+msgstr "| (Bewerk)"
+
+#: ../lib/comments.php:49 ../templates/comment.php:11
+msgid "Your comment is awaiting moderation."
+msgstr "Uw commentaar wacht op moderatie."
+
+#. translators: %s: title of menu item which is invalid
+#: ../lib/custom-nav.php:158
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../lib/custom-nav.php:162
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../lib/custom-nav.php:186
+#, fuzzy
+msgid "Move up"
+msgstr "Verwijder Groep"
+
+#: ../lib/custom-nav.php:199
+msgid "Move down"
+msgstr ""
+
+#: ../lib/custom-nav.php:201 ../lib/custom-nav.php:203
+#, fuzzy
+msgid "Edit Menu Item"
+msgstr "Virtue: Afbeelding Menu Item"
+
+#: ../lib/custom-nav.php:212
+msgid "URL"
+msgstr "URL"
+
+#: ../lib/custom-nav.php:219
+#, fuzzy
+msgid "Navigation Label"
+msgstr "Mobiele navigatie"
+
+#: ../lib/custom-nav.php:225
+msgid "Title Attribute"
+msgstr ""
+
+#: ../lib/custom-nav.php:232
+#, fuzzy
+msgid "Open link in a new window/tab"
+msgstr "Open Link in Nieuw Tabblad/Scherm"
+
+#: ../lib/custom-nav.php:237
+#, fuzzy
+msgid "CSS Classes (optional)"
+msgstr "Afbeeldings Link (Optioneel)"
+
+#: ../lib/custom-nav.php:243
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../lib/custom-nav.php:249 ../lib/kad_shortcodes.php:671
+#: ../lib/premium_widgets.php:419 ../lib/premium_widgets.php:796
+msgid "Description"
+msgstr "Beschrijving"
+
+#: ../lib/custom-nav.php:251
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../lib/custom-nav.php:260
+msgid "Enable Fullwidth Sub-Menu"
+msgstr ""
+
+#: ../lib/custom-nav.php:265
+#, fuzzy
+msgid "Submenu Number of Columns"
+msgstr "Aantal Berichten"
+
+#: ../lib/custom-nav.php:279
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../lib/custom-nav.php:293
+msgid "Cancel"
+msgstr ""
+
+#: ../lib/custom-woocommerce.php:57 ../lib/custom-woocommerce.php:64
+#: ../lib/metaboxes.php:517
+msgid "Product Video"
+msgstr "Produkt Video"
+
+#: ../lib/custom-woocommerce.php:161 ../templates/header-topbar.php:39
+msgid "View your shopping cart"
+msgstr "Bekijk uw winkelwagen"
+
+#: ../lib/custom-woocommerce.php:162 ../templates/header-topbar.php:40
+msgid "Your Cart"
+msgstr "Jouw winkelwagen"
+
+#: ../lib/custom-woocommerce.php:176 ../lib/custom-woocommerce.php:195
+#: ../lib/custom-woocommerce.php:215
+msgid "Custom Tab"
+msgstr "Aangepast Tabblad"
+
+#: ../lib/custom.php:105
+msgid "Padding Top"
+msgstr "Padding Boven"
+
+#: ../lib/custom.php:111
+msgid "Padding Bottom"
+msgstr "Padding Ondder"
+
+#: ../lib/custom.php:117
+#, fuzzy
+msgid "Padding Left"
+msgstr "Padding Boven"
+
+#: ../lib/custom.php:123
+#, fuzzy
+msgid "Padding Right"
+msgstr "Padding Boven"
+
+#: ../lib/custom.php:129
+msgid "Background Image"
+msgstr "Achtergrond Afbeelding"
+
+#: ../lib/custom.php:135
+msgid "Background Image Position"
+msgstr "Achtergrond Afbeelding Positie"
+
+#: ../lib/custom.php:141
+msgid "Left Top"
+msgstr "Linksboven"
+
+#: ../lib/custom.php:142
+msgid "Left Center"
+msgstr "Links Midden"
+
+#: ../lib/custom.php:143
+msgid "Left Bottom"
+msgstr "Linksonder"
+
+#: ../lib/custom.php:144
+msgid "Center Top"
+msgstr "Middenboven"
+
+#: ../lib/custom.php:145
+msgid "Center Center"
+msgstr "Midden Midden"
+
+#: ../lib/custom.php:146
+msgid "Center Bottom"
+msgstr "Middenonder"
+
+#: ../lib/custom.php:147
+msgid "Right Top"
+msgstr "Rechtsboven"
+
+#: ../lib/custom.php:148
+msgid "Right Center"
+msgstr "Rechts midden"
+
+#: ../lib/custom.php:149
+msgid "Right Bottom"
+msgstr "Rechtsonder"
+
+#: ../lib/custom.php:153
+#, fuzzy
+msgid "Background Image Style"
+msgstr "Achtergrond Afbeelding"
+
+#: ../lib/custom.php:159
+#, fuzzy
+msgid "Cover"
+msgstr "Muisover"
+
+#: ../lib/custom.php:160
+#, fuzzy
+msgid "Parallax"
+msgstr "Brede Parallax"
+
+#: ../lib/custom.php:161
+#, fuzzy
+msgid "No Repeat"
+msgstr "no-repeat"
+
+#: ../lib/custom.php:162
+#, fuzzy
+msgid "Repeat"
+msgstr "repeat"
+
+#: ../lib/custom.php:163
+#, fuzzy
+msgid "Repeat-X"
+msgstr "repeat-x"
+
+#: ../lib/custom.php:164
+#, fuzzy
+msgid "Repeat-y"
+msgstr "repeat-y"
+
+#: ../lib/custom.php:168
+msgid "Border Top Size"
+msgstr "Bovenrand Grootte"
+
+#: ../lib/custom.php:174
+msgid "Border Top Color"
+msgstr "Bovenrand Kleur"
+
+#: ../lib/custom.php:180
+msgid "Border Bottom Size"
+msgstr "Onderrand Grootte"
+
+#: ../lib/custom.php:186
+msgid "Border Bottom Color"
+msgstr "Onderrand Kleur"
+
+#: ../lib/custom.php:308
+msgid "Example Page"
+msgstr "Voorbeeld Pagina"
+
+#: ../lib/custom.php:485
+msgid "Example Page 2"
+msgstr "Voorbeeld Pagina 2"
+
+#: ../lib/custom.php:534 ../lib/premium_widgets.php:214
+#: ../themeoptions/options.php:691
+msgid "Featured Products"
+msgstr "Aanbevolen Producten"
+
+#: ../lib/custom.php:551 ../templates/home/portfolio-carousel.php:2
+msgid "Featured Projects"
+msgstr "Aanbevolen Projecten"
+
+#: ../lib/custom.php:579
+msgid "Want To See More"
+msgstr "Wilt U Meer Zien"
+
+#: ../lib/custom.php:582
+msgid "Check out the newest demo site"
+msgstr "Bekijk de nieuwste demo site"
+
+#: ../lib/custom.php:1096 ../templates/entry-post-links.php:3
+msgid "Previous Post"
+msgstr "Vorige Bericht"
+
+#: ../lib/custom.php:1096 ../templates/entry-post-links.php:6
+msgid "Next Post"
+msgstr "Volgende Bericht"
+
+#: ../lib/custom.php:1197
+msgid "Occupation"
+msgstr "Beroep"
+
+#: ../lib/custom.php:1200
+msgid "Please enter your Occupation."
+msgstr "Vul uw beroep in."
+
+#: ../lib/custom.php:1207
+msgid "Please enter your Twitter username."
+msgstr "Vul uw twitter gebruikersnaam in."
+
+#: ../lib/custom.php:1214
+msgid "Please enter your Facebook url. (be sure to include http://)"
+msgstr "Vul uw Facebook url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1221
+msgid "Please enter your Google Plus url. (be sure to include http://)"
+msgstr "Vul uw Google Plus url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1228
+msgid "Please enter your Flickr url. (be sure to include http://)"
+msgstr "Vul uw Flick url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1235
+msgid "Please enter your Vimeo url. (be sure to include http://)"
+msgstr "Vul uw Vimeo url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1242
+msgid "Please enter your Linkedin url. (be sure to include http://)"
+msgstr "Vul uw Linkedin url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1249
+msgid "Please enter your Dribbble url. (be sure to include http://)"
+msgstr "Vul uw Flick Dribble in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1256
+msgid "Please enter your Pinterest url. (be sure to include http://)"
+msgstr "Vul uw Pinterest url in. (gebruik ook http://)"
+
+#: ../lib/custom.php:1263
+msgid "Please enter your Instagram url. (be sure to include http://)"
+msgstr "Vul uw Instagram url in. (gebruik ook http://)"
+
+#: ../lib/gallery_metabox.php:8
+msgid "Post Slider Images"
+msgstr "Bericht Slider Afbeeldingen"
+
+#: ../lib/gallery_metabox.php:9
+msgid "Portfolio Slider Images"
+msgstr "Portfolio Slider Afbeeldingen"
+
+#: ../lib/gallery_metabox.php:10
+msgid "Feature Page Slider Images"
+msgstr "Feature pagina Slider Afbeeldingen"
+
+#: ../lib/gallery_metabox.php:26 ../lib/gallery_metabox.php:91
+msgid "Remove image"
+msgstr "Verwijder Afbeelding"
+
+#: ../lib/gallery_metabox.php:37
+msgid "Add images"
+msgstr "Afbeelding toevoegen"
+
+#: ../lib/gallery_metabox.php:66
+msgid "Add Images to Gallery"
+msgstr "Afbeelding toevoegen aan Galerij"
+
+#: ../lib/gallery_metabox.php:68
+msgid "Add to gallery"
+msgstr "Voeg toe aan Galerij"
+
+#: ../lib/init.php:9
+msgid "Primary Navigation"
+msgstr "Hoofd navigatie"
+
+#: ../lib/init.php:10
+msgid "Secondary Navigation"
+msgstr "Tweede navigatie"
+
+#: ../lib/init.php:11
+msgid "Mobile Navigation"
+msgstr "Mobiele navigatie"
+
+#: ../lib/init.php:12
+msgid "Topbar Navigation"
+msgstr "Topbalk navigatie"
+
+#: ../lib/init.php:13
+msgid "Footer Navigation"
+msgstr "Footer navigatie"
+
+#: ../lib/kad_shortcodes.php:104 ../lib/kad_shortcodes.php:108
+#: ../lib/metaboxes.php:537 ../lib/metaboxes.php:652 ../lib/metaboxes.php:721
+#: ../lib/metaboxes.php:818
+msgid "Columns"
+msgstr "Kolommen"
+
+#: ../lib/kad_shortcodes.php:110
+msgid "Two Columns"
+msgstr "Twee Kolommen"
+
+#: ../lib/kad_shortcodes.php:111
+msgid "Two Columns offset Right"
+msgstr "Twee Kolommen Rechter Verschuiving"
+
+#: ../lib/kad_shortcodes.php:112
+msgid "Two Columns offset Left"
+msgstr "Twee Kolommen Linker Verschuiving"
+
+#: ../lib/kad_shortcodes.php:113
+msgid "Three Columns"
+msgstr "Drie Kolommen"
+
+#: ../lib/kad_shortcodes.php:114
+msgid "Four Columns"
+msgstr "Vier Kolommen"
+
+#: ../lib/kad_shortcodes.php:121
+msgid "Divider"
+msgstr "Scheider"
+
+#: ../lib/kad_shortcodes.php:125
+msgid "Style"
+msgstr "Stijl"
+
+#: ../lib/kad_shortcodes.php:128
+msgid "Line"
+msgstr "Lijn"
+
+#: ../lib/kad_shortcodes.php:129
+msgid "Dots"
+msgstr "Stippels"
+
+#: ../lib/kad_shortcodes.php:130
+msgid "Gradient"
+msgstr "Kleurverloop"
+
+#: ../lib/kad_shortcodes.php:135 ../lib/kad_shortcodes.php:157
+msgid "Size"
+msgstr "Grootte"
+
+#: ../lib/kad_shortcodes.php:147
+msgid "Color"
+msgstr "Kleur"
+
+#: ../lib/kad_shortcodes.php:153
+msgid "Spacing"
+msgstr "Tussenruimte"
+
+#: ../lib/kad_shortcodes.php:171
+msgid "Tabs"
+msgstr "Tabbladen"
+
+#: ../lib/kad_shortcodes.php:174
+msgid "Accordion"
+msgstr "Harmonica"
+
+#: ../lib/kad_shortcodes.php:177
+msgid "Pull-Quotes"
+msgstr "Blikvangercitaten"
+
+#: ../lib/kad_shortcodes.php:181 ../lib/kad_shortcodes.php:200
+#: ../lib/premium_widgets.php:698
+msgid "Align"
+msgstr "Uitlijning"
+
+#: ../lib/kad_shortcodes.php:184 ../lib/kad_shortcodes.php:203
+#: ../lib/premium_widgets.php:660
+msgid "Center"
+msgstr "Gecentreerd"
+
+#: ../lib/kad_shortcodes.php:185 ../lib/kad_shortcodes.php:204
+#: ../lib/premium_widgets.php:660
+msgid "Left"
+msgstr "Links"
+
+#: ../lib/kad_shortcodes.php:186 ../lib/kad_shortcodes.php:205
+#: ../lib/premium_widgets.php:660
+msgid "Right"
+msgstr "Rechts"
+
+#: ../lib/kad_shortcodes.php:191
+msgid "Pull-Quote Text"
+msgstr "Blikvangercitaat Tekst"
+
+#: ../lib/kad_shortcodes.php:196
+msgid "Block-Quotes"
+msgstr "Blok Citaten"
+
+#: ../lib/kad_shortcodes.php:210
+msgid "Block-Quote Text"
+msgstr "Blok Citaat Tekst"
+
+#: ../lib/kad_shortcodes.php:215
+msgid "Simple Box"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:219
+msgid "Padding Top (just a number)"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:224
+#, fuzzy
+msgid "Padding Bottom (just a number)"
+msgstr "Padding Ondder"
+
+#: ../lib/kad_shortcodes.php:229
+msgid "Padding Left (just a number)"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:234
+msgid "Padding Right (just a number)"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:239
+msgid "Min Height (just a number)"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:244 ../lib/kad_shortcodes.php:545
+#: ../lib/kad_shortcodes.php:648 ../themeoptions/options.php:2222
+msgid "Background Color"
+msgstr "Achtergrond Kleur"
+
+#: ../lib/kad_shortcodes.php:249
+#, fuzzy
+msgid "Background Color Opacity"
+msgstr "Achtergrond Kleur"
+
+#: ../lib/kad_shortcodes.php:252
+msgid "1.0"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:253
+msgid "0.9"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:254
+msgid "0.8"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:255
+msgid "0.7"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:256
+msgid "0.6"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:257
+msgid "0.5"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:258
+msgid "0.4"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:259
+msgid "0.3"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:260
+msgid "0.2"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:261
+msgid "0.1"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:262
+msgid "0.0"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:267
+#, fuzzy
+msgid "Content Text"
+msgstr "Footer Copyright Tekst"
+
+#: ../lib/kad_shortcodes.php:275
+msgid "Button"
+msgstr "Knop"
+
+#: ../lib/kad_shortcodes.php:279
+msgid "Button Text"
+msgstr "Knop Tekst"
+
+#: ../lib/kad_shortcodes.php:283
+msgid "Open Link In New Tab?"
+msgstr "Open Link in Nieuw Tabblad?"
+
+#: ../lib/kad_shortcodes.php:287
+msgid "Font Color"
+msgstr "Tekst Kleur"
+
+#: ../lib/kad_shortcodes.php:292 ../lib/kad_shortcodes.php:787
+msgid "Button Background Color"
+msgstr "Knop Achtergrond Kleur"
+
+#: ../lib/kad_shortcodes.php:297
+#, fuzzy
+msgid "Font Hover Color"
+msgstr "Tekst Kleur"
+
+#: ../lib/kad_shortcodes.php:302
+#, fuzzy
+msgid "Button Background Hover Color"
+msgstr "Knop Achtergrond Kleur"
+
+#: ../lib/kad_shortcodes.php:307 ../lib/kad_shortcodes.php:663
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../lib/kad_shortcodes.php:311 ../lib/kad_shortcodes.php:792
+msgid "Button Size"
+msgstr "Knop Grootte"
+
+#: ../lib/kad_shortcodes.php:315 ../lib/kad_shortcodes.php:796
+#: ../lib/premium_widgets.php:70
+msgid "Large"
+msgstr "Groot"
+
+#: ../lib/kad_shortcodes.php:316 ../lib/kad_shortcodes.php:797
+msgid "Small"
+msgstr "Klein"
+
+#: ../lib/kad_shortcodes.php:321 ../lib/kad_shortcodes.php:802
+msgid "Font Family"
+msgstr "Lettertype"
+
+#: ../lib/kad_shortcodes.php:325 ../lib/kad_shortcodes.php:806
+msgid "H1 Family"
+msgstr "H1 Lettertype"
+
+#: ../lib/kad_shortcodes.php:330
+msgid "Choose an Icon (optional)"
+msgstr "Kies een Icoon (optioneel)"
+
+#: ../lib/kad_shortcodes.php:336
+msgid "Google Map"
+msgstr "Google Kaart"
+
+#: ../lib/kad_shortcodes.php:340
+msgid "Address One"
+msgstr "Adres Een"
+
+#: ../lib/kad_shortcodes.php:344
+msgid "Address Title One"
+msgstr "Adres Titel Een"
+
+#: ../lib/kad_shortcodes.php:345 ../lib/kad_shortcodes.php:397
+#: ../lib/kad_shortcodes.php:406 ../lib/kad_shortcodes.php:415
+msgid "Displays in Popup e.g. = Business Name"
+msgstr "Toon in Pop-up b.v. = Bedrijfsnaam"
+
+#: ../lib/kad_shortcodes.php:349 ../lib/metaboxes.php:1203
+msgid "Map Height"
+msgstr "Kaart Hoogte"
+
+#: ../lib/kad_shortcodes.php:350 ../lib/kad_shortcodes.php:691
+#: ../lib/kad_shortcodes.php:727
+msgid "Just a number e.g. = 400"
+msgstr "Gewoon een nummer b.v. = 400"
+
+#: ../lib/kad_shortcodes.php:354 ../lib/premium_widgets.php:543
+msgid "Map Zoom"
+msgstr "Kaart Zoom"
+
+#: ../lib/kad_shortcodes.php:381 ../lib/metaboxes.php:1161
+#: ../lib/premium_widgets.php:539
+msgid "Map Type"
+msgstr "Kaart Type"
+
+#: ../lib/kad_shortcodes.php:384 ../lib/metaboxes.php:1166
+#: ../lib/premium_widgets.php:517
+msgid "ROADMAP"
+msgstr "WEGENKAART"
+
+#: ../lib/kad_shortcodes.php:385 ../lib/metaboxes.php:1167
+#: ../lib/premium_widgets.php:517
+msgid "HYBRID"
+msgstr "HYBRIDE"
+
+#: ../lib/kad_shortcodes.php:386 ../lib/metaboxes.php:1168
+#: ../lib/premium_widgets.php:517
+msgid "TERRAIN"
+msgstr "TERREIN"
+
+#: ../lib/kad_shortcodes.php:387 ../lib/metaboxes.php:1169
+#: ../lib/premium_widgets.php:517
+msgid "SATELLITE"
+msgstr "SATELLIET"
+
+#: ../lib/kad_shortcodes.php:392 ../lib/metaboxes.php:1209
+msgid "Address Two"
+msgstr "Adres Twee"
+
+#: ../lib/kad_shortcodes.php:396
+msgid "Address Title Two"
+msgstr "Adres Titel Twee"
+
+#: ../lib/kad_shortcodes.php:401 ../lib/metaboxes.php:1215
+msgid "Address Three"
+msgstr "Adress Drie"
+
+#: ../lib/kad_shortcodes.php:405
+msgid "Address Title Three"
+msgstr "Adres Titel Drie"
+
+#: ../lib/kad_shortcodes.php:410 ../lib/metaboxes.php:1221
+msgid "Address Four"
+msgstr "Adres Vier"
+
+#: ../lib/kad_shortcodes.php:414
+msgid "Address Title Four"
+msgstr "Adres Titel Vier"
+
+#: ../lib/kad_shortcodes.php:419 ../lib/metaboxes.php:1227
+msgid "Map Center"
+msgstr "Kaart Midden"
+
+#: ../lib/kad_shortcodes.php:420
+msgid "Defaults to Address One"
+msgstr "Standaard op Adres Een"
+
+#: ../lib/kad_shortcodes.php:426
+msgid "Icon"
+msgstr "Icoon"
+
+#: ../lib/kad_shortcodes.php:430 ../lib/kad_shortcodes.php:555
+#: ../lib/premium_widgets.php:403
+msgid "Choose an Icon"
+msgstr "Kies een Icoon"
+
+#: ../lib/kad_shortcodes.php:435 ../lib/kad_shortcodes.php:560
+msgid "Icon Size"
+msgstr "Icoon Grootte"
+
+#: ../lib/kad_shortcodes.php:518
+msgid "Icon Color"
+msgstr "Icoon Kleur"
+
+#: ../lib/kad_shortcodes.php:523
+msgid "Icon Float"
+msgstr "Icoon Float"
+
+#: ../lib/kad_shortcodes.php:533 ../lib/premium_widgets.php:435
+msgid "Icon Style"
+msgstr "Icoon Stijl"
+
+#: ../lib/kad_shortcodes.php:537 ../lib/premium_widgets.php:389
+msgid "Circle"
+msgstr "Cirkel"
+
+#: ../lib/kad_shortcodes.php:538
+msgid "Small Circle"
+msgstr "Kleine Cirkel"
+
+#: ../lib/kad_shortcodes.php:539 ../lib/premium_widgets.php:389
+msgid "Square"
+msgstr "Vierkant"
+
+#: ../lib/kad_shortcodes.php:540
+msgid "Small Square"
+msgstr "Klein Vierkant"
+
+#: ../lib/kad_shortcodes.php:551
+msgid "Icon Box"
+msgstr "Icoon Box"
+
+#: ../lib/kad_shortcodes.php:643
+msgid "Icon/Font Color"
+msgstr "Icoon/Tekst Kleur"
+
+#: ../lib/kad_shortcodes.php:653
+msgid "Hover Icon/Font Color"
+msgstr "Muisover Icoon/Tekst Kleur"
+
+#: ../lib/kad_shortcodes.php:658
+msgid "Hover Background Color"
+msgstr "Muisover Achtergrond Kleur"
+
+#: ../lib/kad_shortcodes.php:667 ../lib/metaboxes.php:444
+#: ../lib/metaboxes.php:573 ../themeoptions/options.php:992
+#: ../themeoptions/options.php:1122
+msgid "Title"
+msgstr "Titel"
+
+#: ../lib/kad_shortcodes.php:677
+msgid "YouTube"
+msgstr "Youtube"
+
+#: ../lib/kad_shortcodes.php:681 ../lib/kad_shortcodes.php:717
+msgid "Video URL"
+msgstr "Video URL"
+
+#: ../lib/kad_shortcodes.php:685 ../lib/kad_shortcodes.php:721
+msgid "Video Width"
+msgstr "Video Breedte"
+
+#: ../lib/kad_shortcodes.php:686 ../lib/kad_shortcodes.php:722
+msgid "Just a number e.g. = 600"
+msgstr "Gewoon een nummer b.v. = 600"
+
+#: ../lib/kad_shortcodes.php:690 ../lib/kad_shortcodes.php:726
+msgid "Video Height"
+msgstr "Video Hoogte"
+
+#: ../lib/kad_shortcodes.php:695 ../lib/kad_shortcodes.php:731
+msgid "Video Max Width"
+msgstr "Video Maximale Breedte"
+
+#: ../lib/kad_shortcodes.php:696 ../lib/kad_shortcodes.php:732
+msgid "Keeps the responsive video from getting too large"
+msgstr "Weerhoud de responsieve video er van te groot te worden"
+
+#: ../lib/kad_shortcodes.php:700
+msgid "Hide Controls"
+msgstr "Verberg Bediening"
+
+#: ../lib/kad_shortcodes.php:704 ../lib/kad_shortcodes.php:736
+msgid "Auto Play"
+msgstr "Automatisch Afspelen"
+
+#: ../lib/kad_shortcodes.php:708
+msgid "Modest Branding?"
+msgstr "Bescheiden Branding?"
+
+#: ../lib/kad_shortcodes.php:713
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../lib/kad_shortcodes.php:748 ../lib/premium_widgets.php:214
+#: ../lib/widgets.php:1108
+msgid "Blog Posts"
+msgstr "Blog Berichten"
+
+#: ../lib/kad_shortcodes.php:752
+msgid "Order By"
+msgstr "Sorteer Op"
+
+#: ../lib/kad_shortcodes.php:755 ../lib/metaboxes.php:445
+#: ../lib/metaboxes.php:574 ../lib/premium_widgets.php:217
+#: ../themeoptions/options.php:992 ../themeoptions/options.php:1122
+msgid "Date"
+msgstr "Datum"
+
+#: ../lib/kad_shortcodes.php:756 ../lib/metaboxes.php:446
+#: ../lib/metaboxes.php:575 ../lib/premium_widgets.php:217
+#: ../themeoptions/options.php:992 ../themeoptions/options.php:1122
+msgid "Random"
+msgstr "Willekeurig"
+
+#: ../lib/kad_shortcodes.php:757 ../lib/metaboxes.php:443
+#: ../lib/metaboxes.php:572 ../lib/premium_widgets.php:217
+#: ../themeoptions/options.php:992 ../themeoptions/options.php:1122
+msgid "Menu Order"
+msgstr "Menu Volgorde"
+
+#: ../lib/kad_shortcodes.php:763
+msgid "Category"
+msgstr "Categorie"
+
+#: ../lib/kad_shortcodes.php:768
+msgid "Number of Posts"
+msgstr "Aantal Berichten"
+
+#: ../lib/kad_shortcodes.php:774
+msgid "Modal"
+msgstr "Modal"
+
+#: ../lib/kad_shortcodes.php:778
+msgid "Button Title"
+msgstr "Knop Titel"
+
+#: ../lib/kad_shortcodes.php:782
+msgid "Button Font Color"
+msgstr "Knop Tekst Kleur"
+
+#: ../lib/kad_shortcodes.php:811
+msgid "Modal Title"
+msgstr "Modal Titel"
+
+#: ../lib/kad_shortcodes.php:815
+msgid "Modal Content"
+msgstr "Modal Content"
+
+#: ../lib/kad_shortcodes.php:820
+#, fuzzy
+msgid "Testimonial Form"
+msgstr "Testimoniu"
+
+#: ../lib/kad_shortcodes.php:824
+#, fuzzy
+msgid "Show Location Field?"
+msgstr "Laat Ondertitel zien?"
+
+#: ../lib/kad_shortcodes.php:828
+msgid "Show Position Field?"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:832
+msgid "Show Link Field?"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:836
+msgid "Name Field Label"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:837
+#, fuzzy
+msgid "Default: Name"
+msgstr "Standaardwaarde"
+
+#: ../lib/kad_shortcodes.php:841
+#, fuzzy
+msgid "Testimonial Field Label"
+msgstr "Testimoniu"
+
+#: ../lib/kad_shortcodes.php:842
+#, fuzzy
+msgid "Default: Testimonial"
+msgstr "Nieuw Testimonium"
+
+#: ../lib/kad_shortcodes.php:846
+msgid "Location Field Label"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:847
+msgid "Default: Location - Optional"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:851
+msgid "Position Field Label"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:852
+msgid "Default: Position or Company - optional"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:856
+msgid "Link Field Label"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:857
+#, fuzzy
+msgid "Default: Link - optional"
+msgstr "Afbeeldings Link (Optioneel)"
+
+#: ../lib/kad_shortcodes.php:861
+msgid "Submit Field Label"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:862
+#, fuzzy
+msgid "Default: Submit"
+msgstr "Standaardwaarde"
+
+#: ../lib/kad_shortcodes.php:866
+msgid "Success Message"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:867
+msgid ""
+"Default: Thank you for submitting your testimonial! It is now awaiting "
+"approval from the site admnistator. Thank you!"
+msgstr ""
+
+#: ../lib/kad_shortcodes.php:877
+msgid "Virtue Shortcodes"
+msgstr "Virtue Shortcodes"
+
+#: ../lib/kad_shortcodes.php:878
+msgid "Choose a shortcode"
+msgstr "Kies een shortcode"
+
+#: ../lib/kad_shortcodes.php:904
+msgid "Add Shortcode"
+msgstr "Shortcode Toevoegen"
+
+#: ../lib/metaboxes.php:24 ../lib/metaboxes.php:584 ../lib/metaboxes.php:670
+#: ../lib/metaboxes.php:754 ../lib/metaboxes.php:842 ../lib/metaboxes.php:993
+#: ../lib/metaboxes.php:1062 ../lib/portfolio_shortcodes.php:31
+#: ../page-portfolio.php:37 ../page-staff-grid.php:85
+#: ../templates/home/portfolio-full.php:26
+#: ../woocommerce/archive-product.php:93
+msgid "All"
+msgstr "Alle"
+
+#: ../lib/metaboxes.php:39
+msgid "All Blog Posts"
+msgstr "Alle Blog Berichten"
+
+#: ../lib/metaboxes.php:119
+msgid "Page Title and Subtitle"
+msgstr "Pagina Titel en Ondertitel"
+
+#: ../lib/metaboxes.php:126 ../lib/premium_widgets.php:686
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: ../lib/metaboxes.php:127
+msgid "Subtitle will go below page title"
+msgstr "Ondertitel staat onder de pagina titel"
+
+#: ../lib/metaboxes.php:135
+msgid "Standard Post Options"
+msgstr "Standaart Bericht Opties"
+
+#: ../lib/metaboxes.php:144
+msgid "Head Content"
+msgstr "Header Content"
+
+#: ../lib/metaboxes.php:149 ../lib/metaboxes.php:175
+msgid "Site Default"
+msgstr "Website Standaartwaarde"
+
+#: ../lib/metaboxes.php:150 ../lib/metaboxes.php:287
+#: ../lib/premium_widgets.php:389 ../themeoptions/options.php:404
+#: ../themeoptions/options.php:548 ../themeoptions/options.php:1443
+#: ../themeoptions/options.php:1887
+msgid "None"
+msgstr "Geen"
+
+#: ../lib/metaboxes.php:151 ../lib/metaboxes.php:278
+#, fuzzy
+msgid "Image Slider (Flex Slider)"
+msgstr "Afbeelding Carrousel Slider"
+
+#: ../lib/metaboxes.php:152 ../lib/metaboxes.php:280
+#: ../themeoptions/options.php:404 ../themeoptions/options.php:1887
+msgid "Image Carousel"
+msgstr "Afbeelding Carrousel"
+
+#: ../lib/metaboxes.php:153 ../lib/metaboxes.php:181 ../lib/metaboxes.php:286
+#: ../lib/metaboxes.php:910 ../themeoptions/options.php:404
+#: ../themeoptions/options.php:548 ../themeoptions/options.php:1887
+msgid "Video"
+msgstr "Video"
+
+#: ../lib/metaboxes.php:154 ../lib/metaboxes.php:277 ../lib/metaboxes.php:324
+#: ../lib/metaboxes.php:911 ../themeoptions/options.php:1887
+msgid "Image"
+msgstr "Afbeelding"
+
+#: ../lib/metaboxes.php:158 ../lib/metaboxes.php:297 ../lib/metaboxes.php:941
+msgid "Max Image/Slider Height"
+msgstr "Maximale Afbeelding/Slider Hoogte"
+
+#: ../lib/metaboxes.php:159 ../lib/metaboxes.php:942
+msgid "Default is: 400 (Note: just input number, example: 350)"
+msgstr "Standaardwaarde is: 400 (Let op: vul een nummer is, bijvoorbeeld 350)"
+
+#: ../lib/metaboxes.php:164 ../lib/metaboxes.php:303 ../lib/metaboxes.php:947
+msgid "Max Image/Slider Width"
+msgstr "Maximale Afbeelding/Slider Breedte"
+
+#: ../lib/metaboxes.php:165
+msgid ""
+"Default is: 770 or 1140 on fullwidth posts (Note: just input number, "
+"example: 650, does not apply to carousel slider)"
+msgstr ""
+"Standaardwaarde is: 770 of 1440 bij berichten met volledige breedte (Let op: "
+"Vul gewoon een nummer in, bijvoorbeeld: 650, werkt niet voor Carrousel slider"
+
+#: ../lib/metaboxes.php:170
+msgid "Post Summary"
+msgstr "Bericht samenvatting"
+
+#: ../lib/metaboxes.php:176 ../themeoptions/options.php:1872
+msgid "Text"
+msgstr "Tekst"
+
+#: ../lib/metaboxes.php:177 ../themeoptions/options.php:1872
+msgid "Portrait Image"
+msgstr "Portretstand Afbeelding"
+
+#: ../lib/metaboxes.php:178 ../themeoptions/options.php:1872
+msgid "Landscape Image"
+msgstr "Landschapstand Afbeelding"
+
+#: ../lib/metaboxes.php:179 ../themeoptions/options.php:1872
+msgid "Portrait Image Slider"
+msgstr "Portret Afbeelding Slider"
+
+#: ../lib/metaboxes.php:180 ../themeoptions/options.php:1872
+msgid "Landscape Image Slider"
+msgstr "Landschaps Afbeelding Slider"
+
+#: ../lib/metaboxes.php:185 ../lib/metaboxes.php:963
+msgid "If Video Post"
+msgstr "ALs het een Video Post betreft"
+
+#: ../lib/metaboxes.php:186 ../lib/metaboxes.php:390 ../lib/metaboxes.php:518
+#: ../lib/metaboxes.php:964
+msgid "Place Embed Code Here, works with youtube, vimeo..."
+msgstr "Plaats de Embed Code hier, werkt met Youtube, Vimeo..."
+
+#: ../lib/metaboxes.php:195
+msgid "Post Options"
+msgstr "Bericht Opties"
+
+#: ../lib/metaboxes.php:202 ../lib/metaboxes.php:490 ../lib/metaboxes.php:1022
+#: ../lib/metaboxes.php:1092 ../lib/metaboxes.php:1243
+msgid "Display Sidebar?"
+msgstr "Toon Zijpaneel?"
+
+#: ../lib/metaboxes.php:203 ../lib/metaboxes.php:491 ../lib/metaboxes.php:1023
+#: ../lib/metaboxes.php:1093 ../lib/metaboxes.php:1244
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr "Kies voor lay-out volledige breedte of met zijnpaneel"
+
+#: ../lib/metaboxes.php:208 ../lib/metaboxes.php:226 ../lib/metaboxes.php:314
+#: ../lib/metaboxes.php:424 ../lib/metaboxes.php:497 ../lib/metaboxes.php:555
+#: ../lib/metaboxes.php:607 ../lib/metaboxes.php:636 ../lib/metaboxes.php:693
+#: ../lib/metaboxes.php:745 ../lib/metaboxes.php:777 ../lib/metaboxes.php:958
+#: ../lib/metaboxes.php:1027 ../lib/metaboxes.php:1098
+#: ../lib/metaboxes.php:1124 ../lib/metaboxes.php:1140
+#: ../lib/metaboxes.php:1151 ../lib/metaboxes.php:1248
+msgid "Yes"
+msgstr "Ja"
+
+#: ../lib/metaboxes.php:209 ../lib/metaboxes.php:225 ../lib/metaboxes.php:236
+#: ../lib/metaboxes.php:315 ../lib/metaboxes.php:423 ../lib/metaboxes.php:496
+#: ../lib/metaboxes.php:556 ../lib/metaboxes.php:608 ../lib/metaboxes.php:635
+#: ../lib/metaboxes.php:694 ../lib/metaboxes.php:744 ../lib/metaboxes.php:778
+#: ../lib/metaboxes.php:959 ../lib/metaboxes.php:1028
+#: ../lib/metaboxes.php:1097 ../lib/metaboxes.php:1125
+#: ../lib/metaboxes.php:1141 ../lib/metaboxes.php:1150
+#: ../lib/metaboxes.php:1249
+msgid "No"
+msgstr "Nee"
+
+#: ../lib/metaboxes.php:213 ../lib/metaboxes.php:501 ../lib/metaboxes.php:1032
+#: ../lib/metaboxes.php:1102 ../lib/metaboxes.php:1253
+#: ../lib/metaboxes.php:1271
+msgid "Choose Sidebar"
+msgstr "Kies Zijpaneel"
+
+#: ../lib/metaboxes.php:219
+msgid "Author Info"
+msgstr "Auteur Informatie"
+
+#: ../lib/metaboxes.php:220
+msgid "Display an author info box?"
+msgstr "Laat Auteur informatie box zien?"
+
+#: ../lib/metaboxes.php:230
+msgid "Posts Carousel"
+msgstr "Berichten Carrousel"
+
+#: ../lib/metaboxes.php:231
+msgid "Display a carousel with similar or recent posts?"
+msgstr "Toon een Carrousel met vergelijkbaare of recente berichten?"
+
+#: ../lib/metaboxes.php:237 ../themeoptions/options.php:1903
+msgid "Yes - Display Recent Posts"
+msgstr "Ja - Laat recente berichten zien"
+
+#: ../lib/metaboxes.php:238 ../themeoptions/options.php:1903
+msgid "Yes - Display Similar Posts"
+msgstr "Ja - Laat vergelijkbare berichten zien"
+
+#: ../lib/metaboxes.php:243 ../lib/metaboxes.php:412
+msgid "Carousel Title"
+msgstr "Carrousel Titel"
+
+#: ../lib/metaboxes.php:244
+msgid "ex. Similar Posts"
+msgstr "ex. Vergelijkbare Berichten"
+
+#: ../lib/metaboxes.php:253
+msgid "Portfolio Post Options"
+msgstr "Portfolio Bericht Opties"
+
+#: ../lib/metaboxes.php:261
+msgid "Project Layout"
+msgstr "Project Lay-out"
+
+#: ../lib/metaboxes.php:266
+msgid "Beside"
+msgstr "Naast"
+
+#: ../lib/metaboxes.php:267
+msgid "Above"
+msgstr "Boven"
+
+#: ../lib/metaboxes.php:268
+msgid "Three Rows"
+msgstr "Drie Rijen"
+
+#: ../lib/metaboxes.php:272
+msgid "Project Options"
+msgstr "Project Opties"
+
+#: ../lib/metaboxes.php:279 ../lib/metaboxes.php:905
+#: ../themeoptions/options.php:404
+msgid "Carousel Slider"
+msgstr "Carrousel Slider"
+
+#: ../lib/metaboxes.php:281
+msgid "Rev Slider"
+msgstr "Rev Slider"
+
+#: ../lib/metaboxes.php:282 ../lib/metaboxes.php:908
+#: ../themeoptions/options.php:404
+msgid "Kadence Slider"
+msgstr "Kadence Slider"
+
+#: ../lib/metaboxes.php:283 ../lib/metaboxes.php:909
+#: ../themeoptions/options.php:548
+msgid "Cyclone Slider"
+msgstr "Cyclone Slider"
+
+#: ../lib/metaboxes.php:284
+msgid "Image List"
+msgstr "Afbeelding Lijst"
+
+#: ../lib/metaboxes.php:285
+msgid "Image List Style 2"
+msgstr "Afbeelding Lijst Stijl 2"
+
+#: ../lib/metaboxes.php:291
+msgid "If Revolution, Cyclone or Kadence Slider"
+msgstr "Als het Revolution, Cyclone of Kadence Slider betreft"
+
+#: ../lib/metaboxes.php:292
+msgid "Paste Slider Shortcode here"
+msgstr "Plak Slider Shortcode hier"
+
+#: ../lib/metaboxes.php:298
+msgid "Default is: 450 (Note: just input number, example: 350)"
+msgstr "Standaardwaarde is: 450 (Let op: vul een nummer in, bijvoorbeeld: 350)"
+
+#: ../lib/metaboxes.php:304
+msgid ""
+"Default is: 670 or 1140 on above or three row layouts (Note: just input "
+"number, example: 650)"
+msgstr ""
+"Standaardwaarde is: 670 of 1140 voor boven of drie rijen lay-out (Let opt: "
+"vul gewoon een nummer in, bijvoorbeeld: 650)"
+
+#: ../lib/metaboxes.php:309
+msgid "Auto Play Slider?"
+msgstr "Slider Automatisch Afspelen?"
+
+#: ../lib/metaboxes.php:319
+msgid "Project Summary"
+msgstr "Project Samenvatting"
+
+#: ../lib/metaboxes.php:325 ../themeoptions/options.php:1887
+msgid "Image Slider"
+msgstr "Afbeelding Slider"
+
+#: ../lib/metaboxes.php:329
+msgid "Value 01 Title"
+msgstr "Waarde 01 Titel"
+
+#: ../lib/metaboxes.php:330
+msgid "ex. Project Type:"
+msgstr "b.v. Project Type:"
+
+#: ../lib/metaboxes.php:335
+msgid "Value 01 Description"
+msgstr "Waarde 01 Beschrijving"
+
+#: ../lib/metaboxes.php:336
+msgid "ex. Character Illustration"
+msgstr "b.v. Karakter Illustatie"
+
+#: ../lib/metaboxes.php:341
+msgid "Value 02 Title"
+msgstr "Waarde 02 Titel"
+
+#: ../lib/metaboxes.php:342
+msgid "ex. Skills Needed:"
+msgstr "b.v. Benodigde Vaardigheden: "
+
+#: ../lib/metaboxes.php:347
+msgid "Value 02 Description"
+msgstr "Waarde 02 Beschrijving"
+
+#: ../lib/metaboxes.php:348
+msgid "ex. Photoshop, Illustrator"
+msgstr "b.v. Photoshop, Illustrator"
+
+#: ../lib/metaboxes.php:353
+msgid "Value 03 Title"
+msgstr "Waarde 03 Titel"
+
+#: ../lib/metaboxes.php:354
+msgid "ex. Customer:"
+msgstr "b.v. Klant:"
+
+#: ../lib/metaboxes.php:359
+msgid "Value 03 Description"
+msgstr "Waarde 03 Beschrijving"
+
+#: ../lib/metaboxes.php:360
+msgid "ex. Example Inc"
+msgstr "b.v. Voorbeeld BV"
+
+#: ../lib/metaboxes.php:365
+msgid "Value 04 Title"
+msgstr "Waarde 04 Titel"
+
+#: ../lib/metaboxes.php:366
+msgid "ex. Project Year:"
+msgstr "b.v. Project Jaar:"
+
+#: ../lib/metaboxes.php:371
+msgid "Value 04 Description"
+msgstr "Waarde 04 Beschrijving"
+
+#: ../lib/metaboxes.php:372
+msgid "ex. 2013"
+msgstr "b.v. 2013"
+
+#: ../lib/metaboxes.php:377
+msgid "External Website"
+msgstr "Externe Website"
+
+#: ../lib/metaboxes.php:378
+msgid "ex. Website:"
+msgstr "ex. Website:"
+
+#: ../lib/metaboxes.php:383
+msgid "Website Address"
+msgstr "Website Adres"
+
+#: ../lib/metaboxes.php:384
+msgid "ex. http://www.example.com"
+msgstr "b.v. http://www.voorbeeld.nl"
+
+#: ../lib/metaboxes.php:389
+msgid "If Video Project"
+msgstr "Als het een Video Project betreft"
+
+#: ../lib/metaboxes.php:395
+msgid "Choose Portfolio Parent Page"
+msgstr "Kies Portfolio Hoofd Pagina"
+
+#: ../lib/metaboxes.php:405
+msgid "Bottom Carousel Options"
+msgstr "Bodem Carrousel Opties"
+
+#: ../lib/metaboxes.php:413
+msgid "ex. Similar Projects"
+msgstr "b.v."
+
+#: ../lib/metaboxes.php:418
+msgid "Bottom Portfolio Carousel"
+msgstr "Bodem Portfolio Carrousel"
+
+#: ../lib/metaboxes.php:419
+msgid "Display a carousel with portfolio items below project?"
+msgstr ""
+"Laat een carrousel zien met vergelijkbare portfolio items onder het project?"
+
+#: ../lib/metaboxes.php:428
+msgid "Carousel Items"
+msgstr "Carousel Items"
+
+#: ../lib/metaboxes.php:433
+msgid "All Portfolio Posts"
+msgstr "Alle Portfolio Berichten"
+
+#: ../lib/metaboxes.php:434
+msgid "Only of same Portfolio Type"
+msgstr "Alleen zelde Portfolio Types"
+
+#: ../lib/metaboxes.php:438
+msgid "Carousel Order"
+msgstr "Carrousel Order"
+
+#: ../lib/metaboxes.php:455
+msgid "Testimonial Options"
+msgstr "Testimonium Opties"
+
+#: ../lib/metaboxes.php:462
+msgid "Location"
+msgstr "Locatie"
+
+#: ../lib/metaboxes.php:463
+msgid "ex: New York, NY"
+msgstr "b.v.: Amsterdam"
+
+#: ../lib/metaboxes.php:468
+msgid "Client Title"
+msgstr "Client Titel"
+
+#: ../lib/metaboxes.php:469
+msgid "ex: CEO of Example Inc"
+msgstr "b.v.: CEO bij Voorbeeld BV"
+
+#: ../lib/metaboxes.php:474
+msgid "Link"
+msgstr "Link"
+
+#: ../lib/metaboxes.php:475
+msgid "ex: http://www.example.com"
+msgstr "b.v.: http://www.voorbeeld.nl"
+
+#: ../lib/metaboxes.php:483
+msgid "Product Sidebar Options"
+msgstr "Product Zijpaneel Opties"
+
+#: ../lib/metaboxes.php:510 ../themeoptions/options.php:1632
+msgid "Product Video Tab"
+msgstr "Product Video Tabblad"
+
+#: ../lib/metaboxes.php:528
+msgid "Portfolio Page Options"
+msgstr "Portfolio Pagina Opties"
+
+#: ../lib/metaboxes.php:542 ../lib/metaboxes.php:657 ../lib/metaboxes.php:728
+#: ../lib/metaboxes.php:823 ../lib/metaboxes.php:1086
+#: ../themeoptions/options.php:1183 ../themeoptions/options.php:1202
+#: ../themeoptions/options.php:1342 ../themeoptions/options.php:1931
+msgid "Four Column"
+msgstr "Vier Kolommen"
+
+#: ../lib/metaboxes.php:543 ../lib/metaboxes.php:658 ../lib/metaboxes.php:727
+#: ../lib/metaboxes.php:824 ../lib/metaboxes.php:1087
+#: ../themeoptions/options.php:1183 ../themeoptions/options.php:1202
+#: ../themeoptions/options.php:1342 ../themeoptions/options.php:1931
+msgid "Three Column"
+msgstr "Drie Kolommen"
+
+#: ../lib/metaboxes.php:544 ../lib/metaboxes.php:659 ../lib/metaboxes.php:726
+#: ../lib/metaboxes.php:825 ../lib/metaboxes.php:1088
+#: ../themeoptions/options.php:1183 ../themeoptions/options.php:1202
+#: ../themeoptions/options.php:1342 ../themeoptions/options.php:1931
+msgid "Two Column"
+msgstr "Twee Kolommen"
+
+#: ../lib/metaboxes.php:545 ../lib/metaboxes.php:660
+#: ../themeoptions/options.php:1202 ../themeoptions/options.php:1342
+msgid "Five Column"
+msgstr "Vijf Kolommen"
+
+#: ../lib/metaboxes.php:546 ../lib/metaboxes.php:661
+#: ../themeoptions/options.php:1202 ../themeoptions/options.php:1342
+msgid "Six Column"
+msgstr "Zes Kolommen"
+
+#: ../lib/metaboxes.php:550 ../lib/metaboxes.php:739
+msgid "Filter?"
+msgstr "Filteren?"
+
+#: ../lib/metaboxes.php:560
+msgid "Portfolio Work Types"
+msgstr "Portfolio Werk Types"
+
+#: ../lib/metaboxes.php:561
+msgid "You can have filterable portfolios with one work type if has children"
+msgstr ""
+"U kan filterbare portfolios met een werk type hebben als het onderliggende "
+"(children) betreft"
+
+#: ../lib/metaboxes.php:567
+msgid "Order Items By"
+msgstr "Sorteer Items Op"
+
+#: ../lib/metaboxes.php:579 ../lib/metaboxes.php:665 ../lib/metaboxes.php:749
+#: ../lib/metaboxes.php:837
+msgid "Items per Page"
+msgstr "Items per Pagina"
+
+#: ../lib/metaboxes.php:580 ../lib/metaboxes.php:666 ../lib/metaboxes.php:750
+msgid "How many portfolio items per page"
+msgstr "Hoeveel portfolio items per pagina"
+
+#: ../lib/metaboxes.php:602 ../lib/metaboxes.php:688 ../lib/metaboxes.php:772
+msgid "Crop images to equal height"
+msgstr "Afbeeldingen bijsnijden tot gelijke hoogte"
+
+#: ../lib/metaboxes.php:603 ../lib/metaboxes.php:689 ../lib/metaboxes.php:773
+msgid "If cropped rows will be equal"
+msgstr "Als bijgesneden rijden gelijk zullen zijn"
+
+#: ../lib/metaboxes.php:612 ../lib/metaboxes.php:698 ../lib/metaboxes.php:782
+msgid "Set image height if cropping"
+msgstr "Geef afbeeldingshoofte op bij bijsijding"
+
+#: ../lib/metaboxes.php:613 ../lib/metaboxes.php:699
+msgid "Default is 1:1 ratio (Note: just input number, example: 350)"
+msgstr "Standaart is 1:1 ratio (Let op: geef een nummer op, bijvoorbeeld: 350)"
+
+#: ../lib/metaboxes.php:618
+msgid "Display Item Work Types"
+msgstr "Toon Item Werk Types"
+
+#: ../lib/metaboxes.php:624 ../lib/metaboxes.php:704
+msgid "Display Item Excerpt"
+msgstr "Toon Item Samenvatting"
+
+#: ../lib/metaboxes.php:630
+msgid "Add Lightbox link in the top right of each item"
+msgstr "Voeg Lightbox link toe rechtsbovenin elk item"
+
+#: ../lib/metaboxes.php:643
+#, fuzzy
+msgid "Portfolio Category Page Options"
+msgstr "Portfolio Categorie Paginas"
+
+#: ../lib/metaboxes.php:713
+msgid "Staff Page Options"
+msgstr "Personeel Pagina Opties"
+
+#: ../lib/metaboxes.php:732
+msgid "Limit to Group"
+msgstr "Limiteer tot Groep"
+
+#: ../lib/metaboxes.php:783
+msgid "Default is 16:9 ratio (Note: just input number, example: 350)"
+msgstr ""
+"Standaartwaarde is 16:9 ratio (Let op: geef een nummer op, bijvoorbeeld: 350)"
+
+#: ../lib/metaboxes.php:788
+msgid "Use Staff Excerpt or Content?"
+msgstr ""
+
+#: ../lib/metaboxes.php:792
+#, fuzzy
+msgid "Content"
+msgstr "Tabblad Content"
+
+#: ../lib/metaboxes.php:793
+#, fuzzy
+msgid "Excerpt"
+msgstr "Bericht Samenvatting Lengte"
+
+#: ../lib/metaboxes.php:797
+msgid "Images and title link?"
+msgstr ""
+
+#: ../lib/metaboxes.php:801
+#, fuzzy
+msgid "No, no link"
+msgstr "op Linkedin"
+
+#: ../lib/metaboxes.php:802
+msgid "Yes, link to single post"
+msgstr ""
+
+#: ../lib/metaboxes.php:803
+#, fuzzy
+msgid "Image link to Lightbox"
+msgstr "Afbeeldings Menu Hoogte"
+
+#: ../lib/metaboxes.php:810
+msgid "Testimonial Page Options"
+msgstr "Testimonium Pagina Opties"
+
+#: ../lib/metaboxes.php:826 ../themeoptions/options.php:1202
+msgid "One Column"
+msgstr "Een Kolom"
+
+#: ../lib/metaboxes.php:830 ../lib/post-types.php:98
+msgid "Testimonial Group"
+msgstr "Testimonium Groep"
+
+#: ../lib/metaboxes.php:838
+msgid "How many testimonial items per page"
+msgstr "Hoeveel testimonium items per pagina"
+
+#: ../lib/metaboxes.php:860
+#, fuzzy
+msgid "Limit Testimonial Text"
+msgstr "Testimonium Bewerken"
+
+#: ../lib/metaboxes.php:867
+#, fuzzy
+msgid "Word Count Text"
+msgstr "Footer Copyright Tekst"
+
+#: ../lib/metaboxes.php:868
+msgid "eg: 25"
+msgstr ""
+
+#: ../lib/metaboxes.php:873
+msgid "Add link to single post"
+msgstr ""
+
+#: ../lib/metaboxes.php:880
+#, fuzzy
+msgid "Link Text"
+msgstr "Link Doel"
+
+#: ../lib/metaboxes.php:881
+#, fuzzy
+msgid "eg: Read More"
+msgstr "Lees Meer"
+
+#: ../lib/metaboxes.php:890
+msgid "Feature Page Options"
+msgstr "Aanbevole Pagina Opties"
+
+#: ../lib/metaboxes.php:899
+msgid "Feature Options"
+msgstr "Aanbevole Opties"
+
+#: ../lib/metaboxes.php:900
+msgid "If image slider make sure images uploaded are at-least 1170px wide."
+msgstr ""
+"Als afbeelding slider zorg ervoor dat afbeeldingen op zijn minst worden "
+"geüpload met 1170px breedte."
+
+#: ../lib/metaboxes.php:904 ../themeoptions/options.php:404
+#: ../themeoptions/options.php:548 ../themeoptions/options.php:1443
+msgid "Flex Slider"
+msgstr "Fles Slider"
+
+#: ../lib/metaboxes.php:906
+msgid "Image Carousel Slider"
+msgstr "Afbeelding Carrousel Slider"
+
+#: ../lib/metaboxes.php:907 ../themeoptions/options.php:404
+#: ../themeoptions/options.php:548 ../themeoptions/options.php:1443
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: ../lib/metaboxes.php:915 ../themeoptions/options.php:411
+#: ../themeoptions/options.php:556 ../themeoptions/options.php:1451
+msgid "If Revolution Slider"
+msgstr "Als Revolution Slider"
+
+#: ../lib/metaboxes.php:916
+msgid "Paste Revolution slider alias here (example: slider1)"
+msgstr "Plak Revolution slider alias hier (bijvoorbeeld: slider1)"
+
+#: ../lib/metaboxes.php:921
+msgid "If Cyclone or Kadence Slider"
+msgstr "Als Cyclone of Kadence Slider"
+
+#: ../lib/metaboxes.php:922
+msgid ""
+"Paste the slider shortcode here (example: [cycloneslider id=\"slider1\"])"
+msgstr ""
+"Plak slider shortcode hier (bijvoorbeeld: [cycloneslider id=\"slider1\"])"
+
+#: ../lib/metaboxes.php:927
+msgid "Display Shortcode Slider above Header"
+msgstr "Toon Shortcodes Slider boven Header"
+
+#: ../lib/metaboxes.php:934
+msgid "If above Header use arrow"
+msgstr "Als boven Header gebruik pijl"
+
+#: ../lib/metaboxes.php:948
+msgid ""
+"Default is: 1140 on fullwidth posts (Note: just input number, example: 650, "
+"does not apply to Carousel slider)"
+msgstr ""
+"Standaardwaarde is: 1140 op berichten met volledige breedte (Let op: geef "
+"een nummer op, bijvoorbeeld: 650, geld niet voor Carrousel slider)"
+
+#: ../lib/metaboxes.php:953
+msgid "Use Lightbox for Feature Image"
+msgstr "Gebruik Lightbox voor Uitgelichte Afbeeling"
+
+#: ../lib/metaboxes.php:954
+msgid ""
+"If feature option is set to image, choose to use lightbox link with image."
+msgstr ""
+"Als uitgelichte optie afbeelding is, kies om lightbox link met afbeeldingen "
+"te gebruiken."
+
+#: ../lib/metaboxes.php:972
+msgid "Blog List Options"
+msgstr "Blog Lijst Opties"
+
+#: ../lib/metaboxes.php:981 ../lib/metaboxes.php:1050
+msgid "Blog Category"
+msgstr "Blog Categorie"
+
+#: ../lib/metaboxes.php:982 ../lib/metaboxes.php:1051
+msgid "Select all blog posts or a specific category to show"
+msgstr ""
+"Selecteer alle blog berichten of een specifieke categorie om te laten zien"
+
+#: ../lib/metaboxes.php:988 ../lib/metaboxes.php:1057
+msgid "How Many Posts Per Page"
+msgstr "Hoeveel Berichten Per Pagina"
+
+#: ../lib/metaboxes.php:1012
+msgid "Display Post Content as:"
+msgstr "Toon Bericht Content als:"
+
+#: ../lib/metaboxes.php:1017
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: ../lib/metaboxes.php:1018 ../lib/premium_widgets.php:70
+#: ../themeoptions/options.php:1169
+msgid "Full"
+msgstr "Volledig"
+
+#: ../lib/metaboxes.php:1041
+msgid "Blog Grid Options"
+msgstr "Blog Grid Opties"
+
+#: ../lib/metaboxes.php:1081
+msgid "Choose Column Layout:"
+msgstr "Kies Kolom Lay-out:"
+
+#: ../lib/metaboxes.php:1110
+msgid "Contact Page Options"
+msgstr "Contact Pagina Opties"
+
+#: ../lib/metaboxes.php:1119
+msgid "Use Contact Form"
+msgstr "Gebruik Contact Formulier"
+
+#: ../lib/metaboxes.php:1129
+msgid "Contact Form Title"
+msgstr "Contact Formulier Titel"
+
+#: ../lib/metaboxes.php:1130
+msgid "ex. Send us an Email"
+msgstr "b.v. Stuur ons een E-mail"
+
+#: ../lib/metaboxes.php:1135
+msgid "Use Simple Math Question"
+msgstr "Gebruik Simpele Rekensom"
+
+#: ../lib/metaboxes.php:1145
+msgid "Use Map"
+msgstr "Gebruik Kaart"
+
+#: ../lib/metaboxes.php:1155
+msgid "Address"
+msgstr "Adres"
+
+#: ../lib/metaboxes.php:1156 ../lib/metaboxes.php:1210
+msgid "Enter your Location"
+msgstr "Geef uw Locatie op"
+
+#: ../lib/metaboxes.php:1173
+msgid "Map Zoom Level"
+msgstr "Map Zoom Level"
+
+#: ../lib/metaboxes.php:1174
+msgid "A good place to start is 15"
+msgstr "Een goeie plek om te starten is 15"
+
+#: ../lib/metaboxes.php:1179
+msgid "1 (World View)"
+msgstr "1 (wereld aanzicht)"
+
+#: ../lib/metaboxes.php:1199
+msgid "21 (Street View)"
+msgstr "21 (Straat aanzicht)"
+
+#: ../lib/metaboxes.php:1204
+msgid "Default is 300"
+msgstr "Standaartwaarde is 300"
+
+#: ../lib/metaboxes.php:1216 ../lib/metaboxes.php:1222
+#: ../lib/metaboxes.php:1228
+msgid "Enter a Location"
+msgstr "Geef een Locatie op"
+
+#: ../lib/metaboxes.php:1236 ../lib/metaboxes.php:1262
+msgid "Sidebar Options"
+msgstr "Zijpaneel Opties"
+
+#: ../lib/metaboxes.php:1282
+msgid "SEO Options"
+msgstr "SEO Opties"
+
+#: ../lib/metaboxes.php:1289 ../themeoptions/options.php:703
+msgid "Page Title"
+msgstr "Pagina Titel"
+
+#: ../lib/metaboxes.php:1290 ../themeoptions/options.php:3110
+msgid "Optimal Format: Brand Name | Primary Keyword and Secondary Keyword"
+msgstr "Optimale Opmaak: Merk Naam | Primair Zoekwoord en Secundair Zoekwoord"
+
+#: ../lib/metaboxes.php:1295
+msgid "Page Description"
+msgstr "Paginabeschrijving"
+
+#: ../lib/metaboxes.php:1296 ../themeoptions/options.php:3117
+msgid "Optimal Length: Roughly 155 Characters"
+msgstr "Optimale Lengte: Grofweg 155 Karakters"
+
+#: ../lib/metaboxes.php:1306
+msgid "Virtue Custom Tab 01"
+msgstr "Virtue Aangepast Tabblad 01"
+
+#: ../lib/metaboxes.php:1313 ../lib/metaboxes.php:1345
+#: ../lib/metaboxes.php:1377
+msgid "Tab Title"
+msgstr "Tabblad Titel"
+
+#: ../lib/metaboxes.php:1314 ../lib/metaboxes.php:1346
+#: ../lib/metaboxes.php:1378
+msgid "This will show on the tab"
+msgstr "Dit zal getoont worden op het tabblad"
+
+#: ../lib/metaboxes.php:1319 ../lib/metaboxes.php:1351
+#: ../lib/metaboxes.php:1383
+msgid "Tab Content"
+msgstr "Tabblad Content"
+
+#: ../lib/metaboxes.php:1320 ../lib/metaboxes.php:1352
+#: ../lib/metaboxes.php:1384
+msgid "Add Tab Content"
+msgstr "Voeg Tabblad Content toe"
+
+#: ../lib/metaboxes.php:1326 ../lib/metaboxes.php:1358
+#: ../lib/metaboxes.php:1390
+msgid "Tab priority"
+msgstr "Tabblad Prioriteit"
+
+#: ../lib/metaboxes.php:1327 ../lib/metaboxes.php:1359
+#: ../lib/metaboxes.php:1391
+msgid "This will determine where the tab is shown (e.g. 20)"
+msgstr "Dit stelt vast waar het tabblad wordt getoont (b.v. 20)"
+
+#: ../lib/metaboxes.php:1338
+msgid "Virtue Custom Tab 02"
+msgstr "Virtue Aangepast Tabblad 02"
+
+#: ../lib/metaboxes.php:1370
+msgid "Virtue Custom Tab 03"
+msgstr "Virtue Aangepast Tabblad 03"
+
+#: ../lib/portfolio_shortcodes.php:32 ../page-portfolio.php:38
+#: ../page-staff-grid.php:90 ../templates/home/portfolio-full.php:27
+msgid "Filter Projects"
+msgstr "Filter Projecten"
+
+#: ../lib/post-types.php:6 ../lib/post-types.php:18 ../lib/widgets.php:1109
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../lib/post-types.php:7
+msgid "Portfolio Item"
+msgstr "Portfolio Item"
+
+#: ../lib/post-types.php:8 ../lib/post-types.php:68 ../lib/post-types.php:126
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+#: ../lib/post-types.php:9
+msgid "Add New Portfolio Item"
+msgstr "Nieuw Portfolio Item Toevoegen"
+
+#: ../lib/post-types.php:10
+msgid "Edit Portfolio Item"
+msgstr "Portfolio Item Aanpassen"
+
+#: ../lib/post-types.php:11
+msgid "New Portfolio Item"
+msgstr "Nieuw Portfolio Item"
+
+#: ../lib/post-types.php:12
+msgid "All Portfolio"
+msgstr "Alle Portfolio"
+
+#: ../lib/post-types.php:13
+msgid "View Portfolio Item"
+msgstr "Bekijk Portfolio Item Bekijk"
+
+#: ../lib/post-types.php:14
+msgid "Search Portfolio"
+msgstr "Zoek Portfolio"
+
+#: ../lib/post-types.php:15
+msgid "No Portfolio Item found"
+msgstr "Geen Portfolio Items gevonden"
+
+#: ../lib/post-types.php:16
+msgid "No Portfolio Items found in Trash"
+msgstr "Geen Portfolio Items gevonden in de prullenbak"
+
+#: ../lib/post-types.php:39
+msgid "Portfolio Type"
+msgstr "Portfolio Type"
+
+#: ../lib/post-types.php:41
+msgid "Search Type"
+msgstr "Zoek Type"
+
+#: ../lib/post-types.php:42
+msgid "All Type"
+msgstr "Alle Types"
+
+#: ../lib/post-types.php:43
+msgid "Parent Type"
+msgstr "Bovenliggende Type"
+
+#: ../lib/post-types.php:44
+msgid "Parent Type:"
+msgstr "Bovenliggende Type:"
+
+#: ../lib/post-types.php:45
+msgid "Edit Type"
+msgstr "Type Bewerken"
+
+#: ../lib/post-types.php:46
+msgid "Update Type"
+msgstr "Type Bijwerken"
+
+#: ../lib/post-types.php:47
+msgid "Add New Type"
+msgstr "Nieuw Type Toevoegen"
+
+#: ../lib/post-types.php:48
+msgid "New Type Name"
+msgstr "Niew Type Naam"
+
+#: ../lib/post-types.php:66 ../lib/post-types.php:78 ../lib/post-types.php:99
+#: ../lib/widgets.php:731
+msgid "Testimonials"
+msgstr "Testimoniums"
+
+#: ../lib/post-types.php:67 ../lib/testimonial_form_shortcode.php:10
+msgid "Testimonial"
+msgstr "Testimoniu"
+
+#: ../lib/post-types.php:69
+msgid "Add New Testimonial"
+msgstr "Nieuwe Testimonium Toevoegen"
+
+#: ../lib/post-types.php:70
+msgid "Edit Testimonial"
+msgstr "Testimonium Bewerken"
+
+#: ../lib/post-types.php:71
+msgid "New Testimonial"
+msgstr "Nieuw Testimonium"
+
+#: ../lib/post-types.php:72
+msgid "All Testimonials"
+msgstr "Alle Testimoniums"
+
+#: ../lib/post-types.php:73
+msgid "View Testimonial"
+msgstr "Bekijk Testimonium"
+
+#: ../lib/post-types.php:74
+msgid "Search Testimonials"
+msgstr "Zoek Testimonium"
+
+#: ../lib/post-types.php:75
+msgid "No Testimonials found"
+msgstr "Geen Testimoniums gevonden"
+
+#: ../lib/post-types.php:76
+msgid "No Testimonials found in Trash"
+msgstr "Geen Testimonium in de prullenbak gevonden"
+
+#: ../lib/post-types.php:100 ../lib/post-types.php:158
+msgid "Search Groups"
+msgstr "Zoek Groepen"
+
+#: ../lib/post-types.php:101 ../lib/post-types.php:159
+msgid "All Groups"
+msgstr "Alle Groepen"
+
+#: ../lib/post-types.php:102 ../lib/post-types.php:160
+msgid "Parent Groups"
+msgstr "Bovenliggende Groepen"
+
+#: ../lib/post-types.php:103 ../lib/post-types.php:161
+msgid "Parent Groups:"
+msgstr "Bovenliggende Groepen:"
+
+#: ../lib/post-types.php:104 ../lib/post-types.php:162
+msgid "Edit Group"
+msgstr "Groep Bewerken"
+
+#: ../lib/post-types.php:105 ../lib/post-types.php:163
+msgid "Update Group"
+msgstr "Groep Bijwerken"
+
+#: ../lib/post-types.php:106 ../lib/post-types.php:164
+msgid "Add New Group"
+msgstr "Nieuwe Groep Toevoegen"
+
+#: ../lib/post-types.php:107 ../lib/post-types.php:165
+msgid "New Group Name"
+msgstr "Nieuwe Groep Naam"
+
+#: ../lib/post-types.php:124 ../lib/post-types.php:125
+#: ../lib/post-types.php:136 ../lib/post-types.php:157
+msgid "Staff"
+msgstr "Personeel"
+
+#: ../lib/post-types.php:127
+msgid "Add New Staff"
+msgstr "Nieuw Personeel Toevoegen"
+
+#: ../lib/post-types.php:128
+msgid "Edit Staff"
+msgstr "Personeel Bewerken"
+
+#: ../lib/post-types.php:129
+msgid "New Staff"
+msgstr "Nieuw Personeel"
+
+#: ../lib/post-types.php:130
+msgid "All Staff"
+msgstr "Alle Personeel"
+
+#: ../lib/post-types.php:131
+msgid "View Staff"
+msgstr "Bekijk Personeel"
+
+#: ../lib/post-types.php:132
+msgid "Search Staff"
+msgstr "Zoek Personeel"
+
+#: ../lib/post-types.php:133
+msgid "No Staff found"
+msgstr "Geen Personeel Gevonden"
+
+#: ../lib/post-types.php:134
+msgid "No Staff found in Trash"
+msgstr "Geen Personeel in de prullenbak gevonden"
+
+#: ../lib/post-types.php:156
+msgid "Staff Group"
+msgstr "Personeel Groep"
+
+#: ../lib/premium_widgets.php:9
+#, fuzzy
+msgid "Adds a gallery to any widget area."
+msgstr "Voegt een Galerij toe aan elk widget gebied."
+
+#: ../lib/premium_widgets.php:10
+msgid "Virtue: Gallery"
+msgstr "Virtue: Galerij"
+
+#: ../lib/premium_widgets.php:67
+msgid "Standard"
+msgstr "Standaard"
+
+#: ../lib/premium_widgets.php:67
+msgid "Masonry"
+msgstr "Masonry"
+
+#: ../lib/premium_widgets.php:67
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: ../lib/premium_widgets.php:67
+msgid "Slider"
+msgstr "Slider"
+
+#: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
+#: ../lib/widgets.php:900
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
+#: ../lib/widgets.php:900
+msgid "2 Columns"
+msgstr "2 Kolommen"
+
+#: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
+#: ../lib/widgets.php:900
+msgid "3 Columns"
+msgstr "3 Kolommen"
+
+#: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
+#: ../lib/widgets.php:900
+msgid "4 Columns"
+msgstr "4 Kolommen"
+
+#: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
+#: ../lib/widgets.php:900
+msgid "5 Columns"
+msgstr "5 Kolommen"
+
+#: ../lib/premium_widgets.php:68 ../lib/widgets.php:900
+msgid "6 Columns"
+msgstr "6 Kolommen"
+
+#: ../lib/premium_widgets.php:69
+msgid "Off"
+msgstr "Uit"
+
+#: ../lib/premium_widgets.php:69
+msgid "On"
+msgstr "Aan"
+
+#: ../lib/premium_widgets.php:70
+msgid "Medium"
+msgstr ""
+
+#: ../lib/premium_widgets.php:70
+msgid "Thumbnail"
+msgstr ""
+
+#: ../lib/premium_widgets.php:102
+msgid "Add/Edit Gallery"
+msgstr "Galerij Toevoegen/Bewerken"
+
+#: ../lib/premium_widgets.php:103
+msgid "Clear Gallery"
+msgstr "Galerij Wissen"
+
+#: ../lib/premium_widgets.php:106 ../lib/premium_widgets.php:268
+#: ../lib/premium_widgets.php:415 ../lib/premium_widgets.php:674
+#: ../lib/premium_widgets.php:792 ../lib/widgets.php:307
+#: ../lib/widgets.php:493 ../lib/widgets.php:680 ../lib/widgets.php:933
+#: ../lib/widgets.php:1103
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../lib/premium_widgets.php:110
+msgid "Gallery Type"
+msgstr "Galerij Type"
+
+#: ../lib/premium_widgets.php:114
+msgid "Gallery Columns"
+msgstr "Galerij KOlommen"
+
+#: ../lib/premium_widgets.php:118
+msgid "Display Captions"
+msgstr "Toon Bijschrift"
+
+#: ../lib/premium_widgets.php:122
+#, fuzzy
+msgid "Lightbox Image Size"
+msgstr "Winkel Categorieafbeelding Grootte"
+
+#: ../lib/premium_widgets.php:125
+msgid "If Type Slider"
+msgstr "Als Type Slider"
+
+#: ../lib/premium_widgets.php:127
+msgid "Slider Width (e.g. = 600)"
+msgstr "Slider Breedte (b.v. = 600)"
+
+#: ../lib/premium_widgets.php:131
+msgid "Slider Height (e.g. = 400)"
+msgstr "Slider Hoogte (b.v. = 400)"
+
+#: ../lib/premium_widgets.php:135
+msgid "Slider Speed (e.g. = 7000)"
+msgstr "Slider Snelheid (b.v. = 7000)"
+
+#: ../lib/premium_widgets.php:151
+msgid "Adds a carousel to any widget area"
+msgstr "Voegt een carrousel toe aan elk widget gebied"
+
+#: ../lib/premium_widgets.php:152
+msgid "Virtue: Carousel"
+msgstr "Virtue: Carrousel"
+
+#: ../lib/premium_widgets.php:214
+msgid "Portfolio Posts"
+msgstr "Portfolio Berichten"
+
+#: ../lib/premium_widgets.php:214
+msgid "Sale Products"
+msgstr "Verkoop Producten"
+
+#: ../lib/premium_widgets.php:214
+msgid "Best Products"
+msgstr "Beste Producten"
+
+#: ../lib/premium_widgets.php:214
+msgid "Category of Products"
+msgstr "Categorie producten"
+
+#: ../lib/premium_widgets.php:216
+msgid "1 item"
+msgstr "1 artikel"
+
+#: ../lib/premium_widgets.php:216 ../themeoptions/options.php:771
+#: ../themeoptions/options.php:818 ../themeoptions/options.php:865
+#: ../themeoptions/options.php:983 ../themeoptions/options.php:1033
+#: ../themeoptions/options.php:1777
+msgid "All Visible"
+msgstr "Alle Zichtbare"
+
+#: ../lib/premium_widgets.php:272
+msgid "Carousel Type"
+msgstr "Carrouseltype"
+
+#: ../lib/premium_widgets.php:276 ../lib/widgets.php:952
+msgid "Carousel Columns"
+msgstr "Carrousel Kolommen"
+
+#: ../lib/premium_widgets.php:280
+msgid "Scroll Setting"
+msgstr "Scroll instellingen"
+
+#: ../lib/premium_widgets.php:284
+msgid "Items (e.g. = 8)"
+msgstr "Artikelen (b.v. = 8)"
+
+#: ../lib/premium_widgets.php:288
+#, fuzzy
+msgid "Order by"
+msgstr "Sorteer Op"
+
+#: ../lib/premium_widgets.php:292
+#, fuzzy
+msgid "Blog Post Category"
+msgstr "Blog Categorie"
+
+#: ../lib/premium_widgets.php:296
+#, fuzzy
+msgid "Portfolio Category"
+msgstr "Portfolio Categorie Paginas"
+
+#: ../lib/premium_widgets.php:300
+#, fuzzy
+msgid "Product Category"
+msgstr "Blog Categorie"
+
+#: ../lib/premium_widgets.php:304 ../lib/widgets.php:955
+msgid "Carousel Speed (e.g. = 7000)"
+msgstr "Carrousel Snelheid (b.v. = 7000)"
+
+#: ../lib/premium_widgets.php:313
+msgid "Adds a info box with icon options"
+msgstr "Voegt een info box met icoonopties"
+
+#: ../lib/premium_widgets.php:314
+msgid "Virtue: Info Box"
+msgstr "Virtue: Info Box"
+
+#: ../lib/premium_widgets.php:410
+msgid "Or upload a custom icon"
+msgstr "Of upload een aangepast icoon"
+
+#: ../lib/premium_widgets.php:412 ../lib/premium_widgets.php:785
+#: ../lib/widgets.php:1201
+msgid "Upload"
+msgstr "Uploaden"
+
+#: ../lib/premium_widgets.php:423
+msgid "Box Background Color (e.g. = #f2f2f2)"
+msgstr "Box Achtergrondkleur (b.v. = #f2f2f2)"
+
+#: ../lib/premium_widgets.php:427
+#, fuzzy
+msgid "Text Color (e.g. = #444444)"
+msgstr "Icoon Achtergrond Kleur (b.v. = #444444)"
+
+#: ../lib/premium_widgets.php:431
+msgid "Icon Size (e.g. = 48)"
+msgstr "Icoongrootte"
+
+#: ../lib/premium_widgets.php:439
+msgid "Icon Background Color (e.g. = #444444)"
+msgstr "Icoon Achtergrond Kleur (b.v. = #444444)"
+
+#: ../lib/premium_widgets.php:443
+msgid "Icon Color (e.g. = #f2f2f2)"
+msgstr "Icoon Kleur (b.v. = #f2f2f2)"
+
+#: ../lib/premium_widgets.php:447 ../lib/premium_widgets.php:800
+msgid "Link:"
+msgstr "Link:"
+
+#: ../lib/premium_widgets.php:458
+msgid "Adds a google map to a widget area"
+msgstr "Voegt een google map toe aan een widget gebied"
+
+#: ../lib/premium_widgets.php:459
+msgid "Virtue: Google Map"
+msgstr "Virtue: Google Map"
+
+#: ../lib/premium_widgets.php:531
+msgid "Marker Title:"
+msgstr "Marker Titel:"
+
+#: ../lib/premium_widgets.php:535
+msgid "Marker Address"
+msgstr "Market Adres"
+
+#: ../lib/premium_widgets.php:547
+msgid "Map Height (e.g. = 300)"
+msgstr "Kaart Hoogte"
+
+#: ../lib/premium_widgets.php:551
+msgid "Marker Title Two:"
+msgstr "Market Titel Twee:"
+
+#: ../lib/premium_widgets.php:555
+msgid "Marker Address Two"
+msgstr "Marker Adres Twee"
+
+#: ../lib/premium_widgets.php:559
+msgid "Marker Title Three:"
+msgstr "Marker Titel Drie:"
+
+#: ../lib/premium_widgets.php:563
+msgid "Marker Address Three"
+msgstr "Marker Adres Drie"
+
+#: ../lib/premium_widgets.php:567
+msgid "Marker Title Four:"
+msgstr "Marker Titel Vier"
+
+#: ../lib/premium_widgets.php:571
+msgid "Marker Address Four"
+msgstr "Marker Adres Vier"
+
+#: ../lib/premium_widgets.php:575
+msgid "Map Center (defauts to first address)"
+msgstr "Kaart Centrum (standaard op eerste adres)"
+
+#: ../lib/premium_widgets.php:585
+msgid "Adds a simple call to action"
+msgstr "Voegt een eenvoudige oproep tot actie (call to action) toe"
+
+#: ../lib/premium_widgets.php:586
+msgid "Virtue: Call to Action"
+msgstr "Virtue: Call to Action"
+
+#: ../lib/premium_widgets.php:661 ../lib/premium_widgets.php:771
+msgid "Self"
+msgstr "Zelf"
+
+#: ../lib/premium_widgets.php:661 ../lib/premium_widgets.php:771
+#: ../lib/widgets.php:1185
+msgid "New Window"
+msgstr "Nieuw Scherm"
+
+#: ../lib/premium_widgets.php:678
+msgid "Title Size (e.g. = 48)"
+msgstr "Titel Grootte (b.v. = 48)"
+
+#: ../lib/premium_widgets.php:682
+msgid "Title Color (e.g. = #f2f2f2)"
+msgstr "Titel Kleur (b.v. = #f2f2f2)"
+
+#: ../lib/premium_widgets.php:690
+msgid "Subtitle Size (e.g. = 48)"
+msgstr "Ondertitel Grootte (b.v. = 48)"
+
+#: ../lib/premium_widgets.php:694
+msgid "Subtitle Color (e.g. = #f2f2f2)"
+msgstr "Ondertitel Kleur (b.v. = #f2f2f2)"
+
+#: ../lib/premium_widgets.php:702
+msgid "Button Text:"
+msgstr "Knop Tekst:"
+
+#: ../lib/premium_widgets.php:706
+msgid "Button Link:"
+msgstr "Knop Link:"
+
+#: ../lib/premium_widgets.php:710 ../lib/premium_widgets.php:804
+msgid "Link Target"
+msgstr "Link Doel"
+
+#: ../lib/premium_widgets.php:720
+msgid "Adds an image background with text, link and hover effect."
+msgstr "Voegt een afbeelding achtergrond met tekst, link en muisover effect."
+
+#: ../lib/premium_widgets.php:721
+msgid "Virtue: Image Menu Item"
+msgstr "Virtue: Afbeelding Menu Item"
+
+#: ../lib/premium_widgets.php:783
+msgid "Upload an image"
+msgstr "Een Afbeelding Uploaden"
+
+#: ../lib/premium_widgets.php:788
+msgid "Item Height (e.g. = 220)"
+msgstr "Item Hoogte (b.v. = 220)"
+
+#: ../lib/revslider-activate.php:96
+msgid "Install Suggested Plugins"
+msgstr "Installeer Aanbevolen Plugins"
+
+#: ../lib/revslider-activate.php:99
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: ../lib/revslider-activate.php:110
+msgid "Return to recommended Plugins Installer"
+msgstr "Ga terug naar aanbevolen Plug-in installatie"
+
+#: ../lib/revslider-activate.php:112
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plug-ins zijn succesvol geinstalleerd en geactiveerd. %s"
+
+#: ../lib/scripts.php:47
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+"Sorry, geen producten voldoen aan jou selectie. Kies een andere combinatie."
+
+#: ../lib/scripts.php:48
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Sorry, dit product is niet beschikbaar. Kies een andere combinatie."
+
+#: ../lib/shortcodes.php:329
+msgid "Close"
+msgstr ""
+
+#: ../lib/shortcodes.php:372 ../lib/shortcodes.php:375
+#: ../lib/shortcodes.php:398 ../lib/shortcodes.php:401
+msgid "please specify correct url"
+msgstr "Geef een correcte  URL op"
+
+#: ../lib/staff_shortcodes.php:59 ../page-staff-grid.php:164
+msgid "Sorry, no staff entries found."
+msgstr "Geen personeel data gevonden."
+
+#: ../lib/taxonomy-meta-class.php:133 ../lib/taxonomy-meta-class.php:174
+#: ../lib/taxonomy-meta-class.php:388 ../lib/taxonomy-meta-class.php:415
+msgid "Delete"
+msgstr "Verwijder"
+
+#: ../lib/taxonomy-meta-class.php:142 ../lib/taxonomy-meta-class.php:395
+msgid "Select File"
+msgstr "Selecteer Bestand"
+
+#: ../lib/taxonomy-meta-class.php:183 ../lib/taxonomy-meta-class.php:422
+msgid "Select Image"
+msgstr "Selecteer Afbeelding"
+
+#: ../lib/taxonomy-meta.php:55
+#, fuzzy
+msgid "Category Image"
+msgstr "Winkel Categorieafbeelding Grootte"
+
+#: ../lib/testimonial_form_shortcode.php:9
+#: ../lib/testimonial_form_shortcode.php:82 ../page-contact.php:144
+#: ../templates/comments.php:69
+msgid "Name"
+msgstr "Naam"
+
+#: ../lib/testimonial_form_shortcode.php:11
+#, fuzzy
+msgid "Location - optional"
+msgstr "Text/Onderschift (Optioneel)"
+
+#: ../lib/testimonial_form_shortcode.php:12
+msgid "Position or Company - optional"
+msgstr ""
+
+#: ../lib/testimonial_form_shortcode.php:13
+#, fuzzy
+msgid "Link - optional"
+msgstr "Afbeeldings Link (Optioneel)"
+
+#: ../lib/testimonial_form_shortcode.php:14
+#, fuzzy
+msgid "Image Upload - optional"
+msgstr "Afbeelding herhaalopties"
+
+#: ../lib/testimonial_form_shortcode.php:15
+msgid "Submit"
+msgstr "Verzenden"
+
+#: ../lib/testimonial_form_shortcode.php:16 ../page-contact.php:104
+msgid "Check your math."
+msgstr "Controleer je som."
+
+#: ../lib/testimonial_form_shortcode.php:17 ../page-contact.php:109
+msgid "Please enter your name."
+msgstr "Vul uw naam in."
+
+#: ../lib/testimonial_form_shortcode.php:18
+msgid "Please add testimonial content."
+msgstr ""
+
+#: ../lib/testimonial_form_shortcode.php:19 ../page-contact.php:187
+msgid "Sorry, an error occured."
+msgstr "Onze excuses, er is een fout opgetreden."
+
+#: ../lib/testimonial_form_shortcode.php:20
+#, fuzzy
+msgid "You must be logged in to submit an testimonial."
+msgstr "U moet <a href=\"%s\"> Ingelogt </a> zijn om een reactie te plaatsen."
+
+#: ../lib/testimonial_form_shortcode.php:21
+msgid ""
+"Thank you for submitting your testimonial! It is now awaiting approval from "
+"the site admnistator. Thank you!"
+msgstr ""
+
+#: ../lib/testimonial_form_shortcode.php:29 ../page-contact.php:13
+msgid "This field is required."
+msgstr "Dit veld is verplicht"
+
+#: ../lib/testimonial_form_shortcode.php:30 ../page-contact.php:13
+msgid "Please enter a valid email address."
+msgstr "Vul een geldig e-mailadres in."
+
+#: ../lib/testimonial_form_shortcode.php:81
+#, fuzzy
+msgid " Testimonial Post"
+msgstr "Testimoniums"
+
+#: ../lib/testimonial_form_shortcode.php:81 ../page-contact.php:143
+msgid "From "
+msgstr "Van "
+
+#: ../lib/testimonial_form_shortcode.php:83 ../page-contact.php:145
+msgid "From"
+msgstr "Van"
+
+#: ../lib/testimonial_shortcodes.php:80 ../page-testimonial-grid.php:130
+msgid "Sorry, no testimonial entries found."
+msgstr "Geen testimonium items gevonden"
+
+#: ../lib/utils.php:67
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks Archief: %s"
+
+#: ../lib/utils.php:69
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks Archief: %s"
+
+#: ../lib/utils.php:71
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks Archief: %s"
+
+#: ../lib/utils.php:73
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Auteur Archief: %s"
+
+#: ../lib/utils.php:78
+#, php-format
+msgid "Search Results for %s"
+msgstr "Zoekresultaten voor %s"
+
+#: ../lib/utils.php:80
+msgid "Not Found"
+msgstr "Niet Gevonden"
+
+#: ../lib/utils.php:121
+msgid "portfolio"
+msgstr "portfolio"
+
+#: ../lib/widgets.php:6 ../lib/widgets.php:69
+msgid "Primary Sidebar"
+msgstr "Primair Zijpaneel"
+
+#: ../lib/widgets.php:48
+msgid "Topbar Widget"
+msgstr "Topbalk Widget"
+
+#: ../lib/widgets.php:59
+msgid "Header Widget Area"
+msgstr "Header Widget Gebied"
+
+#: ../lib/widgets.php:77 ../themeoptions/options.php:699
+msgid "Home Widget Area"
+msgstr "Home Widget Gebied"
+
+#: ../lib/widgets.php:90 ../lib/widgets.php:131 ../lib/widgets.php:162
+msgid "Footer Column 1"
+msgstr "Footer Kolom 1"
+
+#: ../lib/widgets.php:100 ../lib/widgets.php:141 ../lib/widgets.php:172
+msgid "Footer Column 2"
+msgstr "Footer Kolom 2"
+
+#: ../lib/widgets.php:110 ../lib/widgets.php:151
+msgid "Footer Column 3"
+msgstr "Footer Kolom 3"
+
+#: ../lib/widgets.php:120
+msgid "Footer Column 4"
+msgstr "Footer Kolom 4"
+
+#: ../lib/widgets.php:203
+msgid "Use this widget to add a Vcard to your site"
+msgstr "Gebruik deze widget om een vcard aan uw site toe te voegen"
+
+#: ../lib/widgets.php:204
+msgid "Virtue: Contact/Vcard"
+msgstr "Virtue: Contact/Vcard"
+
+#: ../lib/widgets.php:311
+msgid "Company Name:"
+msgstr "Bedrijfs Naam:"
+
+#: ../lib/widgets.php:315 ../page-contact.php:193
+msgid "Name:"
+msgstr "Naam:"
+
+#: ../lib/widgets.php:319
+msgid "Street Address:"
+msgstr "Straat/Adres:"
+
+#: ../lib/widgets.php:323
+msgid "City/Locality:"
+msgstr "Stad/Plaats:"
+
+#: ../lib/widgets.php:327
+msgid "State/Region:"
+msgstr "Provincie:"
+
+#: ../lib/widgets.php:331
+msgid "Zipcode/Postal Code:"
+msgstr "Postcode:"
+
+#: ../lib/widgets.php:335
+#, fuzzy
+msgid "Mobile Telephone:"
+msgstr "Telefoonnummer:"
+
+#: ../lib/widgets.php:339
+#, fuzzy
+msgid "Fixed Telephone:"
+msgstr "Telefoonnummer:"
+
+#: ../lib/widgets.php:343 ../page-contact.php:200
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../lib/widgets.php:354
+msgid "Simple way to add Social Icons"
+msgstr "Eenvoudig Socialmedia Iconen toevoegen"
+
+#: ../lib/widgets.php:355
+msgid "Virtue: Social Links"
+msgstr "Virtue: Socialmedia Links"
+
+#: ../lib/widgets.php:497
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: ../lib/widgets.php:501
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/widgets.php:505
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: ../lib/widgets.php:509
+msgid "GooglePlus:"
+msgstr "GooglePlus:"
+
+#: ../lib/widgets.php:513
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: ../lib/widgets.php:517
+msgid "Vimeo:"
+msgstr "Vimeo:"
+
+#: ../lib/widgets.php:521
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: ../lib/widgets.php:525
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: ../lib/widgets.php:529
+msgid "Dribbble:"
+msgstr "Dribble:"
+
+#: ../lib/widgets.php:533
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: ../lib/widgets.php:537
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: ../lib/widgets.php:541
+msgid "Stumbleupon:"
+msgstr "Stumbleupon:"
+
+#: ../lib/widgets.php:545
+msgid "VK:"
+msgstr "VK:"
+
+#: ../lib/widgets.php:549
+msgid "Viadeo:"
+msgstr "Viadeo:"
+
+#: ../lib/widgets.php:553
+msgid "xing:"
+msgstr ""
+
+#: ../lib/widgets.php:557
+msgid "Yelp:"
+msgstr ""
+
+#: ../lib/widgets.php:561
+msgid "Soundcloud:"
+msgstr ""
+
+#: ../lib/widgets.php:565
+msgid "RSS:"
+msgstr "RSS:"
+
+#: ../lib/widgets.php:579
+msgid "This shows the most recent posts on your site with a thumbnail"
+msgstr ""
+"Dit laat de meest recente berichten op uw site zien zien met een thumbnail"
+
+#: ../lib/widgets.php:580
+msgid "Virtue: Recent Posts"
+msgstr "Virtue: Recente Berichten"
+
+#: ../lib/widgets.php:605 ../templates/recentblog-carousel.php:2
+msgid "Recent Posts"
+msgstr "Recente Berichten"
+
+#: ../lib/widgets.php:683 ../lib/widgets.php:937
+msgid "Number of posts to show:"
+msgstr "Aantal berichten om te laten zien:"
+
+#: ../lib/widgets.php:686 ../lib/widgets.php:944
+msgid "Orderby:"
+msgstr "Sorteer op:"
+
+#: ../lib/widgets.php:690
+msgid "Limit to Catagory (Optional):"
+msgstr "Beperken tot Categorie (Optioneel):"
+
+#: ../lib/widgets.php:705
+msgid "This shows a slider with your testimonials"
+msgstr "Dit toont een slider met uw testomoniums"
+
+#: ../lib/widgets.php:706
+msgid "Virtue: Testimonial Carousel"
+msgstr "Virtue Testomonium Carrousel"
+
+#: ../lib/widgets.php:899
+msgid "none"
+msgstr ""
+
+#: ../lib/widgets.php:899
+#, fuzzy
+msgid "Page Link"
+msgstr "Banner Link"
+
+#: ../lib/widgets.php:899
+#, fuzzy
+msgid "Post Link"
+msgstr "Geen Link"
+
+#: ../lib/widgets.php:941
+msgid "Number of words to show:"
+msgstr "Aantal woorden tonen:"
+
+#: ../lib/widgets.php:948
+msgid "Limit to Group (Optional):"
+msgstr "Beperken tot Groep (Optioneel):"
+
+#: ../lib/widgets.php:959
+#, fuzzy
+msgid "Link Options:"
+msgstr "Logo Opties"
+
+#: ../lib/widgets.php:963
+msgid "If link to page, choose page:"
+msgstr ""
+
+#: ../lib/widgets.php:966
+msgid "Link text (e.g. = Read More)"
+msgstr ""
+
+#: ../lib/widgets.php:981
+msgid ""
+"This shows a grid of featured images from recent posts or portfolio items"
+msgstr ""
+"Dit toont een raster van uitgelichte afbeeldingen van recente berichten of "
+"portfolio items"
+
+#: ../lib/widgets.php:982
+msgid "Virtue: Post Grid"
+msgstr "Virtue Berichten Raster"
+
+#: ../lib/widgets.php:1106
+msgid "Grid Choice:"
+msgstr "Raster Keuze:"
+
+#: ../lib/widgets.php:1112
+msgid "If Post - Choose Category (Optional):"
+msgstr "Als Berichten - Kies Categorie (Optioneel):"
+
+#: ../lib/widgets.php:1115
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr "Als Portfolio - Kies Type (Optioneel):"
+
+#: ../lib/widgets.php:1118
+msgid "Number of images to show:"
+msgstr "Aantal afbeeldingen om te tonen:"
+
+#: ../lib/widgets.php:1129
+msgid "This allows for an image and a simple about text."
+msgstr "Dit zorgt voor een afbeelding en een eenvoudige 'over' tekst"
+
+#: ../lib/widgets.php:1130
+msgid "Virtue: Image"
+msgstr "Virtue: Afbeelding"
+
+#: ../lib/widgets.php:1184
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../lib/widgets.php:1186
+msgid "Same Window"
+msgstr "Zelfde Scherm"
+
+#: ../lib/widgets.php:1187
+msgid "No Link"
+msgstr "Geen Link"
+
+#: ../lib/widgets.php:1199
+msgid "Image URL"
+msgstr "Afbeeldings URL"
+
+#: ../lib/widgets.php:1204
+msgid "Image opens in"
+msgstr "Afbeelding opent in"
+
+#: ../lib/widgets.php:1208
+msgid "Image Link (optional)"
+msgstr "Afbeeldings Link (Optioneel)"
+
+#: ../lib/widgets.php:1212
+msgid "Text/Caption (optional)"
+msgstr "Text/Onderschift (Optioneel)"
+
+#: ../page-contact.php:116
+msgid "Please enter your email address."
+msgstr "Vul uw e-mailadres in."
+
+#: ../page-contact.php:119
+msgid "You entered an invalid email address."
+msgstr "U heeft een ongeldig e-mailadres ingevult."
+
+#: ../page-contact.php:126
+msgid "Please enter a message."
+msgstr "Gelieve een bericht in te voeren."
+
+#: ../page-contact.php:143
+#, fuzzy
+msgid "Contact"
+msgstr " Contact"
+
+#: ../page-contact.php:183
+msgid "Thanks, your email was sent successfully."
+msgstr "Bedankt, uw email is succesvol verzonden."
+
+#: ../page-contact.php:206
+msgid "Message: "
+msgstr "Bericht: "
+
+#: ../page-contact.php:224
+msgid "Send Email"
+msgstr "Verzenden"
+
+#: ../product-searchform.php:2
+msgid "Search for products"
+msgstr "Zoek naar producten"
+
+#: ../searchform.php:1
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: ../templates/account-sidebar.php:23
+#, fuzzy
+msgid "Edit Account"
+msgstr "Mijn Account"
+
+#: ../templates/account-sidebar.php:26
+#, fuzzy
+msgid "Logout"
+msgstr "Logo"
+
+#: ../templates/bottomportfolio-carousel.php:26
+msgid "Recent Projects"
+msgstr "Recete Projecten"
+
+#: ../templates/comment.php:7
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+#: ../templates/comments.php:8
+#, php-format
+msgid "One Response "
+msgid_plural "%1$s Responses "
+msgstr[0] "Een Reactie"
+msgstr[1] "%1$s Reacties"
+
+#: ../templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; Ouder Commentaar"
+
+#: ../templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr "Nieuwer Commentaar &rarr;"
+
+#: ../templates/comments.php:31 ../templates/comments.php:43
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: ../templates/comments.php:54 ../templates/content-fullpost.php:157
+#: ../templates/content-fullpostfull.php:157
+msgid "Leave a Reply"
+msgstr "Laat een Reactie Achter"
+
+#: ../templates/comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laat een reacie achter %s"
+
+#: ../templates/comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "U moet <a href=\"%s\"> Ingelogt </a> zijn om een reactie te plaatsen."
+
+#: ../templates/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Ingelogt als <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: ../templates/comments.php:64
+msgid "Log out of this account"
+msgstr "Log uit dit account"
+
+#: ../templates/comments.php:64
+msgid "Log out &raquo;"
+msgstr "Uitloggen"
+
+#: ../templates/comments.php:71
+msgid "Email (will not be published)"
+msgstr "Email (wordt niet gepubliceerd)"
+
+#: ../templates/comments.php:73
+msgid "Website"
+msgstr "Website"
+
+#: ../templates/comments.php:84
+msgid "Comment"
+msgstr "Commentaar"
+
+#: ../templates/comments.php:86
+msgid "Submit Comment"
+msgstr "Commentaar Toevoegen"
+
+#: ../templates/content-fullpost.php:152
+#: ../templates/content-fullpostfull.php:152
+#: ../templates/content-single.php:170
+#: ../templates/content-singleportfolio.php:378
+#: ../templates/content-singlestaff.php:19
+#: ../templates/content-singletestimonial.php:46
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: ../templates/content-fullpost.php:158
+#: ../templates/content-fullpostfull.php:158
+#, fuzzy
+msgid "1 Comment"
+msgstr "Commentaar"
+
+#: ../templates/content-fullpost.php:159
+#: ../templates/content-fullpostfull.php:159
+#, fuzzy
+msgid "% Comments"
+msgstr "Commentaar"
+
+#: ../templates/content-fullpost.php:161
+#: ../templates/content-fullpostfull.php:161
+#, fuzzy
+msgid "Comments are Closed"
+msgstr "Reacties zijn gesloten."
+
+#: ../templates/entry-meta-subhead.php:3 ../templates/entry-meta.php:2
+msgid "by"
+msgstr "by"
+
+#: ../templates/entry-meta-subhead.php:6
+msgid "posted in:"
+msgstr "Geplaatst in:"
+
+#: ../templates/header-style-three.php:42 ../templates/header-style-two.php:47
+#: ../templates/header.php:46
+msgid "Menu"
+msgstr "Menu"
+
+#: ../templates/home/blog-home-onecolumn.php:9
+#: ../templates/home/blog-home.php:4
+msgid "Latest from the Blog"
+msgstr "Laatste van de Blog"
+
+#: ../templates/home/custom-carousel.php:4
+msgid "Featured News"
+msgstr "Aanbevolen Nieuws"
+
+#: ../templates/home/rev-slider.php:6
+#, fuzzy
+msgid "Please Install Revolution Slider Plugin"
+msgstr "Als Revolution Slider"
+
+#: ../templates/similarblog-carousel.php:2
+msgid "Similar Posts"
+msgstr "Vergelijkbare berichten"
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:534
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+"U heeft aanpassingen gemaakt die nog niet zijn opgeslagen. Wilt u ze nu "
+"opslaan?"
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:535
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"Weet u het zeker? Door te resetten zullen al uw aanpassingen verdwijnen."
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:536
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Uw huidige opties zullen worden vervangen door de standaardwaardes. Wilt u "
+"doorgaan?"
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:569
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+"U heeft aanpassingen gedaan die niet opgeslagen zijn. Wilt u ze nu opslaan?"
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:570
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"Weet u dat zeker? Resetten zorgt er voor dat alle aanpassingen verloren gaan."
+
+#: ../themeoptions/extensions/customizer/extension_customizer.php:571
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Uw huidige instellingen zullen worden vervangen door de standaard "
+"instellingen. Wilt u doorgaan?"
+
+#: ../themeoptions/options.php:82
+msgid "Main Settings"
+msgstr "Belangrijke instellingen"
+
+#: ../themeoptions/options.php:84
+msgid "Welcome to Virtue Theme Options"
+msgstr "Welkom bij de Virtue Thema Opties"
+
+#: ../themeoptions/options.php:85
+msgid "This theme was developed by"
+msgstr "Dit thema was ontwikkeld door"
+
+#: ../themeoptions/options.php:86
+msgid "For theme documentation visit"
+msgstr "Voor Thema documentatie bezoek"
+
+#: ../themeoptions/options.php:88
+msgid "For support please visit"
+msgstr "Voor ondersteuning bezoek"
+
+#: ../themeoptions/options.php:96
+msgid "Site Layout Style"
+msgstr "Site Lay-out Stijl"
+
+#: ../themeoptions/options.php:97
+msgid "Select Boxed or Wide Site Layout Style"
+msgstr "Selecteerd Boxed of Wijde Site Lay-out Stijl"
+
+#: ../themeoptions/options.php:108
+msgid "Footer Widget Layout"
+msgstr "Footer Widget Lay-out"
+
+#: ../themeoptions/options.php:109
+msgid "Select how many columns for footer widgets"
+msgstr "Selecteer hoeveel kolommen voor footer widgets"
+
+#: ../themeoptions/options.php:120
+msgid "Logo Options"
+msgstr "Logo Opties"
+
+#: ../themeoptions/options.php:126
+msgid "Logo Layout"
+msgstr "Logo Lay-out"
+
+#: ../themeoptions/options.php:127
+msgid "Choose how you want your logo to be laid out"
+msgstr "Kies hoe u wilt dat uw logo word uitgelijnd"
+
+#: ../themeoptions/options.php:140
+msgid "Logo"
+msgstr "Logo"
+
+#: ../themeoptions/options.php:142
+msgid "Upload your Logo. If left blank theme will use site name."
+msgstr ""
+"Upload uw Logo. Indien leeg gelaten zal het Thema de sitenaam gebruiken."
+
+#: ../themeoptions/options.php:148
+msgid "Upload Your @2x Logo for Retina Screens"
+msgstr "Upload jouw @2x Logo voor Retina Screens"
+
+#: ../themeoptions/options.php:150
+msgid "Should be twice the pixel size of your normal logo."
+msgstr "Moet tweemaal de pixelgrootte van uw normale logo zijn."
+
+#: ../themeoptions/options.php:155
+msgid "Sitename Logo Font"
+msgstr "Sitenaam Logo Font"
+
+#: ../themeoptions/options.php:168
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr ""
+"Kies de grootte en stijl uw sitenaam, als u geen logo afbeelding gebruikt."
+
+#: ../themeoptions/options.php:179
+msgid "Site Tagline - Below Logo\""
+msgstr "Site onderschrift - Onder logo\""
+
+#: ../themeoptions/options.php:180
+msgid "An optional line of text below your logo"
+msgstr "Een Optionele regel tekst onder het logo"
+
+#: ../themeoptions/options.php:187
+msgid "Site Tagline Font"
+msgstr "Site onderschrift Lettertype"
+
+#: ../themeoptions/options.php:199
+msgid "Choose size and style your site tagline"
+msgstr "Kies de grootte en stijl van uw site onderschrift"
+
+#: ../themeoptions/options.php:210 ../themeoptions/options.php:220
+#: ../themeoptions/options.php:230 ../themeoptions/options.php:240
+msgid "Logo Spacing"
+msgstr "Logo Tussenruimte"
+
+#: ../themeoptions/options.php:211 ../themeoptions/options.php:251
+msgid "Top Spacing"
+msgstr "Tussenruimte Boven"
+
+#: ../themeoptions/options.php:221 ../themeoptions/options.php:261
+msgid "Bottom Spacing"
+msgstr "Tussenruimte Onder"
+
+#: ../themeoptions/options.php:231
+msgid "Left Spacing"
+msgstr "Tussenruimte Links"
+
+#: ../themeoptions/options.php:241
+msgid "Right Spacing"
+msgstr "Tussenruimte Rechts"
+
+#: ../themeoptions/options.php:250 ../themeoptions/options.php:260
+msgid "Primary Menu Spacing"
+msgstr "Hoofdmenu Tussenruimte"
+
+#: ../themeoptions/options.php:271
+msgid "Sitewide Banner"
+msgstr "Sitebreede Banner"
+
+#: ../themeoptions/options.php:273
+msgid "Upload a banner for bottom of header."
+msgstr "Upload een banner voor de onderkant of bovenkant."
+
+#: ../themeoptions/options.php:278
+msgid "Banner Link"
+msgstr "Banner Link"
+
+#: ../themeoptions/options.php:283
+msgid "Header Style"
+msgstr "Header Stijl"
+
+#: ../themeoptions/options.php:288
+msgid "Choose a Header Style"
+msgstr "Kies een Header Stijl"
+
+#: ../themeoptions/options.php:296
+msgid "Header Start Height"
+msgstr "Header Start Hoogte"
+
+#: ../themeoptions/options.php:297
+msgid "Note: This header style does not have secondary menu support."
+msgstr "Let op: Deze Header stijl ondersteunt geen secundair menu."
+
+#: ../themeoptions/options.php:307
+msgid "Choose how many menu items per Side"
+msgstr "Kies hoeveel menu items per Kant"
+
+#: ../themeoptions/options.php:308
+msgid "This determines how many menu items fit on each side of the logo"
+msgstr "Dit stelt vast hoeveel menu items er passen aan elke kant van het logo"
+
+#: ../themeoptions/options.php:317
+msgid "Enable Sticky Header?"
+msgstr "Sticky Header aanzetten?"
+
+#: ../themeoptions/options.php:318
+msgid "Choose to enable fixed header. Automatically off for mobile"
+msgstr ""
+"Kies om een fixed header in te stellen. Automatisch uitgeschakeld voor mobiel"
+
+#: ../themeoptions/options.php:324
+msgid "Enable Mobile Sticky Header?"
+msgstr "Mobiele Sticky Header aanzetten?"
+
+#: ../themeoptions/options.php:325
+msgid "Choose to enable fixed header for mobile"
+msgstr "Kies om een fixed header in te stellen voor mobiel"
+
+#: ../themeoptions/options.php:334
+msgid "Topbar Settings"
+msgstr "Topbalk Instellingen"
+
+#: ../themeoptions/options.php:339
+msgid "Use Topbar?"
+msgstr "Gebruik Topbalk?"
+
+#: ../themeoptions/options.php:340
+msgid "Choose to show or hide topbar"
+msgstr "Kies voor het laten zien of verbergen van de topbalk"
+
+#: ../themeoptions/options.php:346
+msgid "Enable topbar mobile menu layout."
+msgstr ""
+
+#: ../themeoptions/options.php:347
+msgid ""
+"This will convert your menu to a mobile friendly layout and move the search "
+"box into the menu."
+msgstr ""
+
+#: ../themeoptions/options.php:353
+msgid "Use Topbar Icon Menu?"
+msgstr "Gebruik Topbalk Icoon Menu?"
+
+#: ../themeoptions/options.php:354
+msgid "Choose to show or hide topbar icon Menu"
+msgstr "Kies voor het laten zien of verbergen van het icoon menu in de topbalk"
+
+#: ../themeoptions/options.php:360
+msgid "Topbar Icon Menu"
+msgstr "Bovenbalk Icoon Menu"
+
+#: ../themeoptions/options.php:361
+msgid "Choose your icons for the topbar icon menu."
+msgstr "Kies uw icoonen voor het bovenbalk icoon menu."
+
+#: ../themeoptions/options.php:366
+msgid "Show Cart total in topbar?"
+msgstr "Laat Winkelwagen totaal in de bovenbalk zien="
+
+#: ../themeoptions/options.php:367
+msgid "This only works if using woocommerce"
+msgstr "Dit werkt alleen in combinatie met woocommerce"
+
+#: ../themeoptions/options.php:373
+msgid "Display Search in Topbar?"
+msgstr "Laat zoekfunctie zien in de Bovenbalk?"
+
+#: ../themeoptions/options.php:374
+msgid "Choose to show or hide search in topbar"
+msgstr ""
+"Kies voor het laten zien of verbergen van de zoekfunctie in de bovenbalk"
+
+#: ../themeoptions/options.php:380
+msgid "Enable widget area in right of Topbar?"
+msgstr "Activeer het Widget gebied rechts in de bovenbalk?"
+
+#: ../themeoptions/options.php:381
+msgid ""
+"Note this will hide remove search (you can re-enable it my adding it to the "
+"widget area)"
+msgstr ""
+"Let op, Dit zal de zoekfunctie weghalen (u kan de zoekfunctie terughalen "
+"door hem in de widget te plaatsen)"
+
+#: ../themeoptions/options.php:387
+msgid "Topbar Layout Switch"
+msgstr "Bovenbalk Lay-out omwisselen"
+
+#: ../themeoptions/options.php:388
+msgid "This moves the left items to the right and right items to the left."
+msgstr ""
+"Dit verplaatst de linker items naar rechts en de rechter items naar links."
+
+#: ../themeoptions/options.php:396
+msgid "Slider Settings"
+msgstr "Slider Instellingen"
+
+#: ../themeoptions/options.php:397
+msgid "Home Page Slider Options"
+msgstr "Home pagina Slider Opties"
+
+#: ../themeoptions/options.php:402
+msgid "Choose a Home Image Slider"
+msgstr "Kies een Home pagina Afbeelding Slider"
+
+#: ../themeoptions/options.php:403
+msgid "If you don't want an image slider on your home page choose none."
+msgstr ""
+"Als u geen afbeelding slider wilt op uw homepagina kies er dan geen (none)."
+
+#: ../themeoptions/options.php:404
+msgid "Thumb Slider"
+msgstr "Thumbnail Slider"
+
+#: ../themeoptions/options.php:404
+msgid "Cyclone Slider / Shortcode"
+msgstr "Cyclone Slider / Shortcode"
+
+#: ../themeoptions/options.php:412 ../themeoptions/options.php:557
+#: ../themeoptions/options.php:1452
+msgid "Choose your Revolution Slider Here"
+msgstr "Kies uw Revolution Slider Hier"
+
+#: ../themeoptions/options.php:421
+msgid "If Kadence Slider"
+msgstr "Als Kadence Slider"
+
+#: ../themeoptions/options.php:422
+msgid "Choose your Kadence Slider Here"
+msgstr "Kies uw Kadence Slider Hier"
+
+#: ../themeoptions/options.php:432
+msgid "Move Slider above Header"
+msgstr "Plaats Slider boven Header"
+
+#: ../themeoptions/options.php:433
+msgid "This works great for full screen sliders"
+msgstr "Dit werkt goed voor sliders op volledigscherm/grootte."
+
+#: ../themeoptions/options.php:440
+msgid "Add arrow at the bottom of slider"
+msgstr "Voeg een pijl toe aan de onderkant van de slider"
+
+#: ../themeoptions/options.php:441
+msgid "This adds a little arrow link that scrolls down into the content"
+msgstr ""
+"Dit voegt een kleine pijl met een link toe die naar beneden naar de content "
+"scrolt indien aangeklikt"
+
+#: ../themeoptions/options.php:448
+msgid "If Cyclone Slider or using any shortcode"
+msgstr "Als Cyclone Slider of gebruikt wordt gemaakt van shortcode"
+
+#: ../themeoptions/options.php:449
+msgid "Paste shortcode here"
+msgstr "Plak shortcode hier"
+
+#: ../themeoptions/options.php:455 ../themeoptions/options.php:573
+#: ../themeoptions/options.php:1468
+msgid "Slider Images"
+msgstr "Slider Afbeeldingen"
+
+#: ../themeoptions/options.php:456 ../themeoptions/options.php:574
+#: ../themeoptions/options.php:1469
+msgid "Use large images for best results."
+msgstr "Gebruik grote afbeeldingen voor het beste resultaat."
+
+#: ../themeoptions/options.php:461 ../themeoptions/options.php:580
+#: ../themeoptions/options.php:1475
+msgid "Slider Max Height"
+msgstr "Slider Maximale Hoogte"
+
+#: ../themeoptions/options.php:462 ../themeoptions/options.php:472
+#: ../themeoptions/options.php:581 ../themeoptions/options.php:592
+#: ../themeoptions/options.php:1476
+msgid "Note: does not work if images are smaller than max."
+msgstr "Let op: werkt niet als afbeeldingen kleiner zijn dan het maximum."
+
+#: ../themeoptions/options.php:471 ../themeoptions/options.php:591
+#: ../themeoptions/options.php:1486
+msgid "Slider Max Width"
+msgstr "Slider Maximale Breedte"
+
+#: ../themeoptions/options.php:481 ../themeoptions/options.php:602
+#: ../themeoptions/options.php:1497
+msgid "Auto Play?"
+msgstr "Automatisch Afspelen?"
+
+#: ../themeoptions/options.php:482 ../themeoptions/options.php:603
+#: ../themeoptions/options.php:1498
+msgid "This determines if a slider automatically scrolls"
+msgstr "Dit stelt vast of een slider automatisch scrolt"
+
+#: ../themeoptions/options.php:488 ../themeoptions/options.php:610
+#: ../themeoptions/options.php:1505
+msgid "Slider Pause Time"
+msgstr "Slider Pause Tijd"
+
+#: ../themeoptions/options.php:489 ../themeoptions/options.php:611
+#: ../themeoptions/options.php:1506
+msgid "How long to pause on each slide, in milliseconds."
+msgstr "Hoe lang moet de pauze tussen elke slide zijn, in millisecondes."
+
+#: ../themeoptions/options.php:498 ../themeoptions/options.php:621
+#: ../themeoptions/options.php:1516
+msgid "Transition Type"
+msgstr "Transitie Type"
+
+#: ../themeoptions/options.php:499 ../themeoptions/options.php:622
+#: ../themeoptions/options.php:1517
+msgid "Choose a transition type"
+msgstr "Kies een transitie type"
+
+#: ../themeoptions/options.php:500 ../themeoptions/options.php:623
+msgid "Fade"
+msgstr "Vervagen"
+
+#: ../themeoptions/options.php:500 ../themeoptions/options.php:623
+msgid "Slide"
+msgstr "Slide"
+
+#: ../themeoptions/options.php:506 ../themeoptions/options.php:630
+#: ../themeoptions/options.php:1525
+msgid "Slider Transition Time"
+msgstr "Slider Transitie Tijd"
+
+#: ../themeoptions/options.php:507 ../themeoptions/options.php:631
+#: ../themeoptions/options.php:1526
+msgid "How long for slide transitions, in milliseconds."
+msgstr "Hoe lang moet de transitie duren, in millisecondes."
+
+#: ../themeoptions/options.php:516 ../themeoptions/options.php:641
+#: ../themeoptions/options.php:1536
+msgid "Show Captions?"
+msgstr "Laat Ondertitel zien?"
+
+#: ../themeoptions/options.php:517 ../themeoptions/options.php:642
+#: ../themeoptions/options.php:1537
+msgid "Choose to show or hide captions"
+msgstr "Kies voor het weergeven of verbergen van ondertitels"
+
+#: ../themeoptions/options.php:523 ../themeoptions/options.php:649
+msgid "Video Embed Code"
+msgstr "Video Embed Code"
+
+#: ../themeoptions/options.php:524 ../themeoptions/options.php:650
+msgid "If your using a video on the home page place video embed code here."
+msgstr ""
+"Als u een video gebruikt op de home pagina plak de video embed code hier."
+
+#: ../themeoptions/options.php:533
+msgid "Mobile Slider"
+msgstr "Mobiele Slider"
+
+#: ../themeoptions/options.php:534
+msgid "Create a more lightweight home slider for your mobile visitors."
+msgstr "Toon een lichtere home slider voor mobiele bezoekers."
+
+#: ../themeoptions/options.php:539
+msgid "Would you like to use this feature?"
+msgstr "Wilt u deze optie gebruiken?"
+
+#: ../themeoptions/options.php:540
+msgid ""
+"Choose if you would like to show a different slider on your home page for "
+"your mobile visitors."
+msgstr ""
+"Kies als u op de home pagina een andere slider voor mobiele bezoekers wilt "
+"laten zien."
+
+#: ../themeoptions/options.php:546
+msgid "Choose a Slider for Mobile"
+msgstr "Kies een Slider voor Mobiel"
+
+#: ../themeoptions/options.php:547
+msgid "Choose which slider you would like to show for mobile viewers."
+msgstr "Kies welke slider u zou willen laten zien voor mobiele gebruikers."
+
+#: ../themeoptions/options.php:566 ../themeoptions/options.php:1461
+msgid "If Cyclone Slider"
+msgstr "Als Cyclone Slider"
+
+#: ../themeoptions/options.php:567 ../themeoptions/options.php:1462
+msgid "Paste Cyclone Slider shortcode here"
+msgstr "Plak Cyclone Slider shortcode hier"
+
+#: ../themeoptions/options.php:659
+msgid "Home Layout"
+msgstr "Home Lay-out"
+
+#: ../themeoptions/options.php:666
+msgid "Display a sidebar on the Home Page?"
+msgstr "Toon een zijpaneel op de Homepagina?"
+
+#: ../themeoptions/options.php:667
+msgid "This determines if there is a sidebar on the home page."
+msgstr ""
+"Dit stelt vast of er een zijpaneel (sidebar) op de homepagina te zien is."
+
+#: ../themeoptions/options.php:677
+msgid "Choose a Sidebar for your Home Page"
+msgstr "Kies een Zijpaneel voor uw Homepagina"
+
+#: ../themeoptions/options.php:685
+msgid "Homepage Layout Manager"
+msgstr "Homepagina Layout Beheer"
+
+#: ../themeoptions/options.php:686
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr "Stel in hoe uw wilt dat de lay-out op de homepagina getoont word"
+
+#: ../themeoptions/options.php:690 ../themeoptions/options.php:716
+msgid "Image Menu"
+msgstr "Afbeeldings Menu"
+
+#: ../themeoptions/options.php:692
+msgid "Latest Blog Posts"
+msgstr "Laatste Blog Berichten"
+
+#: ../themeoptions/options.php:693
+msgid "Portfolio Carousel"
+msgstr "Portfolio Carrousel"
+
+#: ../themeoptions/options.php:694 ../themeoptions/options.php:1054
+msgid "Icon Menu"
+msgstr "Icoon Menu"
+
+#: ../themeoptions/options.php:695
+msgid "Portfolio Full"
+msgstr "Portfolio Volledig"
+
+#: ../themeoptions/options.php:696
+msgid "On Sale Products"
+msgstr "Uitverkoop Producten"
+
+#: ../themeoptions/options.php:697
+msgid "Best Selling Products"
+msgstr "Best Verkochte Producten"
+
+#: ../themeoptions/options.php:698
+msgid "Custom Carousel"
+msgstr "Aangepast Carousel"
+
+#: ../themeoptions/options.php:704
+msgid "Page Content"
+msgstr "Pagina Content"
+
+#: ../themeoptions/options.php:711
+msgid "Home Image Menu"
+msgstr "Home Afbeelding Menu"
+
+#: ../themeoptions/options.php:717 ../themeoptions/options.php:1017
+msgid "Add images, descriptions, titles, and links"
+msgstr "Voeg afbeeldingen, beschrijvingen, titels en links toe "
+
+#: ../themeoptions/options.php:722 ../themeoptions/options.php:1060
+msgid "Choose how many columns in each row"
+msgstr "Kies hoeveel kolommen in elke rij"
+
+#: ../themeoptions/options.php:731
+msgid "Image Menu Height"
+msgstr "Afbeeldings Menu Hoogte"
+
+#: ../themeoptions/options.php:740
+msgid "Home Featured Product Settings"
+msgstr "Home Aanbevolen Product Instellingen"
+
+#: ../themeoptions/options.php:745
+msgid "Home Product Carousel Title"
+msgstr "Home Product Carrousel Titel"
+
+#: ../themeoptions/options.php:746
+msgid "e.g. = Featured Products"
+msgstr "b.v. = Aanbevolen Producten"
+
+#: ../themeoptions/options.php:751 ../themeoptions/options.php:798
+#: ../themeoptions/options.php:845 ../themeoptions/options.php:948
+#: ../themeoptions/options.php:1022
+msgid "Choose how many columns are in carousel"
+msgstr "Kies hoeveel colommen er zijn in de carrousel"
+
+#: ../themeoptions/options.php:760 ../themeoptions/options.php:807
+#: ../themeoptions/options.php:854
+msgid "Choose how many products are in carousel"
+msgstr "Kies hoeveel producten er zijn in de carrousel"
+
+#: ../themeoptions/options.php:769 ../themeoptions/options.php:816
+#: ../themeoptions/options.php:863
+msgid "Carousel Scroll"
+msgstr "Carrousel Scroll"
+
+#: ../themeoptions/options.php:770 ../themeoptions/options.php:817
+#: ../themeoptions/options.php:864
+msgid "Choose how the product items scroll."
+msgstr "Kies hoe de product items scrollen."
+
+#: ../themeoptions/options.php:771 ../themeoptions/options.php:818
+#: ../themeoptions/options.php:865 ../themeoptions/options.php:983
+#: ../themeoptions/options.php:1033 ../themeoptions/options.php:1777
+msgid "One Item"
+msgstr "Een Item"
+
+#: ../themeoptions/options.php:778 ../themeoptions/options.php:825
+#: ../themeoptions/options.php:872 ../themeoptions/options.php:972
+#: ../themeoptions/options.php:1040 ../themeoptions/options.php:1757
+msgid "Choose the carousel speed (in seconds)."
+msgstr "Kies de carrousel snelheid (in secondes)."
+
+#: ../themeoptions/options.php:787
+msgid "Home On Sale Product Settings"
+msgstr "Home Uitverkoop Producten Instellingen"
+
+#: ../themeoptions/options.php:792
+msgid "Home On Sale Product Carousel Title"
+msgstr "Home Uitverkoop Product Carrousel Titel"
+
+#: ../themeoptions/options.php:793
+msgid "e.g. = On Sale Products"
+msgstr "b.v. = Uitverkoop"
+
+#: ../themeoptions/options.php:834
+msgid "Home Best Selling Product Settings"
+msgstr "Home Best Verkochte Producten Instellingen"
+
+#: ../themeoptions/options.php:839
+msgid "Home Best Selling Product Carousel Title"
+msgstr "Home Best Verkochte Producten Carrousel Titel"
+
+#: ../themeoptions/options.php:840
+msgid "e.g. = Best Selling Products"
+msgstr "b.v. = Als Beste Verkocht"
+
+#: ../themeoptions/options.php:881
+msgid "Home Blog Settings"
+msgstr "Home Blog Instellingen"
+
+#: ../themeoptions/options.php:886
+msgid "Home Blog Title"
+msgstr "Home Blog Titel"
+
+#: ../themeoptions/options.php:887
+msgid "e.g. = Latest from the blog"
+msgstr "b.v. = Laatste van de blog"
+
+#: ../themeoptions/options.php:892
+msgid "Choose How many posts on Homepage"
+msgstr "Kies hoeveel berichten op de Homepagina"
+
+#: ../themeoptions/options.php:901
+msgid "Choose how many post columns on Homepage"
+msgstr "Kies hoeveel bericht kolommen op de Homepagina"
+
+#: ../themeoptions/options.php:911
+msgid "Limit posts to a Category"
+msgstr "Limiteer berichten tot een Categorie"
+
+#: ../themeoptions/options.php:912
+msgid "Leave blank to select all"
+msgstr "Laat leeg om alles te selecteren"
+
+#: ../themeoptions/options.php:918
+msgid "Home Post Excerpt Length"
+msgstr "Home Bericht Samenvatting Lengte"
+
+#: ../themeoptions/options.php:919
+msgid "Determines how many words are in the post excerpt."
+msgstr "Stelt vast hoeveel woorden er in de bericht samenvatting te zien zijn."
+
+#: ../themeoptions/options.php:928
+msgid "Home Portfolio Carousel Settings"
+msgstr "Home Portfolio Carrousel Instellingen"
+
+#: ../themeoptions/options.php:933
+msgid "Home Portfolio Carousel title"
+msgstr "Home Portfolio Carrousel titel"
+
+#: ../themeoptions/options.php:934
+msgid "e.g. = Portfolio Carousel title"
+msgstr "b.v. = Ons Portfolio"
+
+#: ../themeoptions/options.php:941
+msgid "Portfolio Carousel Category Type"
+msgstr "Portfolio Carousel Categorie Type"
+
+#: ../themeoptions/options.php:942
+msgid "Leave blank to select all types"
+msgstr "Laat leeg om alle types te selecteren"
+
+#: ../themeoptions/options.php:957 ../themeoptions/options.php:1138
+msgid "Set height for portfolio items - Optional"
+msgstr "Stel hoogte in voor portfolio items - Optioneel"
+
+#: ../themeoptions/options.php:958 ../themeoptions/options.php:1139
+msgid "Example 400"
+msgstr "Voorbeeld 400"
+
+#: ../themeoptions/options.php:963
+msgid "Choose how many portfolio items are in carousel"
+msgstr "Kies hoeveel portfolio items er in de carrousel staan"
+
+#: ../themeoptions/options.php:981 ../themeoptions/options.php:1775
+msgid "Portfolio Carousel Scroll"
+msgstr "Portfolio Carrousel Scroll"
+
+#: ../themeoptions/options.php:982 ../themeoptions/options.php:1776
+msgid "Choose how the portfolio items scroll."
+msgstr "Kies hoe de portfolio items scrollen."
+
+#: ../themeoptions/options.php:990
+msgid "Portfolio Carousel Order by"
+msgstr "Portfolio Carrousel Sorteren bij"
+
+#: ../themeoptions/options.php:991
+msgid "Choose how the portfolio items should be ordered in the carousel."
+msgstr "Kies hoe de portfolio items gesorteert worden in de carrousel."
+
+#: ../themeoptions/options.php:999 ../themeoptions/options.php:1150
+msgid "Display Portfolio Types under Title"
+msgstr "Toon Portfolio Types onder Titel"
+
+#: ../themeoptions/options.php:1005
+msgid "Home Custom Carousel Settings"
+msgstr "Home Aangepaste Carrousel Instellingen"
+
+#: ../themeoptions/options.php:1010
+msgid "Home Custom Carousel Title"
+msgstr "Home Aangepaste Carrousel Titel"
+
+#: ../themeoptions/options.php:1011
+msgid "e.g. = Featured News"
+msgstr "b.v. = Aanbevolen Nieuws"
+
+#: ../themeoptions/options.php:1016
+msgid "Custom Carousel Items"
+msgstr "Aangepaste Carrousel Items"
+
+#: ../themeoptions/options.php:1031
+msgid "Custom Carousel Scroll"
+msgstr "Aangepaste Carrousel Scroll"
+
+#: ../themeoptions/options.php:1032
+msgid "Choose how the custom items scroll."
+msgstr "Kies hoe de aangepaste items scrollen."
+
+#: ../themeoptions/options.php:1049
+msgid "Home Icon Menu"
+msgstr "Home Icoon Meun"
+
+#: ../themeoptions/options.php:1055
+msgid "Choose your icons for the icon menu."
+msgstr "Kies uw iconen voor het icoon menu."
+
+#: ../themeoptions/options.php:1069
+msgid "Icon Menu Box Background Color"
+msgstr "Icoon Menu Box Achtergrond Kleur"
+
+#: ../themeoptions/options.php:1070
+msgid ""
+"Choose the background color for icon menu boxes. * Note the hover color is "
+"set by your primary color in basic styling."
+msgstr ""
+"Kies de Achtergrond Kleur voor de boxen in het icoon menu. * Let op, de "
+"muisover kleur is ingestelt bij uw primaire kleur in basic styling."
+
+#: ../themeoptions/options.php:1077
+msgid "Icon Menu Font and Icon Color"
+msgstr "Icoon Menu Tekst en Icoon Kleur"
+
+#: ../themeoptions/options.php:1078
+msgid ""
+"Choose the color for icon menu font and icon. * Note the hover color is set "
+"to white and background is set to primary color."
+msgstr ""
+"Kies de kleur voor de icoon menu tekst en inconen. * Let op, de muisover "
+"kleur is ingestelt bij uw primaire kleur in basic styling."
+
+#: ../themeoptions/options.php:1085
+msgid "Home Portfolio Full Settings"
+msgstr "Home Volledig Portfolio Instellingen"
+
+#: ../themeoptions/options.php:1090
+msgid "Home Portfolio Full Title"
+msgstr "Home Volledig Portfolio Titel"
+
+#: ../themeoptions/options.php:1091
+msgid "e.g. = Our Work"
+msgstr "b.v. = Ons Werk"
+
+#: ../themeoptions/options.php:1098
+msgid "Portfolio Full Category Type"
+msgstr "Volledig Portfolio Categorie type"
+
+#: ../themeoptions/options.php:1099
+msgid "Choose type for the Portfolio Full"
+msgstr "Kies het type voor het Volledige Portfolio"
+
+#: ../themeoptions/options.php:1105
+msgid "Display Portfolio Filter"
+msgstr "Toon Portfolio Filter"
+
+#: ../themeoptions/options.php:1111
+msgid "Choose how many Portfolio Items on Homepage"
+msgstr "Kies hoeveel Portfolio Items op de Homepagina"
+
+#: ../themeoptions/options.php:1120
+msgid "Portfolio full Order by"
+msgstr "Volledig Portfolio Sorteren op"
+
+#: ../themeoptions/options.php:1121
+msgid "Choose how the portfolio items should be ordered."
+msgstr "Kies hoe de portfolio items gesorteerd moeten worden."
+
+#: ../themeoptions/options.php:1129
+msgid "Choose how many Portfolio columns"
+msgstr "Kies hoeveel Portfolio Kolommen"
+
+#: ../themeoptions/options.php:1144
+#, fuzzy
+msgid "Masonry Style"
+msgstr "Masonry"
+
+#: ../themeoptions/options.php:1156
+msgid "Display lightbox link in top right corner?"
+msgstr "Toon Lightbox link in de rechterboven hoek?"
+
+#: ../themeoptions/options.php:1162
+msgid "Page Content Options (if home page is latest post page)"
+msgstr "Pagina Content Opties (als homepagina is laatste berichten pagina)"
+
+#: ../themeoptions/options.php:1167
+msgid "Latest Post Display"
+msgstr "Toon Laatste Berichten"
+
+#: ../themeoptions/options.php:1168
+msgid ""
+"If Latest Post page is front page. Choose to show full post or post excerpt."
+msgstr ""
+"Als Laatste Berichten Pagina is Voorpagina. Kies voor het tonen van "
+"volledige berichten of samenvattingen."
+
+#: ../themeoptions/options.php:1169 ../themeoptions/options.php:1923
+#, fuzzy
+msgid "Post Excerpt"
+msgstr "Bericht Samenvatting Lengte"
+
+#: ../themeoptions/options.php:1176
+msgid "Use Post Grid Format"
+msgstr "Gebruik Bericht Raster Opmaak"
+
+#: ../themeoptions/options.php:1182
+msgid "Post Columns"
+msgstr "Bericht Kolommen"
+
+#: ../themeoptions/options.php:1194
+msgid "Shop Settings"
+msgstr "Winkel Instellingen"
+
+#: ../themeoptions/options.php:1195
+msgid "Shop Archive Page Settings"
+msgstr "Winkel Archief Pagina Instellingen"
+
+#: ../themeoptions/options.php:1200
+msgid "Shop Product Column Layout"
+msgstr "Winkel Product Kolom Lay-out"
+
+#: ../themeoptions/options.php:1201
+msgid "Choose how many product columns on the shop and category pages"
+msgstr "Kies hoeveel productkolommen op de winkel en categorie paginas."
+
+#: ../themeoptions/options.php:1210
+msgid "Display the sidebar on Shop Page?"
+msgstr "Toon het Zijpaneel op de Winkel Pagina?"
+
+#: ../themeoptions/options.php:1211
+msgid "This determines if there is a sidebar on the shop page."
+msgstr ""
+"Dit stelt vast of er een zijpaneel op de winkel pagina getoont moet worden."
+
+#: ../themeoptions/options.php:1221
+msgid "Choose a Sidebar for your shop page"
+msgstr "Kies een Zijpaneel voor uw winkel pagina"
+
+#: ../themeoptions/options.php:1230
+msgid "Display the sidebar on Product Category Pages?"
+msgstr "Toon het zijpaneel op de Productcategorie Paginas?"
+
+#: ../themeoptions/options.php:1231
+msgid "This determines if there is a sidebar on the product category pages."
+msgstr ""
+"Dit stelt vast of er een zijpaneel op de productcategorie paginas getoont "
+"moet worden."
+
+#: ../themeoptions/options.php:1241
+msgid "Choose a Sidebar for your Product Category Pages"
+msgstr "Kies een zijpaneel voor uw Productcategorie Paginas"
+
+#: ../themeoptions/options.php:1249
+msgid "How many products per page"
+msgstr "Hoeveel Producten per pagina?"
+
+#: ../themeoptions/options.php:1258
+msgid "Force products into rows"
+msgstr ""
+
+#: ../themeoptions/options.php:1259
+msgid "Products fit into rows regardless of size"
+msgstr ""
+
+#: ../themeoptions/options.php:1265
+msgid "Show Category Filter on Shop Page"
+msgstr "Toon Categorie Filter op de Winkel Pagina"
+
+#: ../themeoptions/options.php:1266
+msgid "This adds an dynamic filter to the shop page"
+msgstr "Dit voegt een dynamische filter toe aan de winkel pagina"
+
+#: ../themeoptions/options.php:1272
+msgid "Show Category Filter on Category Pages"
+msgstr "Toon Categorie Filter op de Categorie Paginas"
+
+#: ../themeoptions/options.php:1273
+msgid "This adds an dynamic filter to Category pages"
+msgstr "Dit voegt een dynamische filter toe aan categorie paginas"
+
+#: ../themeoptions/options.php:1279
+msgid "Use Infinite Scroll on Shop pages"
+msgstr "Gebruik Oneindige Scroll op Winkel paginas"
+
+#: ../themeoptions/options.php:1280
+msgid "Not recomended that you use with filter."
+msgstr "Niet aanbevolen in combinatie met de filter."
+
+#: ../themeoptions/options.php:1286
+msgid "Show toggle buttons for list/grid on shop page"
+msgstr ""
+
+#: ../themeoptions/options.php:1287
+msgid ""
+"Adds two icons for toggling between a grid and list layout on shop page."
+msgstr ""
+
+#: ../themeoptions/options.php:1293
+msgid "Stop Product Excerpt from loading in the shop grid pages."
+msgstr ""
+
+#: ../themeoptions/options.php:1294
+msgid "Good to turn on if there are conflicts on your shop grid pages."
+msgstr ""
+
+#: ../themeoptions/options.php:1300
+msgid "Show Ratings in Shop and Category Pages"
+msgstr "Toon Waarderingen op Winkel en Categorie Paginas"
+
+#: ../themeoptions/options.php:1301
+msgid "This determines if the rating is displayed in the product archive pages"
+msgstr ""
+"Dit stelt vast of waarderingen worden getoont op de product archief paginas"
+
+#: ../themeoptions/options.php:1307
+msgid "Show Sold tag if product out of stock."
+msgstr "Laat verkocht tag zien als een product niet meer op voorraad is."
+
+#: ../themeoptions/options.php:1308
+msgid ""
+"This determines if a sold tag is displayed on the top right of the product "
+"image"
+msgstr ""
+"Dit stelt vast of er een verkocht tag word weergegeven in de rechter "
+"bovenhoek van de productafbeelding"
+
+#: ../themeoptions/options.php:1314
+msgid "Hide Add to Cart Till Mouse Hover"
+msgstr "Verberg Aan Winkelwagen Toevoegen tot muisover"
+
+#: ../themeoptions/options.php:1315
+msgid ""
+"This determines if add to cart button will be hidden till the mouse hovers "
+"over the product"
+msgstr ""
+"Dit stelt vast of de Aan Winkelwagen Toevoegen knop verborgen blijft tot de "
+"muis over het product beweegt"
+
+#: ../themeoptions/options.php:1321
+msgid "Product Image Flip"
+msgstr "Product Afbeelding Flip"
+
+#: ../themeoptions/options.php:1322
+msgid ""
+"This allows your product image to flip to the first gallery image when "
+"hovered over on shop page. *Note only works in newer browsers."
+msgstr ""
+"Dit stelt productafbeeldingen in staat om om te draaien naar de eerste "
+"galerij afbeelding bij muisover.*Let op, werkt alleen in nieuwe brouwsers."
+
+#: ../themeoptions/options.php:1328
+msgid "Quantity Box plus and minus"
+msgstr ""
+
+#: ../themeoptions/options.php:1329
+msgid ""
+"Turn this off if you would like to use browser added plus and minus for "
+"number boxes"
+msgstr ""
+
+#: ../themeoptions/options.php:1335
+msgid "Shop Category Image Size"
+msgstr "Winkel Categorieafbeelding Grootte"
+
+#: ../themeoptions/options.php:1340
+msgid "Shop Category Column Layout"
+msgstr "Winkel Categorie Kolom Lay-out"
+
+#: ../themeoptions/options.php:1341
+msgid ""
+"Choose how many Category Image columns to show on the shop and category pages"
+msgstr ""
+"Kies hoeveel categorieafbeelding kolommen te tonen op de winkel en categorie "
+"paginas"
+
+#: ../themeoptions/options.php:1349
+msgid "Category Image Aspect Ratio"
+msgstr "Categorie Afbeelding Aspect Ratio"
+
+#: ../themeoptions/options.php:1350
+msgid ""
+"If enabled below this sets how you want your category images to be cropped."
+msgstr ""
+"Indien aangezet, stel onderstaand in hoe u wilt dat categorieafbeeldingen "
+"verkleint worden."
+
+#: ../themeoptions/options.php:1351 ../themeoptions/options.php:1410
+msgid "Square 1:1"
+msgstr "Vierkant 1:1"
+
+#: ../themeoptions/options.php:1351 ../themeoptions/options.php:1410
+msgid "Portrait 3:4"
+msgstr "Portret 3:4"
+
+#: ../themeoptions/options.php:1351 ../themeoptions/options.php:1410
+msgid "Landscape 4:3"
+msgstr "Landschap 4:3"
+
+#: ../themeoptions/options.php:1351 ../themeoptions/options.php:1410
+msgid "Wide Landscape 4:2"
+msgstr "Wijd Landschap 4:2"
+
+#: ../themeoptions/options.php:1358
+msgid "Shop Product Title Settings"
+msgstr "Winkel Product Titel Instellingen"
+
+#: ../themeoptions/options.php:1363
+msgid "Shop & archive Product title Font"
+msgstr "Winkel & acrhief Product Titel Lettertype"
+
+#: ../themeoptions/options.php:1375
+msgid "Choose Size and Style for product titles on category and archive pages."
+msgstr ""
+"Kies Grootte en Stijl voor Product titel op categorie en archief paginas."
+
+#: ../themeoptions/options.php:1386
+msgid "Set Product Title to Uppercase?"
+msgstr "Zet Product Titel in Hoofdletters?"
+
+#: ../themeoptions/options.php:1387
+msgid "This makes your product titles uppercase on Category pages"
+msgstr "Dit zet alle proct titels om in hoofdletters op Categorie paginas"
+
+#: ../themeoptions/options.php:1393
+msgid "Product title Min Height"
+msgstr "Product titel Minimale Hoogte"
+
+#: ../themeoptions/options.php:1394
+msgid ""
+"If your titles are long increase this to help align your products height."
+msgstr ""
+"Verhoogt getal dit als uw titels te lang zijn, dit helpt om uw "
+"producthoogtes beter uit te lijnen."
+
+#: ../themeoptions/options.php:1403
+msgid "Product Image Sizes"
+msgstr "Product Afbeelding Grootte"
+
+#: ../themeoptions/options.php:1408
+msgid "Product Image Aspect Ratio"
+msgstr "Product Afbeelding Aspect Ratio"
+
+#: ../themeoptions/options.php:1409
+msgid ""
+"If enabled below this sets how you want your product images to be cropped."
+msgstr ""
+"Indien aangezet, stel onderstaand in hoe u wilt dat productafbeeldingen "
+"verkleint worden."
+
+#: ../themeoptions/options.php:1417
+msgid "Enable Product Image Aspect Ratio on Catalog pages"
+msgstr "Sta Productafbeelding Aspect Ratio op Cataloguspaginas toe"
+
+#: ../themeoptions/options.php:1418
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 270px for Catalog Images"
+msgstr ""
+"Indien uitgezet worden afbeelding dimensies ingestelt door de wooceommerce "
+"instellingen - aanbevolen breedte: 270px voor Catalogus Afbeeldingen"
+
+#: ../themeoptions/options.php:1424
+msgid "Enable Product Image Aspect Ratio on product Page"
+msgstr "Sta Productafbeelding Aspect Ratio op productpagina toe"
+
+#: ../themeoptions/options.php:1425
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 468px for Single Product Image"
+msgstr ""
+"Indien uitgezet worden afbeelding dimensies ingestelt door de wooceommerce "
+"instellingen - aanbevolen breedte: 468px voor Individueel Product "
+"Afbeeldingen"
+
+#: ../themeoptions/options.php:1431
+msgid "Shop Slider"
+msgstr "Winkel Slider"
+
+#: ../themeoptions/options.php:1436
+msgid "Would you like to use have a slider on your shop page?"
+msgstr "Wilt u een slider gebruiken op uw winkelpagina?"
+
+#: ../themeoptions/options.php:1442
+msgid "Choose a Slider for your shop page"
+msgstr "Kies een Slider voor uw winkelpagina"
+
+#: ../themeoptions/options.php:1443
+#, fuzzy
+msgid "Cyclone/Shortcode Slider"
+msgstr "Cyclone Slider"
+
+#: ../themeoptions/options.php:1487
+msgid ""
+"Note: does not work if images are smaller than max. If using sidebar set to "
+"770"
+msgstr ""
+"Let op: werkt niet als afbeeldingen kleiner zijn dan maximum. Indien een "
+"zijpaneel gebruikt word stel in op 770"
+
+#: ../themeoptions/options.php:1544
+msgid "Product Page Settings"
+msgstr "Product Pagina Instellingen"
+
+#: ../themeoptions/options.php:1549
+msgid "Single Product Layout"
+msgstr "Individueel ProductLay-out"
+
+#: ../themeoptions/options.php:1550
+msgid ""
+"This determines if the image and product title layout on single product "
+"pages."
+msgstr ""
+"Dit bepaalt of de afbeelding en product titel lay-out op individuele "
+"productpaginas"
+
+#: ../themeoptions/options.php:1560
+msgid "Product Sidebar Default"
+msgstr "Product Zijpaneel Standaartwaarde"
+
+#: ../themeoptions/options.php:1561 ../themeoptions/options.php:1864
+#: ../themeoptions/options.php:1895 ../themeoptions/options.php:1903
+msgid "No, Do not Show"
+msgstr "Nee, Niet Laten zien"
+
+#: ../themeoptions/options.php:1561 ../themeoptions/options.php:1864
+#: ../themeoptions/options.php:1895
+msgid "Yes, Show"
+msgstr "Ja, Laat zien"
+
+#: ../themeoptions/options.php:1568
+msgid "Choose a Default Sidebar for your Single Product Pages"
+msgstr "Kies een standaart Zijpaneel voor uw Individuele Product Paginas"
+
+#: ../themeoptions/options.php:1576
+msgid "Display variations as radio buttons instead of select box?"
+msgstr ""
+"Toon variaties als radio knop (selectie rondjes) inplaats van selectiebox?"
+
+#: ../themeoptions/options.php:1577
+msgid "This will display product varations in a box form."
+msgstr "Dit zal product variaties in een box-formulier tonen"
+
+#: ../themeoptions/options.php:1583
+msgid "Display Product Navigation arrows beside title?"
+msgstr "Toon Product Navigatiepijlen naast de titel?"
+
+#: ../themeoptions/options.php:1584
+msgid ""
+"This will display navigation arrow beside product title to navigate to other "
+"products in the same category."
+msgstr ""
+"Dit toont een navigatie pijl naast de producttitel om te kunnen bladeren "
+"naar andere producten in de zelfde categorie."
+
+#: ../themeoptions/options.php:1590
+msgid "Display product tabs?"
+msgstr "Toon product tabbladen?"
+
+#: ../themeoptions/options.php:1591
+msgid "This determines if product tabs are displayed"
+msgstr "Dit bepaalt of product tabbladen worden getoont"
+
+#: ../themeoptions/options.php:1597
+msgid "Scroll to Tab?"
+msgstr "Scrollen naar Tabblad"
+
+#: ../themeoptions/options.php:1598
+msgid "This scrolls the page to the product tab when clicked"
+msgstr ""
+"Dit bepaalt of de pagina naar het productentabblad moet scrollen indien "
+"aangeklikt"
+
+#: ../themeoptions/options.php:1604
+msgid "Product Tab Order - Lowest First"
+msgstr "Product Tabblad Volgorde - Laagste Eerst"
+
+#: ../themeoptions/options.php:1605
+msgid "Description Tab"
+msgstr "Beschrijving Tabblad"
+
+#: ../themeoptions/options.php:1614
+msgid "Additional Information Tab"
+msgstr "Extra Informatie Tabblad"
+
+#: ../themeoptions/options.php:1623
+msgid "Reviews Tab"
+msgstr "Beoordelingen Tabblad"
+
+#: ../themeoptions/options.php:1641
+msgid "Activate Custom Tab 01"
+msgstr "Activeer Aangepast Tabblad 01"
+
+#: ../themeoptions/options.php:1642 ../themeoptions/options.php:1649
+#: ../themeoptions/options.php:1656
+msgid "This adds a custom product tab to your products"
+msgstr "Dit voegt een Aangepast product tabblad toe aan je producten"
+
+#: ../themeoptions/options.php:1648
+msgid "Activate Custom Tab 02"
+msgstr "Activeer Aangepast Tabblad 02"
+
+#: ../themeoptions/options.php:1655
+msgid "Activate Custom Tab 03"
+msgstr "Activeer Aangepast Tabblad 03"
+
+#: ../themeoptions/options.php:1662
+msgid "Display related products?"
+msgstr "Toon Gerelateerde Producten?"
+
+#: ../themeoptions/options.php:1663
+msgid "This determines related products are displayed"
+msgstr "Dit bepaalt of gerelateerde producten getoont moeten worden"
+
+#: ../themeoptions/options.php:1669
+msgid "Choose how many columns are in related product carousel"
+msgstr ""
+"Kies hoeveel kolommen er moeten zijn in gerelateerde producten carrousel"
+
+#: ../themeoptions/options.php:1680 ../themeoptions/options.php:1681
+msgid "Portfolio Options"
+msgstr "Portfolio Opties"
+
+#: ../themeoptions/options.php:1686
+msgid "Portfolio Permalink Base"
+msgstr "Portfolio Permalink Basis"
+
+#: ../themeoptions/options.php:1687
+msgid "Standard: portfolio *NOTE If you change this resave your permalinks"
+msgstr ""
+"Standaart: Portfolio *Let op als je dit veranderd sla dan opnieuw je "
+"permalinks op"
+
+#: ../themeoptions/options.php:1692
+msgid "Allow Comments on Portfolio Posts"
+msgstr "Reacties op Portfolio Berichten toestaan"
+
+#: ../themeoptions/options.php:1693
+msgid "Turn on to allow Comments on Portfolio posts"
+msgstr "Aanzetten om Reacties op Portfolio Berichten toe te staan."
+
+#: ../themeoptions/options.php:1699
+msgid "Portfolio Navigation Options"
+msgstr "Portfolio Navigatie Opties"
+
+#: ../themeoptions/options.php:1706
+msgid "All Projects Default Portfolio Page"
+msgstr "Alle Projecten Standaart Portfolio Pagina"
+
+#: ../themeoptions/options.php:1707
+msgid "This sets the link in every portfolio post. You can override in post."
+msgstr ""
+"Dit stelt de link in voor elk portfolio bericht. Je kan overschrijven in het "
+"bericht."
+
+#: ../themeoptions/options.php:1712
+msgid "Portfolio Arrow Navigation"
+msgstr "Portfolio Pijl Navigatie"
+
+#: ../themeoptions/options.php:1713
+msgid "Navigate through All Posts"
+msgstr "Navigeer door Alle Berichten"
+
+#: ../themeoptions/options.php:1713
+msgid "Navigate through Category"
+msgstr "Navigeer door Categorie"
+
+#: ../themeoptions/options.php:1720
+msgid "Portfolio Category Pages"
+msgstr "Portfolio Categorie Paginas"
+
+#: ../themeoptions/options.php:1725
+msgid "Choose how many portfolio columns to show on portfolio catagory pages."
+msgstr ""
+"Kies hoeveel portfolio kolommen te laten zien op portfolio categorie paginas."
+
+#: ../themeoptions/options.php:1734
+#, fuzzy
+msgid "Choose how many portfolio items show on portfolio catagory pages."
+msgstr ""
+"Kies hoeveel portfolio kolommen te laten zien op portfolio categorie paginas."
+
+#: ../themeoptions/options.php:1743
+msgid "Portfolio Post Bottom Carousel"
+msgstr "Portfolio Bericht Bodem Carrousel"
+
+#: ../themeoptions/options.php:1748
+msgid "Choose how many columns to show on recent portfolio carousel."
+msgstr "Kies hoeveel kolommen om te tonen op recente portfolio carrousel."
+
+#: ../themeoptions/options.php:1766
+msgid "Choose how many items to show on recent portfolio carousel."
+msgstr ""
+
+#: ../themeoptions/options.php:1786 ../themeoptions/options.php:1787
+msgid "Blog Options"
+msgstr "Blog Opties"
+
+#: ../themeoptions/options.php:1792
+msgid "Post Excerpt Length"
+msgstr "Bericht Samenvatting Lengte"
+
+#: ../themeoptions/options.php:1793
+msgid "Determines how many words are in an Excerpt."
+msgstr "Bepaalt hoeveel woorden er staan in een Samenvatting"
+
+#: ../themeoptions/options.php:1802
+msgid "Show Comments Closed Text?"
+msgstr "Laat reacties zijn niet toegestaan tekst zien?"
+
+#: ../themeoptions/options.php:1803
+msgid "Choose to show or hide comments closed alert below posts."
+msgstr ""
+"Kies voor het weergeven of verbergen van de melding dat reacties niet "
+"toegestaan zijn onder berichten."
+
+#: ../themeoptions/options.php:1809
+msgid "Show Author Icon with posts?"
+msgstr "Laat Auteur incoon zien bij berichten?"
+
+#: ../themeoptions/options.php:1810
+msgid "Choose to show or hide author icon under post title."
+msgstr ""
+"Kies voor het weergeven of verbergen van het auteur icoon en naam onder de "
+"titel van berichten."
+
+#: ../themeoptions/options.php:1816
+msgid "Show \"posted in\" categories with posts?"
+msgstr "Toon \"Geplaatst in\" categorieën met berichten?"
+
+#: ../themeoptions/options.php:1817
+msgid "Choose to show or hide posted in categories under post title."
+msgstr ""
+"Kies voor het tonen of verbergen van geplaatst in categorieën onder bericht "
+"titel."
+
+#: ../themeoptions/options.php:1823
+msgid "Show Comment Icon with posts?"
+msgstr "Toon Reactie Icoon bij Bericht?"
+
+#: ../themeoptions/options.php:1824
+msgid "Choose to show or hide comment icon under post title."
+msgstr ""
+"Kies voor het tonen over verbergen van Reactie Icoon onder Bericht titel."
+
+#: ../themeoptions/options.php:1830
+msgid "Show Date with posts?"
+msgstr "Toon Datum bij Berichten?"
+
+#: ../themeoptions/options.php:1831
+msgid "Choose to show or hide date with post title."
+msgstr "Kies voor het tonen of verbergen van de datum bij Bericht titel."
+
+#: ../themeoptions/options.php:1837
+msgid "Show Previous and Next posts links?"
+msgstr "Toon Vorig en Volgend bericht Links?"
+
+#: ../themeoptions/options.php:1838
+msgid ""
+"Choose to show or hide previous and next post links in the footer of a "
+"single post."
+msgstr ""
+"Kies voor het tonen of verbergen van volgende en vorige bericht links aan de "
+"onderkant van elk individueel bericht."
+
+#: ../themeoptions/options.php:1844
+msgid "Use Infinite Scroll on Blog pages"
+msgstr "Gebruik Ondeindig Scrollen op Blog Paginas"
+
+#: ../themeoptions/options.php:1845 ../themeoptions/options.php:1852
+msgid ""
+"Remove Pagination and creates infinite scroll instead. Note does not work "
+"with slider post summaries"
+msgstr ""
+"Verwijdert paginering en creeert in plaats daarvan een oneindige scrollende "
+"pagina. Let op werkt niet met Slider Bericht Samenvattingen"
+
+#: ../themeoptions/options.php:1851
+#, fuzzy
+msgid "Use Infinite Scroll on Blog archive pages"
+msgstr "Gebruik Ondeindig Scrollen op Blog Paginas"
+
+#: ../themeoptions/options.php:1858
+msgid "Blog Post Defaults"
+msgstr "Blog Bericht Standaardwaarde"
+
+#: ../themeoptions/options.php:1863
+msgid "Blog Post Sidebar Default"
+msgstr "Blog Bericht Zijpaneel Standaardwaarde"
+
+#: ../themeoptions/options.php:1871
+msgid "Blog Post Summary Default"
+msgstr "Blog Bericht Samenvatting Standaardwaarde"
+
+#: ../themeoptions/options.php:1880
+msgid "Default post summary feature Image"
+msgstr ""
+
+#: ../themeoptions/options.php:1881
+msgid "Replace theme default feature image for posts without a featured image"
+msgstr ""
+
+#: ../themeoptions/options.php:1886
+msgid "Blog Post Head Content Default"
+msgstr "Blog Bericht Head Content Standaardwaarde"
+
+#: ../themeoptions/options.php:1894
+msgid "Blog Post Author Box Default"
+msgstr "Blog Bericht Auteur Box Standaardwaarde"
+
+#: ../themeoptions/options.php:1902
+#, fuzzy
+msgid "Blog Post Bottom Carousel Default"
+msgstr "Portfolio Bericht Bodem Carrousel"
+
+#: ../themeoptions/options.php:1910
+#, fuzzy
+msgid "Display Similar Posts in random order?"
+msgstr "Ja - Laat vergelijkbare berichten zien"
+
+#: ../themeoptions/options.php:1917
+msgid "Blog Category/Archive Defaults"
+msgstr "Blog Categorie/Archief Standaardwaarde"
+
+#: ../themeoptions/options.php:1922 ../themeoptions/options.php:1930
+#, fuzzy
+msgid "Category Display Type"
+msgstr "Toon Laatste Berichten"
+
+#: ../themeoptions/options.php:1923
+#, fuzzy
+msgid "Full Post"
+msgstr "Blog Berichten"
+
+#: ../themeoptions/options.php:1923
+#, fuzzy
+msgid "Grid Post"
+msgstr "Vorige Bericht"
+
+#: ../themeoptions/options.php:1940
+msgid "Display the sidebar on blog archives?"
+msgstr "Toon het zijpaneel op blog archieven?"
+
+#: ../themeoptions/options.php:1941
+msgid "This determines if there is a sidebar on the blog category pages."
+msgstr ""
+"Dit bepaalt of er een zijpaneel op blog categorie paginas getoont word."
+
+#: ../themeoptions/options.php:1951
+msgid "Choose a Sidebar for your Category/Archive Pages"
+msgstr "Kies een zijpaneel voor uw Categorie/Archief Paginas"
+
+#: ../themeoptions/options.php:1961
+msgid "Basic Styling"
+msgstr "Basis Stijlen"
+
+#: ../themeoptions/options.php:1962
+msgid "Basic Stylng"
+msgstr "Basis Stijlen"
+
+#: ../themeoptions/options.php:1967
+msgid "Theme Skin Stylesheet"
+msgstr "Thema Stijlblad"
+
+#: ../themeoptions/options.php:1968
+msgid ""
+"Note* changes made in options panel will override this stylesheet. Example: "
+"Colors set in typography."
+msgstr ""
+"Let op* veranderingen gemaakt in dit optie paneel zullen dit stijlblad "
+"overschijven. Bijvoorbeeld:De kleur ingesteld in typografie"
+
+#: ../themeoptions/options.php:1977
+msgid "Primary Color"
+msgstr "Primaire Kleur"
+
+#: ../themeoptions/options.php:1978
+msgid "Choose the default Highlight color for your site."
+msgstr "Kies de standaart Highlight kleur voor uw website."
+
+#: ../themeoptions/options.php:1986
+msgid "20% lighter than Primary Color"
+msgstr "20% lichter dan Primaire Kleur"
+
+#: ../themeoptions/options.php:1987
+msgid "This is used for hover effects"
+msgstr "Dit word gebruikt voor muisover effecten"
+
+#: ../themeoptions/options.php:1996
+msgid "Sitewide Gray Fonts"
+msgstr "Sitegeheel Gijze Tekst"
+
+#: ../themeoptions/options.php:2005
+msgid "Footer Font Color"
+msgstr "Footer Tekst Kleur"
+
+#: ../themeoptions/options.php:2016
+msgid "Advanced Styling"
+msgstr "Geavanceerd Stijlen"
+
+#: ../themeoptions/options.php:2017
+msgid "Main Content Background"
+msgstr "Hoofd Content Achtergrond"
+
+#: ../themeoptions/options.php:2022
+msgid "Content Background Color"
+msgstr "Content Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2031 ../themeoptions/options.php:2071
+#: ../themeoptions/options.php:2111 ../themeoptions/options.php:2151
+#: ../themeoptions/options.php:2191 ../themeoptions/options.php:2230
+#: ../themeoptions/options.php:2270 ../themeoptions/options.php:2310
+msgid "Upload background image or texture"
+msgstr "Achtergrond afbeelding of textuur uploaden"
+
+#: ../themeoptions/options.php:2036 ../themeoptions/options.php:2076
+#: ../themeoptions/options.php:2116 ../themeoptions/options.php:2156
+#: ../themeoptions/options.php:2196 ../themeoptions/options.php:2235
+#: ../themeoptions/options.php:2275 ../themeoptions/options.php:2315
+msgid "Image repeat options"
+msgstr "Afbeelding herhaalopties"
+
+#: ../themeoptions/options.php:2037 ../themeoptions/options.php:2077
+#: ../themeoptions/options.php:2117 ../themeoptions/options.php:2157
+#: ../themeoptions/options.php:2197 ../themeoptions/options.php:2236
+#: ../themeoptions/options.php:2276 ../themeoptions/options.php:2316
+msgid "no-repeat"
+msgstr "no-repeat"
+
+#: ../themeoptions/options.php:2037 ../themeoptions/options.php:2077
+#: ../themeoptions/options.php:2117 ../themeoptions/options.php:2157
+#: ../themeoptions/options.php:2197 ../themeoptions/options.php:2236
+#: ../themeoptions/options.php:2276 ../themeoptions/options.php:2316
+msgid "repeat"
+msgstr "repeat"
+
+#: ../themeoptions/options.php:2037 ../themeoptions/options.php:2077
+#: ../themeoptions/options.php:2117 ../themeoptions/options.php:2157
+#: ../themeoptions/options.php:2197 ../themeoptions/options.php:2236
+#: ../themeoptions/options.php:2276 ../themeoptions/options.php:2316
+msgid "repeat-x"
+msgstr "repeat-x"
+
+#: ../themeoptions/options.php:2037 ../themeoptions/options.php:2077
+#: ../themeoptions/options.php:2117 ../themeoptions/options.php:2157
+#: ../themeoptions/options.php:2197 ../themeoptions/options.php:2236
+#: ../themeoptions/options.php:2276 ../themeoptions/options.php:2316
+msgid "repeat-y"
+msgstr "repeat-y"
+
+#: ../themeoptions/options.php:2043 ../themeoptions/options.php:2083
+#: ../themeoptions/options.php:2123 ../themeoptions/options.php:2163
+#: ../themeoptions/options.php:2203 ../themeoptions/options.php:2242
+#: ../themeoptions/options.php:2282 ../themeoptions/options.php:2322
+msgid "X image placement options"
+msgstr "X afbeelding plaatsingsmogelijkheden"
+
+#: ../themeoptions/options.php:2044 ../themeoptions/options.php:2084
+#: ../themeoptions/options.php:2124 ../themeoptions/options.php:2164
+#: ../themeoptions/options.php:2204 ../themeoptions/options.php:2243
+#: ../themeoptions/options.php:2283 ../themeoptions/options.php:2323
+msgid "left"
+msgstr "links"
+
+#: ../themeoptions/options.php:2044 ../themeoptions/options.php:2051
+#: ../themeoptions/options.php:2084 ../themeoptions/options.php:2091
+#: ../themeoptions/options.php:2124 ../themeoptions/options.php:2131
+#: ../themeoptions/options.php:2164 ../themeoptions/options.php:2171
+#: ../themeoptions/options.php:2204 ../themeoptions/options.php:2211
+#: ../themeoptions/options.php:2243 ../themeoptions/options.php:2250
+#: ../themeoptions/options.php:2283 ../themeoptions/options.php:2290
+#: ../themeoptions/options.php:2323 ../themeoptions/options.php:2330
+msgid "center"
+msgstr "center"
+
+#: ../themeoptions/options.php:2044 ../themeoptions/options.php:2084
+#: ../themeoptions/options.php:2124 ../themeoptions/options.php:2164
+#: ../themeoptions/options.php:2204 ../themeoptions/options.php:2243
+#: ../themeoptions/options.php:2283 ../themeoptions/options.php:2323
+msgid "right"
+msgstr "rechts"
+
+#: ../themeoptions/options.php:2050 ../themeoptions/options.php:2090
+#: ../themeoptions/options.php:2130 ../themeoptions/options.php:2170
+#: ../themeoptions/options.php:2210 ../themeoptions/options.php:2249
+#: ../themeoptions/options.php:2289 ../themeoptions/options.php:2329
+msgid "Y image placement options"
+msgstr "Y afbeelding plaatsingsmogelijkheden"
+
+#: ../themeoptions/options.php:2051 ../themeoptions/options.php:2091
+#: ../themeoptions/options.php:2131 ../themeoptions/options.php:2171
+#: ../themeoptions/options.php:2211 ../themeoptions/options.php:2250
+#: ../themeoptions/options.php:2290 ../themeoptions/options.php:2330
+msgid "top"
+msgstr "top"
+
+#: ../themeoptions/options.php:2051 ../themeoptions/options.php:2091
+#: ../themeoptions/options.php:2131 ../themeoptions/options.php:2171
+#: ../themeoptions/options.php:2211 ../themeoptions/options.php:2250
+#: ../themeoptions/options.php:2290 ../themeoptions/options.php:2330
+msgid "bottom"
+msgstr "bodem"
+
+#: ../themeoptions/options.php:2057
+msgid "Topbar Background"
+msgstr "Topbalk Achtergrond"
+
+#: ../themeoptions/options.php:2062
+msgid "Topbar Background Color"
+msgstr "Topbalk Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2097
+msgid "Header Background"
+msgstr "Header Achtergrond"
+
+#: ../themeoptions/options.php:2102
+msgid "Header Background Color"
+msgstr "Header Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2137
+msgid "Secondary Menu Background"
+msgstr "Secundair Menu Achtergrond"
+
+#: ../themeoptions/options.php:2142
+msgid "Secondary Menu Background Color"
+msgstr "Secundair Menu Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2177
+msgid "Mobile Menu Background"
+msgstr "Mobiel Menu Achtergrond"
+
+#: ../themeoptions/options.php:2182
+msgid "Mobile Menu Background Color"
+msgstr "Mobiel Menu Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2217
+msgid "Feature Background"
+msgstr "Uitgelichte Achtergrond"
+
+#: ../themeoptions/options.php:2256
+msgid "Footer Background"
+msgstr "Footer Achtergrond"
+
+#: ../themeoptions/options.php:2261
+msgid "Footer Background Color"
+msgstr "Footer Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2296
+msgid "Body Background"
+msgstr "Body Achtergrond"
+
+#: ../themeoptions/options.php:2301
+msgid "Body Background Color"
+msgstr "Body Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2336
+msgid "Fixed or Scroll"
+msgstr "Fixed or Scroll"
+
+#: ../themeoptions/options.php:2343
+msgid "Background Size"
+msgstr "Achtergrond Grootte"
+
+#: ../themeoptions/options.php:2352
+msgid "Typography"
+msgstr "Typografie"
+
+#: ../themeoptions/options.php:2353
+msgid "Header Font Options"
+msgstr "Koppen Lettertype Opties"
+
+#: ../themeoptions/options.php:2358
+msgid "H1 Headings"
+msgstr "H1 Koppen"
+
+#: ../themeoptions/options.php:2370
+msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
+msgstr "Kies Grootte en Stijl voor h1 (Dit stijlt je Pagina Titels)"
+
+#: ../themeoptions/options.php:2381
+msgid "H2 Headings"
+msgstr "H2 Koppen"
+
+#: ../themeoptions/options.php:2396
+msgid "Choose Size and Style for h2"
+msgstr "Kies Grootte en Stijl voor h2"
+
+#: ../themeoptions/options.php:2407
+msgid "H3 Headings"
+msgstr "H3 Koppen"
+
+#: ../themeoptions/options.php:2422
+msgid "Choose Size and Style for h3"
+msgstr "Kies Grootte en Stijl voor h3"
+
+#: ../themeoptions/options.php:2433
+msgid "H4 Headings"
+msgstr "H4 Koppen"
+
+#: ../themeoptions/options.php:2448
+msgid "Choose Size and Style for h4"
+msgstr "Kies Grootte en Stijl voor h4"
+
+#: ../themeoptions/options.php:2459
+msgid "H5 Headings"
+msgstr "H5 Koppen"
+
+#: ../themeoptions/options.php:2472
+msgid "Choose Size and Style for h5"
+msgstr "Kies Grootte en Stijl voor h5"
+
+#: ../themeoptions/options.php:2483
+msgid "Body Font Options"
+msgstr "Body Lettertype opties"
+
+#: ../themeoptions/options.php:2488
+msgid "Body Font"
+msgstr "Body Lettertype"
+
+#: ../themeoptions/options.php:2503
+msgid "Choose Size and Style for paragraphs"
+msgstr "Kies Grootte en Stijl voor paragrafen"
+
+#: ../themeoptions/options.php:2516
+msgid "Menu Settings"
+msgstr "Menu Instellingen"
+
+#: ../themeoptions/options.php:2517
+msgid "Primary Menu Options"
+msgstr "Primair Menu Opties"
+
+#: ../themeoptions/options.php:2522
+msgid "Primary Menu Font"
+msgstr "Primair Menu Lettertype"
+
+#: ../themeoptions/options.php:2537
+msgid "Choose Size and Style for primary menu"
+msgstr "Kies Grootte en Stijl voor het Primaire menu"
+
+#: ../themeoptions/options.php:2548
+msgid "Hover and Active Font Color"
+msgstr "Muisover en Actief Lettertype Kleur"
+
+#: ../themeoptions/options.php:2556
+msgid "Hover and Active Background Color"
+msgstr "Muisover en Actief Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2564
+msgid "Secondary Menu Options"
+msgstr "Secundair Menu Optiess"
+
+#: ../themeoptions/options.php:2569
+msgid "Secondary Menu Font"
+msgstr "Secundait Menu Lettertype"
+
+#: ../themeoptions/options.php:2584
+msgid "Choose Size and Style for secondary menu"
+msgstr "Kies Grootte en Stijl voor secundaire menu"
+
+#: ../themeoptions/options.php:2595
+msgid "Secondary Hover and Active Font Color"
+msgstr "Secundair Muisover en Actief Lettertype Kleur"
+
+#: ../themeoptions/options.php:2603
+msgid "Secondary Hover and Active Background Color"
+msgstr "Secundair Muisover en Acties Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2611
+msgid "Secondary Menu Item Size"
+msgstr "Secundair Menu Item Grootte"
+
+#: ../themeoptions/options.php:2612
+msgid "Choose how many menu items fit in the menu."
+msgstr "Kies hoeveel menu items in het menu passen."
+
+#: ../themeoptions/options.php:2613
+msgid "Four Items"
+msgstr "Vier Items"
+
+#: ../themeoptions/options.php:2613
+msgid "Five Items"
+msgstr "Vijf Items"
+
+#: ../themeoptions/options.php:2613
+msgid "Six Items"
+msgstr "Zes Items"
+
+#: ../themeoptions/options.php:2613
+msgid "Seven Items"
+msgstr "Zeven Items"
+
+#: ../themeoptions/options.php:2613
+msgid "Eight Items"
+msgstr "Acht Items"
+
+#: ../themeoptions/options.php:2620
+msgid "Dropdown Menu Style"
+msgstr "Dropdown Menu Stijl"
+
+#: ../themeoptions/options.php:2625
+msgid "Dropdown Font Color"
+msgstr "Dropdown Lettertype Kleur"
+
+#: ../themeoptions/options.php:2633
+msgid "Dropdown Background Color"
+msgstr "Dropdown Achtergrond Kleur"
+
+#: ../themeoptions/options.php:2641
+msgid "Dropdown Border Color"
+msgstr "Dropdown Rand Kleur"
+
+#: ../themeoptions/options.php:2650
+msgid "Mobile Menu Options"
+msgstr "Mobiel Menu Opties"
+
+#: ../themeoptions/options.php:2655
+msgid "Mobile Menu only show button"
+msgstr "Mobiel Menu laat alleen knop zien"
+
+#: ../themeoptions/options.php:2661
+msgid "Submenu items collapse until opened"
+msgstr ""
+
+#: ../themeoptions/options.php:2667
+msgid "Mobile Menu Font"
+msgstr "Mobiel Menu Lettertype"
+
+#: ../themeoptions/options.php:2682
+msgid "Choose Size and Style for Mobile Menu"
+msgstr "Kies Grootten en Stijl voor Mobiel Menu"
+
+#: ../themeoptions/options.php:2693
+msgid "Mobile Hover and Active Font Color"
+msgstr "Mobiel Muisover en Actief Lettertype Kleur"
+
+#: ../themeoptions/options.php:2701
+msgid "Mobile Hover and Active Background Color"
+msgstr "Mobiel Muisover en  Actief Background Color"
+
+#: ../themeoptions/options.php:2711
+msgid "Language Settings"
+msgstr "Taal Instellingen"
+
+#: ../themeoptions/options.php:2712
+msgid "Quick Language Settings"
+msgstr "Snelle Taal Instellingen"
+
+#: ../themeoptions/options.php:2717
+msgid "Mobile Menu Title"
+msgstr "Mobiel Menu Titel"
+
+#: ../themeoptions/options.php:2718
+msgid "Standard: Menu"
+msgstr "Standaard: Menu"
+
+#: ../themeoptions/options.php:2723
+msgid "Search Placeholder Text"
+msgstr "Zoek Placeholder Tekst"
+
+#: ../themeoptions/options.php:2724
+msgid "Standard: Search\""
+msgstr "Standaard: Zoek\""
+
+#: ../themeoptions/options.php:2729
+msgid "Topbar Cart Total Text"
+msgstr "Topbalk Winkelwagen Totaal Tekst"
+
+#: ../themeoptions/options.php:2730
+msgid "Standard: Your Cart"
+msgstr "Standaard: Uw Winkelwagen"
+
+#: ../themeoptions/options.php:2735
+msgid "Product Sold Text"
+msgstr "Product Uitverkocht Tekst"
+
+#: ../themeoptions/options.php:2736
+msgid "Standard: Sold"
+msgstr "Standaard: Uitverkocht"
+
+#: ../themeoptions/options.php:2741
+msgid "Product Sale Text"
+msgstr "Product Uitverkoop Text"
+
+#: ../themeoptions/options.php:2742
+msgid "Standard: Sale"
+msgstr "Standaard: Uitverkoop"
+
+#: ../themeoptions/options.php:2747
+msgid "Post READ MORE text"
+msgstr "Bericht LEES MEER text"
+
+#: ../themeoptions/options.php:2748
+msgid "Standard: Read More"
+msgstr "Standaard: Lees Meer"
+
+#: ../themeoptions/options.php:2753
+msgid "Post Author BY text"
+msgstr "Bericht door Auteur tekst"
+
+#: ../themeoptions/options.php:2754
+msgid "Standard: by"
+msgstr "Standaard: door"
+
+#: ../themeoptions/options.php:2759
+msgid "Post Category POSTED IN text"
+msgstr "Bericht Categorie Geplaatst In tekst"
+
+#: ../themeoptions/options.php:2760
+msgid "Standard: posted in:"
+msgstr "Standaard: geplaatst in:"
+
+#: ../themeoptions/options.php:2765
+msgid "Dynamic filter All text"
+msgstr "Dynamische filter Alles tekst"
+
+#: ../themeoptions/options.php:2766
+msgid "Standard: All"
+msgstr "Standaard: Alles"
+
+#: ../themeoptions/options.php:2771
+msgid "Mobile dynamic Filter Products text"
+msgstr "Mobiele dynamische Filter Producten tekst"
+
+#: ../themeoptions/options.php:2772
+msgid "Standard: Filter Products"
+msgstr "Standaard: Filter Producten"
+
+#: ../themeoptions/options.php:2777
+msgid "Mobile dynamic Filter Projects text"
+msgstr "Mobiele dynamische Filter Projecten tekst"
+
+#: ../themeoptions/options.php:2778
+msgid "Standard: Filter Projects"
+msgstr "Standaard: Filter Projecten"
+
+#: ../themeoptions/options.php:2783
+msgid "Product Page: Description tab text"
+msgstr "Product Pagina: Berschijving tabblad tekst"
+
+#: ../themeoptions/options.php:2784
+msgid "Standard: Description"
+msgstr "Standaard: Beschrijving"
+
+#: ../themeoptions/options.php:2789
+msgid "Product Page: Description header text"
+msgstr "Product Pagina: Berschijving Header tekst"
+
+#: ../themeoptions/options.php:2790
+msgid "Standard: Product Description"
+msgstr "Standaard: Product Berschijving"
+
+#: ../themeoptions/options.php:2795
+msgid "Product Page: Additional Information tab text"
+msgstr "Product Pagina: Extra Informatie Tabblad tekst"
+
+#: ../themeoptions/options.php:2796 ../themeoptions/options.php:2802
+msgid "Standard: Additional Information"
+msgstr "Standaard: Extra Informatie"
+
+#: ../themeoptions/options.php:2801
+msgid "Product Page: Additional Information Header text"
+msgstr "Product Pagina: Extra Informatie Header tekst"
+
+#: ../themeoptions/options.php:2807
+msgid "Product Page: Product Video tab text"
+msgstr "Product Page: Product Video tabblad tekst"
+
+#: ../themeoptions/options.php:2808 ../themeoptions/options.php:2814
+msgid "Standard: Product Video"
+msgstr "Standaard: Product Video"
+
+#: ../themeoptions/options.php:2813
+msgid "Product Page: Product Video Header text"
+msgstr "Product Pagina: Product Video Header tekst"
+
+#: ../themeoptions/options.php:2819
+msgid "Product Page: Reviews tab text"
+msgstr "Product Pagina: Beoordelingen tabblad tekst"
+
+#: ../themeoptions/options.php:2820
+msgid "Standard: Reviews"
+msgstr "Standaard: Beoordelingen"
+
+#: ../themeoptions/options.php:2825
+msgid "Product Page: Related Products text"
+msgstr "Product Pagina: Gerelateerde Prodcten tekst"
+
+#: ../themeoptions/options.php:2826
+msgid "Standard: Related Products"
+msgstr "Standaard: Gerelateerde Producten"
+
+#: ../themeoptions/options.php:2831
+msgid "LightBox: Loading text"
+msgstr "Lightbox: Ladend tekst"
+
+#: ../themeoptions/options.php:2832
+msgid "Standard: Loading..."
+msgstr "Standaard: Laden..."
+
+#: ../themeoptions/options.php:2837
+msgid "LightBox: of text"
+msgstr "Lightbox: van Tekst"
+
+#: ../themeoptions/options.php:2838
+msgid "Standard: of"
+msgstr "Standaard: van"
+
+#: ../themeoptions/options.php:2843
+msgid "LightBox: Error text"
+msgstr "Lightbox: Error tekst"
+
+#: ../themeoptions/options.php:2844
+msgid "Standard: The Image could not be loaded."
+msgstr "Standaard: Kon Afbeelding niet laden."
+
+#: ../themeoptions/options.php:2851
+msgid "Breadcrumbs"
+msgstr "Broodkruimels"
+
+#: ../themeoptions/options.php:2852
+msgid "Sitewide Breadcrumbs"
+msgstr "Sitegeheel Broodkruimels"
+
+#: ../themeoptions/options.php:2857
+msgid "Show Breadcrumbs in Woocommerce Pages and Categories?"
+msgstr "Toon Broodkruimels in Woocommerce Paginas en Categorieen?"
+
+#: ../themeoptions/options.php:2858
+msgid ""
+"Choose to show or hide breadcrumbs on your Woocommerce pages and Categories"
+msgstr ""
+"Kies voor het tonen of verbergen van broodkruimels (breadcrumbs) op uw "
+"woocemmerce paginas en Categorieen"
+
+#: ../themeoptions/options.php:2864
+msgid "Show Breadcrumbs on Products?"
+msgstr "Toon Broodkruimels bij Producten?"
+
+#: ../themeoptions/options.php:2865
+msgid "Choose to show or hide breadcrumbs on your Woocommerce products"
+msgstr ""
+"Kies voor het tonen of verbergen van broodkruimels op uw woocommerce "
+"producten"
+
+#: ../themeoptions/options.php:2871
+msgid "Show Breadcrumbs on Blog Post?"
+msgstr "Toon Broodkruimels op Blog Berichten?"
+
+#: ../themeoptions/options.php:2872
+msgid "Choose to show or hide breadcrumbs on your single blog post"
+msgstr ""
+"Kies voor het tonen of verbergen van broodkruimels op uw individuele blog "
+"berichten"
+
+#: ../themeoptions/options.php:2878
+msgid "Show Breadcrumbs on Portfolio Post?"
+msgstr "Toon Broodkruimels op Portfolio Berichten?"
+
+#: ../themeoptions/options.php:2879
+msgid "Choose to show or hide breadcrumbs on your single portfolio posts"
+msgstr ""
+"Kies voor het tonen of verbergen van broodkruimels op uw individuele "
+"portfolio berichten"
+
+#: ../themeoptions/options.php:2885
+msgid "Show Breadcrumbs on Pages & Categories?"
+msgstr "Toon Broodkruimels op Pagina Categorieen?"
+
+#: ../themeoptions/options.php:2886
+msgid "Choose to show or hide breadcrumbs on your pages and categories"
+msgstr ""
+"Kies voor het tonen of verbergen van broodkruimels op uw paginas en "
+"categorieen"
+
+#: ../themeoptions/options.php:2892
+msgid "Home title for breadcrumbs"
+msgstr "Home titel voor broodkruimels"
+
+#: ../themeoptions/options.php:2893
+msgid "Standard: Home"
+msgstr "Standaard: Home"
+
+#: ../themeoptions/options.php:2900
+msgid "All Blog Post Page"
+msgstr "Alle Blogberichten Pagina"
+
+#: ../themeoptions/options.php:2901
+msgid ""
+"This sets the link for your main blog page, for breadcrumbs. Use only if "
+"your blog page is not your home page."
+msgstr ""
+"Dit bepaalt de link voor je hoofd blog pagina, voor broodkruimels. Gebruik "
+"alleen als uw blog pagina niet je home pagina is."
+
+#: ../themeoptions/options.php:2906
+msgid "Show Shop page in breadcrumbs?"
+msgstr "Toon Winkel Pagina in broodkruimels?"
+
+#: ../themeoptions/options.php:2907
+msgid "Choose to show or hide the shop page in breadcrumbs on your site"
+msgstr ""
+"Kies voor het tonen of verbergen van de winkel pagina in broodkruimels op uw "
+"website"
+
+#: ../themeoptions/options.php:2915 ../themeoptions/options.php:2916
+msgid "Misc Settings"
+msgstr "Diverse Instellingen"
+
+#: ../themeoptions/options.php:2921
+#, fuzzy
+msgid "Allow Comments on Pages"
+msgstr "Reacties op Portfolio Berichten toestaan"
+
+#: ../themeoptions/options.php:2922
+#, fuzzy
+msgid "Turn on to allow comments on Pages"
+msgstr "Aanzetten om Reacties op Portfolio Berichten toe te staan."
+
+#: ../themeoptions/options.php:2928
+msgid "Arrrow navigation for single testimonial post?"
+msgstr ""
+
+#: ../themeoptions/options.php:2936
+#, fuzzy
+msgid "Grid Link for testimonial navigation"
+msgstr "Geen testimonium items gevonden"
+
+#: ../themeoptions/options.php:2942
+msgid "Hide Image Border"
+msgstr "Verberg Afbeeldings Rand"
+
+#: ../themeoptions/options.php:2943
+msgid "Choose to show or hide image border"
+msgstr "Kies voor het tonen of verbergen van afbeeldingsranden"
+
+#: ../themeoptions/options.php:2949
+msgid "Select2 Select"
+msgstr "Selecteer2 selecteer"
+
+#: ../themeoptions/options.php:2950
+msgid "Turn on or off the select2 select"
+msgstr "Zet selecteer2 selecteer uit."
+
+#: ../themeoptions/options.php:2957
+msgid "Custom Favicon"
+msgstr "Aangepaste Favicon"
+
+#: ../themeoptions/options.php:2958
+msgid ""
+"Upload a 16px x 16px png/gif/ico image that will represent your website "
+"favicon."
+msgstr ""
+"Upload een 16px x 16px png/gif/ico afbeelding die je website favicon "
+"representeerd."
+
+#: ../themeoptions/options.php:2963
+msgid "Contact Form Email"
+msgstr "Contact Formulier Email"
+
+#: ../themeoptions/options.php:2964
+msgid "Sets the email for the contact page email form."
+msgstr "Stel het e-mailadres in voor het formulier op de contact pagina."
+
+#: ../themeoptions/options.php:2966
+msgid "Enter a valid email address."
+msgstr "Geef een juist e-mailadres op."
+
+#: ../themeoptions/options.php:2972
+msgid "Footer Copyright Text"
+msgstr "Footer Copyright Tekst"
+
+#: ../themeoptions/options.php:2973
+msgid ""
+"Write your own copyright text here. You can use the following shortcodes in "
+"your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+"Schrijf uw eigen copyright text hier. U kan de volgende shortcodes "
+"gebruiken: [copyright] [site-name] [the-year]"
+
+#: ../themeoptions/options.php:2979
+msgid "Search Results"
+msgstr ""
+
+#: ../themeoptions/options.php:2984
+msgid "Search Results - choose Sidebar"
+msgstr "Zoekresultaten - kies Zijpaneel"
+
+#: ../themeoptions/options.php:2992
+msgid "Search Results Layout"
+msgstr ""
+
+#: ../themeoptions/options.php:2993
+msgid "Grid"
+msgstr ""
+
+#: ../themeoptions/options.php:2993
+msgid "Single Column"
+msgstr ""
+
+#: ../themeoptions/options.php:3000
+msgid "Create Sidebars"
+msgstr "Maak Zijpanelen"
+
+#: ../themeoptions/options.php:3005
+msgid "Create Custom Sidebars"
+msgstr "Maak Aangepaste Zijpanelen"
+
+#: ../themeoptions/options.php:3006
+msgid "Type new sidebar name into textbox"
+msgstr "Geen nieuw zijpaneel naam op in het tekstveld"
+
+#: ../themeoptions/options.php:3007
+msgid "Extra Sidebar"
+msgstr "Extra Zijpaneel"
+
+#: ../themeoptions/options.php:3012
+msgid "Limit Max Page width"
+msgstr "Limiteer Maximale Pagina Breedte"
+
+#: ../themeoptions/options.php:3017
+msgid "Limit Max Page to 940px"
+msgstr "Limiteer Maximale Pagina tot 940px"
+
+#: ../themeoptions/options.php:3023 ../themeoptions/options.php:3028
+msgid "Smooth Scrolling"
+msgstr "Vloeiend Scrollen"
+
+#: ../themeoptions/options.php:3029
+msgid "Leave Off"
+msgstr ""
+
+#: ../themeoptions/options.php:3029
+msgid "Use - with scroll bar replacement"
+msgstr ""
+
+#: ../themeoptions/options.php:3029
+msgid "Use - no replacement of scroll bar (chrome browser only)"
+msgstr ""
+
+#: ../themeoptions/options.php:3036
+msgid "Enable Auto Hide"
+msgstr "Activeer Auto Verberg"
+
+#: ../themeoptions/options.php:3037
+msgid "This hides the scroll bar when not scrolling."
+msgstr "Dit verbergt de scrollbalk als er niet gescrolt wordt."
+
+#: ../themeoptions/options.php:3043
+msgid "Hide Scroll background"
+msgstr "Verberg Scroll achtergrond"
+
+#: ../themeoptions/options.php:3044
+msgid "This hides the scroll bar background."
+msgstr "Dit verbergt de scroll balk achtergrond."
+
+#: ../themeoptions/options.php:3050
+msgid "Wordpress Galleries"
+msgstr "Wordpress Galerijen"
+
+#: ../themeoptions/options.php:3055
+msgid "Enable Virtue Galleries to override Wordpress"
+msgstr "Sta Vitrue Galerijen toe wordpress te overschrijven"
+
+#: ../themeoptions/options.php:3056
+msgid ""
+"Disable this if using a plugin to customize galleries, for example jetpack "
+"tiled gallery."
+msgstr ""
+"Schakel dit uit als je een plugin voor aangepaste galerijen gebruikt, "
+"bijvoorbeeld jetpack tiled gallery."
+
+#: ../themeoptions/options.php:3062
+msgid "Use Masonry Feature on Virtue Galleries"
+msgstr "Gebruik Masonry Feature in Virtue Galerijen"
+
+#: ../themeoptions/options.php:3063
+msgid "This allows for dynamic gallery grids with images of different height"
+msgstr ""
+"Dit activeerd een dynamisch galerij raster met afbeeldingen van "
+"verschillende hoogte"
+
+#: ../themeoptions/options.php:3069
+#, fuzzy
+msgid "Show captions on Virtue Galleries"
+msgstr "Gebruik Masonry Feature in Virtue Galerijen"
+
+#: ../themeoptions/options.php:3070
+msgid "This sets the defualt caption setting to true."
+msgstr ""
+
+#: ../themeoptions/options.php:3076
+msgid "Site Scroll Animation in"
+msgstr "Site Scroll Animatie in"
+
+#: ../themeoptions/options.php:3081
+msgid "Enable Animation In"
+msgstr "Activeer Animatie In"
+
+#: ../themeoptions/options.php:3082
+msgid "Disable this if you want to remove all the appear animation"
+msgstr "Schakel deze uit als u alle weergaven animatie wilt verwijderen"
+
+#: ../themeoptions/options.php:3090
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: ../themeoptions/options.php:3091
+msgid "SEO General Options"
+msgstr "SEO Algemene Opties"
+
+#: ../themeoptions/options.php:3096
+msgid "Google Analytics Tracking ID"
+msgstr "Google Analytisc Tracking ID"
+
+#: ../themeoptions/options.php:3097
+msgid "Paste your Google Analytics Tracking ID Here. (example: UA-########-#)"
+msgstr ""
+"Plak je Google Analytics Tracing ID Hier. (bijvoorbeeld: UA-########-#)"
+
+#: ../themeoptions/options.php:3102
+msgid "Turn on Virtue SEO?"
+msgstr "Zet Vitrue SEO aan?"
+
+#: ../themeoptions/options.php:3103
+msgid ""
+"Choose if you would like to use Virtue Theme SEO options, for full seo "
+"support use a plugin"
+msgstr ""
+"Kies als je gebruik wilt maken van Vitrue SEO opties, voor volledige seo "
+"support gebruik een plug-in"
+
+#: ../themeoptions/options.php:3109
+msgid "Site Title"
+msgstr "Site Titel"
+
+#: ../themeoptions/options.php:3116
+msgid "Site Description"
+msgstr "Site Beschrijving"
+
+#: ../themeoptions/options.php:3124
+msgid "Custom CSS Box"
+msgstr "Aangepaste CSS Box"
+
+#: ../themeoptions/options.php:3129
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: ../themeoptions/options.php:3130
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Voeg snel wat CSS aan uw thema toe door toevoegen in dit blok."
+
+#: ../themeoptions/options.php:3150 ../themeoptions/options.php:3151
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: ../themeoptions/options.php:3159
+msgid ""
+"Thank you for using the Virtue Theme by <a href=\"http://kadencethemes.com/"
+"\" target=\"_blank\">Kadence Themes</a>."
+msgstr ""
+"Bedankt voor het gebruik van the Virtue Theme door <a href=\"http://"
+"kadencethemes.com/\" target=\"_blank\">Kadence Themes</a>."
+
+#: ../woocommerce/archive-product.php:94
+msgid "Filter Products"
+msgstr "Filter Producten"
+
+#: ../woocommerce/loop/rating.php:20
+msgid "not rated"
+msgstr "niet beoordeeld"
+
+#: ../woocommerce/loop/sale-flash.php:17
+#: ../woocommerce/single-product/sale-flash.php:17
+msgid "Out of stock"
+msgstr "Niet op voorraad"
+
+#: ../woocommerce/loop/sale-flash.php:18
+#: ../woocommerce/single-product/sale-flash.php:18
+msgid "Sold"
+msgstr "Uitverkocht"
+
+#: ../woocommerce/loop/sale-flash.php:22 ../woocommerce/loop/sale-flash.php:27
+#: ../woocommerce/single-product/sale-flash.php:22
+#: ../woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr "Uitverkoop!"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:62
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "Clear selection"
+msgstr "Wis selectie"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:68
+msgid "Choose an option"
+msgstr "Kies een optie"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:135
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+"Dit product is momenteel niet op voorraad en daardoor niet beschikbaar."
+
+#: ../woocommerce/single-product/related.php:41
+msgid "Related Products"
+msgstr "Gerelateerde producten"
+
+#: ../woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Beoordeling %d van de 5"
+
+#: ../woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr "van de 5"
+
+#: ../woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr "Uw reactie wacht op goedkeuring"
+
+#: ../woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr "Geverifieerde eigenaar"
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "Misschien wilt u ook&hellip;"
+
+#~ msgid "Wide Parallax"
+#~ msgstr "Brede Parallax"
+
+#~ msgid "Wide Feature"
+#~ msgstr "Brede Aanbevolen"
+
+#~ msgid "Wide Grey"
+#~ msgstr "Breede 'Grey'"
+
+#, fuzzy
+#~ msgid "Wide Content"
+#~ msgstr "Pagina Content"
+
+#~ msgid "Search Results Sidebars"
+#~ msgstr "Zoekresultaten Zijpaneel"
+
+#, fuzzy
+#~ msgid "New %s"
+#~ msgstr "Nieuw "
+
+#~ msgid "Upload Icon"
+#~ msgstr "Upload Icoon"
+
+#~ msgid "Select an Icon"
+#~ msgstr "Selecteer een Icoon"
+
+#~ msgid "Icon Link"
+#~ msgstr "Icoon Link"
+
+#~ msgid "Open Link in New Tab/Window"
+#~ msgstr "Open Link in Nieuw Tabblad/Scherm"
+
+#~ msgid "Delete Icon"
+#~ msgstr "Verwijder Icoon"
+
+#~ msgid "Add Icon"
+#~ msgstr "Icoon Toevoegen"
+
+#~ msgid "Slide Link"
+#~ msgstr "Slide Link"
+
+#~ msgid "Delete Slide"
+#~ msgstr "Verwijder Slide"
+
+#, fuzzy
+#~ msgid "Add %s"
+#~ msgstr "Afbeelding toevoegen"
+
+#~ msgid "Calculate Shipping"
+#~ msgstr "Bereken verzendkosten"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Selecteer een land&hellip;"
+
+#~ msgid "State / county"
+#~ msgstr "Provincie"
+
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Selecteer een provincie"
+
+#~ msgid "City"
+#~ msgstr "Stad"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postcode"
+
+#~ msgid "Update Totals"
+#~ msgstr "Totaal bijwerken"
+
+#~ msgid ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "return. This was given to you on your receipt and in the confirmation "
+#~ "email you should have received."
+#~ msgstr ""
+#~ "Geef uw Order-ID hieronder op en druk op enter om uw bestelling te "
+#~ "volgen .UW Order-ID vind u op de bon en in de orderbevestiging e-mail die "
+#~ "u heeft ontvangen."
+
+#~ msgid "Order ID"
+#~ msgstr "Order ID"
+
+#~ msgid "Found in your order confirmation email."
+#~ msgstr "Te vinden in uw orderbevestiging e-mail"
+
+#~ msgid "Billing Email"
+#~ msgstr "Betalings e-mail"
+
+#~ msgid "Email you used during checkout."
+#~ msgstr "E-mail die u heeft gebruikt tijdens het afrekenen"
+
+#~ msgid "Track"
+#~ msgstr "Volg"
+
+#~ msgid "%s review for %s"
+#~ msgid_plural "%s reviews for %s"
+#~ msgstr[0] "%s beoordeling voor %s"
+#~ msgstr[1] "%s beoordelingen voor %s"
+
+#~ msgid "Reviews"
+#~ msgstr "Beoordelingn"
+
+#~ msgid "There are no reviews yet."
+#~ msgstr "Er zijn nog geen beoordelingen."
+
+#~ msgid "Add a review"
+#~ msgstr "Voeg een beoordeling toe"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Wees de eerste die een beoordeling schrijft"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Your Rating"
+#~ msgstr "Uw Waardeering"
+
+#~ msgid "Rate&hellip;"
+#~ msgstr "Waardeer&hellip;"
+
+#~ msgid "Perfect"
+#~ msgstr "Perfect"
+
+#~ msgid "Good"
+#~ msgstr "Goed"
+
+#~ msgid "Average"
+#~ msgstr "Gemiddeld"
+
+#~ msgid "Not that bad"
+#~ msgstr "Niet zo slecht"
+
+#~ msgid "Very Poor"
+#~ msgstr "Zeer slecht"
+
+#~ msgid "Your Review"
+#~ msgstr "Uw Beoordeling"
+
+#~ msgid ""
+#~ "Only logged in customers who have purchased this product may leave a "
+#~ "review."
+#~ msgstr ""
+#~ "Alleen ingelogte gebruikers die dit product hebben gekocht mogen een "
+#~ "beoordeling achterlaten."
+
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Beoordeling %s van de 5"
+
+#~ msgid "%s customer review"
+#~ msgid_plural "%s customer reviews"
+#~ msgstr[0] "%s klant beoordeling"
+#~ msgstr[1] "%s klantenbeoordelingen"
+
+#~ msgid "Background"
+#~ msgstr "Achtergrond"
+
+#~ msgid "Repeat Background Image"
+#~ msgstr "Herhaal Achtergrond Afbeelding"
+
+#~ msgid "Background Cover"
+#~ msgstr "Achtergrond Dekking"
+
+#~ msgid "Enable Smooth Scrolling"
+#~ msgstr "Activeer Vloeiend Scrollen"
+
+#~ msgid "This enables the styled scroll bar."
+#~ msgstr "Dit activeerd de gestijlde scroll balk."
+
+#~ msgid "Cart Totals"
+#~ msgstr "Winkelwagen Totalen"
+
+#~ msgid "Cart Subtotal"
+#~ msgstr "Winkelwagen Subtotaal"
+
+#~ msgid "Order Total"
+#~ msgstr "Bestelling Totaal"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr " (BTW geschat op %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Let op: Verzending en BTW zijn geschat%s en zullen bij het afrekenen "
+#~ "worden bijgewerkt "
+
+#~ msgid "Product"
+#~ msgstr "Product"
+
+#~ msgid "Price"
+#~ msgstr "Prijs"
+
+#~ msgid "Quantity"
+#~ msgstr "Hoeveelheid"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "Remove this item"
+#~ msgstr "Verwijder dit item"
+
+#~ msgid "Available on backorder"
+#~ msgstr "Beschikbaar op nabestelling"
+
+#~ msgid "Coupon"
+#~ msgstr "Coupon"
+
+#~ msgid "Coupon code"
+#~ msgstr "Coupon code"
+
+#~ msgid "Apply Coupon"
+#~ msgstr "Coupon Toepassen"
+
+#~ msgid "Update Cart"
+#~ msgstr "Winkelwagen bijwerken"
+
+#~ msgid "Proceed to Checkout"
+#~ msgstr "Ga verder naar de kassa"
+
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Wellicht ben u geïnteresseerd in&hellip;"
+
+#~ msgid "Cart Discount"
+#~ msgstr "Winkelwagen Korting"
+
+#~ msgid "[Remove]"
+#~ msgstr "[Verwijder]"
+
+#~ msgid "Shipping"
+#~ msgstr "Verzending"
+
+#~ msgid "Order Discount"
+#~ msgstr "Bestelling Korting"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(Inclusief %s)"
+
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr ""
+#~ "Geen verzendkosten methoden gevonden; Herbereken uw verzending en vul uw "
+#~ "provincie en postcode in om er zeker van te zijn dat er geen andere "
+#~ "beschikbare verzendmethodes voor uw locatie zijn."
+
+#, fuzzy
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr ""
+#~ "Onze excuses, het lijkt erop dat er geen beschikbare verzendmethoden voor "
+#~ "uw locatie zijn (%S)."
+
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr ""
+#~ "Als u hulp nodig heeft of een andere afspraak wilt maken neem dan contact "
+#~ "met ons op."
+
+#~ msgid "Button Color"
+#~ msgstr "Knop Kleur"
+
+#~ msgid "Name: "
+#~ msgstr "Naam: "
+
+#~ msgid "Email: "
+#~ msgstr "E-mailadres: "
+
+#~ msgid "Copy and Paste this code into the theme options import feature"
+#~ msgstr "Kopieer en plak deze code in het thema opties importeren functie"
+
+#~ msgid "There are no previous options"
+#~ msgstr "Er zijn geen eerdere opties"
+
+#~ msgid "Theme Update Import"
+#~ msgstr "Thema Update Import"
+
+#~ msgid ""
+#~ "<p class=\"description\">If updating from version 1.7.4 or earlier use "
+#~ "this script to update your theme options.</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Als u update van versie 1.7.4 of een eerdere "
+#~ "versie, gebruik dan dit script om uw thema opties mee te nemen/updaten.</"
+#~ "p>"
+
+#~ msgid "Turn on and save to start script"
+#~ msgstr "Zet aan en sla op om het script te starten"
+
+#~ msgid "If using a child theme enter child theme folder"
+#~ msgstr "Als u een child theme gebruikt geef dan de child theme map op"
+
+#~ msgid "It is recomended that you leave this off."
+#~ msgstr "Het is aanbevolen dat je deze optie uit laat."
+
+#~ msgid " <span>*</span>"
+#~ msgstr " <span>*</span>"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Installeer Plugin"
+
+#~ msgid "Limit to Category (e.g. = Photos)"
+#~ msgstr "Beperken tot Categorie (b.v. = Fotos)"
+
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "Paneel Opties gemaakt met behulp van %1$s"
+
+#~ msgid "Redux Framework"
+#~ msgstr "Redux Framework"
+
+#~ msgid "Options"
+#~ msgstr "Opties"
+
+#~ msgid "Dismiss"
+#~ msgstr "Afwijzen"
+
+#~ msgid "System Info"
+#~ msgstr "Systeem Info"
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Weet u het zeker? Door te resetten zullen al uw aanpassingen verdwijnen."
+
+#~ msgid "Please Wait"
+#~ msgstr "Een moment geduld"
+
+#~ msgid "Hints"
+#~ msgstr "Hints"
+
+#~ msgid "<p>"
+#~ msgstr "<p>"
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr ""
+#~ "Waarschuwing - Dit optie paneel zal niet goed werken zonder javascript!"
+
+#~ msgid "Expand"
+#~ msgstr "Uitvougen"
+
+#~ msgid "Save Changes"
+#~ msgstr "Aanpassingen Opslaan"
+
+#~ msgid "Reset Section"
+#~ msgstr "Reset Sectie"
+
+#~ msgid "Reset All"
+#~ msgstr "Reset Alles"
+
+#~ msgid "Working..."
+#~ msgstr "Aan het werk..."
+
+#~ msgid "Settings Imported!"
+#~ msgstr "Instellingen geimporteerd!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "Alle Standaardwaardes zijn teruggezet!"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "Alle Standaardwaardes van sectie zijn teruggezet!"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "Instellingen opgeslagen!"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "Instellingen zijn veranderd, u moet ze opslaan!"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "Foutmelding(en) opgetreden!"
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "Waarschuwing(en) opgetreden!"
+
+#~ msgid "%1$s License Key"
+#~ msgstr "%1$s Licentie Sleutel"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Deactiveer Licentie"
+
+#~ msgid ""
+#~ "Updating this theme will lose any customizations you have made. 'Cancel' "
+#~ "to stop, 'OK' to update."
+#~ msgstr ""
+#~ "Update van dit Thema zorgt er voor dat alle aanpassingen die u heeft "
+#~ "gemaakt verdwijnen. 'Annuleer' om te stoppen, 'OK' om te updaten."
+
+#~ msgid "Not Activated"
+#~ msgstr "Niet Geactiveerd"
+
+#~ msgid "Deactivated"
+#~ msgstr "Gedeactiveerd"
+
+#~ msgid "Valid"
+#~ msgstr "Geldig"
+
+#~ msgid "License Status"
+#~ msgstr "Licentie Status"
+
+#~ msgid "Verify License"
+#~ msgstr "Verifieer Licentie"
+
+#~ msgid "Activate License"
+#~ msgstr "Activeer Licentie"
+
+#~ msgid "Select an Option"
+#~ msgstr "Selecteer een Optie"
+
+#~ msgid "Add Slide"
+#~ msgstr "Slide Toevoegen"
+
+#~ msgid "Options Object"
+#~ msgstr "Opties Object"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Toon Object in Javascript Console Object"
+
+#~ msgid "Transparent"
+#~ msgstr "Transparant"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Achtergrond Herhaling"
+
+#~ msgid "Background Clip"
+#~ msgstr "Achtergrond Clip"
+
+#~ msgid "Background Origin"
+#~ msgstr "Achtergrond Oorsprong"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Achtergrond Bijlagen"
+
+#~ msgid "Background Position"
+#~ msgstr "Achtergrond Positie"
+
+#~ msgid "No media selected"
+#~ msgstr "Geen media geselecteerd"
+
+#~ msgid "Top"
+#~ msgstr "Top"
+
+#~ msgid "Bottom"
+#~ msgstr "Bodem"
+
+#~ msgid "Border style"
+#~ msgstr "Border rand"
+
+#~ msgid "To "
+#~ msgstr "Aan "
+
+#~ msgid "Width"
+#~ msgstr "Breedte"
+
+#~ msgid "height"
+#~ msgstr "hoogte"
+
+#~ msgid "Units"
+#~ msgstr "Eenheden"
+
+#~ msgid "Add"
+#~ msgstr "Toevoegen"
+
+#~ msgid "Import / Export Options"
+#~ msgstr "Importeer / Exporteer Opties"
+
+#~ msgid "Import Options"
+#~ msgstr "Importeer Opties"
+
+#~ msgid "Import from file"
+#~ msgstr "Importeer van bestand"
+
+#~ msgid "Import from URL"
+#~ msgstr "Importeer van URL"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Geef onderstaand je backup bestand op en klik Importeren om je site "
+#~ "instellingen terug te zetten van backup."
+
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Geef de URL van een andere site instellingen op en klik Importeer om de "
+#~ "opties van die site te laten."
+
+#~ msgid "Import"
+#~ msgstr "Importeer"
+
+#~ msgid ""
+#~ "WARNING! This will overwrite all existing option values, please proceed "
+#~ "with caution!"
+#~ msgstr ""
+#~ "PAS OP! Dit overschrijft alle ingevulde instellingen, gaat u verder met "
+#~ "de nodige voorzichtigheid!"
+
+#~ msgid "Export Options"
+#~ msgstr "Exporteer Opties"
+
+#~ msgid ""
+#~ "Here you can copy/download your current option settings. Keep this safe "
+#~ "as you can use it as a backup should anything go wrong, or you can use it "
+#~ "to restore your settings on this site (or any other site)."
+#~ msgstr ""
+#~ "Hier kunt u uw huidige instellingen kopieëren/downloaden. Bewaar dit goed "
+#~ "zodat je dit kan gebruiken als backup mocht er iets fout gaan, of u kunt "
+#~ "het gebruiken om je instellingen op deze site terug te zetten. (of een "
+#~ "andere site)"
+
+#~ msgid "Copy"
+#~ msgstr "Kopieër"
+
+#~ msgid "Copy Link"
+#~ msgstr "Kopieër Link"
+
+#~ msgid "Import / Export"
+#~ msgstr "Importeer / Exporteer"
+
+#~ msgid "Regular"
+#~ msgstr "Normaal"
+
+#~ msgid "Visited"
+#~ msgstr "Bezocht"
+
+#~ msgid "Active"
+#~ msgstr "Actief"
+
+#~ msgid "Add More"
+#~ msgstr "Meer Toevoegen"
+
+#~ msgid "Password"
+#~ msgstr "Wachtwoord"
+
+#~ msgid "Username"
+#~ msgstr "Gebruikersnaam"
+
+#~ msgid "Select an item"
+#~ msgstr "Selecteer een item"
+
+#~ msgid "No items of this type were found."
+#~ msgstr "Geen items van dit type gevonden."
+
+#~ msgid "Font family"
+#~ msgstr "Lettertype"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Standaard Lettertype"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Backup Lettertype"
+
+#~ msgid "Font style"
+#~ msgstr "Lettertype Stijl"
+
+#~ msgid "Font subsets"
+#~ msgstr "Lettertype onderliggende sets"
+
+#~ msgid "Subsets"
+#~ msgstr "Onderliggende sets"
+
+#~ msgid "Font script"
+#~ msgstr "Lettertype Script"
+
+#~ msgid "Text Align"
+#~ msgstr "Tekst Uitlijnen"
+
+#~ msgid "Text Transform"
+#~ msgstr "Tekst Transformatie"
+
+#~ msgid "Height"
+#~ msgstr "Hoogte"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Woord Ruimte"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Letter Ruimte"
+
+#~ msgid "Font color"
+#~ msgstr "Tekst Kleur"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Google Webfonts"
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Dit veld moet een correcte kleur waarde bevatten."
+
+#~ msgid ""
+#~ "You must provide a comma separated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "U moet een door komma's gescheiden lijst van numerieke waarden voor deze "
+#~ "optie opgeven."
+
+#~ msgid "This field must be a valid date."
+#~ msgstr "Dit veld moet een geldige datum zijn."
+
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "U moet een geldig e-mailadres voor deze optie opgeven."
+
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "U mag geen HTML in dit veld invoeren, alle HTML-tags zijn verwijderd."
+
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Je moet geen speciale tekens gebruiken in dit veld, alle speciale tekes "
+#~ "zijn verwijderd."
+
+#~ msgid "This field cannot be empty. Please provide a value."
+#~ msgstr "Dit veld kan niet leeg zijn. Geef een waarde op."
+
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "U moet een numerieke waarde voor deze optie opgeven."
+
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "U moet een correcte URL voor deze optie opgeven."
+
+#~ msgid ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+#~ msgstr ""
+#~ "Helaas kon uw betaling niet worden verwerkt omdat de bank van herkomst uw "
+#~ "transactie heeft geweigerd"
+
+#~ msgid "Please attempt your purchase again or go to your account page."
+#~ msgstr "Probeer uw aankoop opnieuw of ga naar uw account pagina."
+
+#~ msgid "Please attempt your purchase again."
+#~ msgstr "Probeer uw aankoop opnieuw."
+
+#~ msgid "Pay"
+#~ msgstr "Betaal"
+
+#~ msgid "Thank you. Your order has been received."
+#~ msgstr "Bedankt. Uw bestelling is ontvangen."
+
+#~ msgid "Order:"
+#~ msgstr "Bestelling:"
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Total:"
+#~ msgstr "Totaal:"
+
+#~ msgid "Payment method:"
+#~ msgstr "Betaalmethode:"
+
+#~ msgid "Default sorting"
+#~ msgstr "Standaard sortering"
+
+#~ msgid "Sort by popularity"
+#~ msgstr "Sorteren op populariteit"
+
+#~ msgid "Sort by average rating"
+#~ msgstr "Sorteren op gemiddelde beoordeling"
+
+#~ msgid "Sort by newness"
+#~ msgstr "Sorteren op nieuwste"
+
+#~ msgid "Sort by price: low to high"
+#~ msgstr "Sorteren op prijs: laag naar hoog"
+
+#~ msgid "Sort by price: high to low"
+#~ msgstr "Sorteren op prijs: hoog naar laag"
+
+#~ msgid "Showing the single result"
+#~ msgstr "Toont het enigste resultaat"
+
+#~ msgid "Showing all %d results"
+#~ msgstr "Toont alle %d resultaten"
+
+#~ msgid "Order Details"
+#~ msgstr "Bestelling Details"
+
+#~ msgid "Download file%s"
+#~ msgstr "Download bestand%s"
+
+#~ msgid "Order Again"
+#~ msgstr "Bestel Opnieuw"
+
+#~ msgid "Customer details"
+#~ msgstr "Klantgegevens"
+
+#~ msgid "Billing Address"
+#~ msgstr "Factuuradres"
+
+#~ msgid "N/A"
+#~ msgstr "NVT"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Verzendadres"
+
+#~ msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+#~ msgstr "Bestelling %s die %s werd gemaakt heeft de status &ldquo;%s&rdquo;"
+
+#~ msgid "ago"
+#~ msgstr "geleden"
+
+#~ msgid "and was completed"
+#~ msgstr "en werd voltooid"
+
+#~ msgid " ago"
+#~ msgstr " geleden"
+
+#~ msgid "Order Updates"
+#~ msgstr "Bestelling Updates"
+
+#~ msgid "Products tagged &ldquo;"
+#~ msgstr "Producten met tag &ldquo;"
+
+#~ msgid "Search results for &ldquo;"
+#~ msgstr "Zoekresultaten voor &ldquo;"
+
+#~ msgid "Posts tagged &ldquo;"
+#~ msgstr "Berichten getagd &ldquo;"
+
+#~ msgid "Author:"
+#~ msgstr "Auteur:"
+
+#~ msgid "Username or email"
+#~ msgstr "Gebruikersnaam of e-mailadres"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Lost Password?"
+#~ msgstr "Wachtwoord Vergeten?"
+
+#~ msgid "Additional Information"
+#~ msgstr "Extra Informatie"
+
+#~ msgid "Product Description"
+#~ msgstr "Productbeschrijving"
