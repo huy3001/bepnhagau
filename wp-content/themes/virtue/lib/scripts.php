@@ -76,3 +76,16 @@ function kadence_google_analytics() {
   }
 }
 add_action('wp_footer', 'kadence_google_analytics', 20);
+
+/**
+ * Enqueue custom css and js
+ */
+function virtue_custom_scripts() {
+    /*============ Styles ============ */
+    wp_enqueue_style( 'styles',   get_template_directory_uri() . '/assets/css/style.css');
+
+    /*============ Javascript ============ */
+    wp_enqueue_script( 'custom',   get_template_directory_uri() . '/assets/js/custom.js',array('jquery'), '3.1.1', true);
+}
+
+add_action( 'wp_enqueue_scripts','virtue_custom_scripts' );

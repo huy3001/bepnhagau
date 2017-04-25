@@ -1,0 +1,46 @@
+/* Virtue theme custom styles */
+
+/* border radius */
+
+/* box shadow */
+
+/* box sizing */
+
+/* calculate */
+
+/* transform */
+
+/* transition */
+
+/* opacity */
+
+/* breakpoint with one condition(min or max) */
+
+/* breakpoint with two conditions (min and max) */
+
+/* extend placeholder */
+
+/* Background */
+
+/* Color */
+
+/* Font */
+
+/* General styles */
+
+/* line 3, assets/scss/global/_general.scss */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header styles */
+
+/* line 6, assets/scss/global/_header.scss */
+
+header.kad-header-style-three #thelogo img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Footer styles */

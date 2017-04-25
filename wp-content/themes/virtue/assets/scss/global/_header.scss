@@ -1,0 +1,12 @@
+/* Header styles */
+
+header {
+    &.kad-header-style-three {
+        #thelogo {
+            img {
+                display: inline-block;
+                vertical-align: middle;
+            }
+        }
+    }
+}
