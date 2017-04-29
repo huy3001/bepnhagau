@@ -1,0 +1,14 @@
+/* Sidebar styles */
+
+#ktsidebar {
+    .kadence_recent_posts {
+        ul {
+            margin-left: 0;
+        }
+        .recentpost_title {
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+    }
+}

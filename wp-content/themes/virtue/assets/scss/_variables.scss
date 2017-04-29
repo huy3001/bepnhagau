@@ -3,8 +3,13 @@
 $bg-menu-active: rgba(0,0,0,.1);
 
 /* Color */
-
+$c-pink: #ca98b1;
 
 /* Font */
 $f-family: Arial, Helvetica, sans-serif;
 $f-size: 14px;
+
+/* Responsive */
+$bp-large: 1024px;
+$bp-medium: 992px;
+$bp-small: 768px;

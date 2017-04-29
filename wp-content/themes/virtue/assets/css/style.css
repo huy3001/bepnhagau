@@ -26,6 +26,8 @@
 
 /* Font */
 
+/* Responsive */
+
 /* General styles */
 
 /* line 3, assets/scss/global/_general.scss */
@@ -36,11 +38,169 @@ body {
 
 /* Header styles */
 
-/* line 6, assets/scss/global/_header.scss */
+/* line 4, assets/scss/global/_header.scss */
+
+header.headerclass {
+  -webkit-box-shadow: 0 1px 5px rgba(202, 152, 177, 0.3);
+  -moz-box-shadow: 0 1px 5px rgba(202, 152, 177, 0.3);
+  box-shadow: 0 1px 5px rgba(202, 152, 177, 0.3);
+  position: relative;
+}
+
+/* line 10, assets/scss/global/_header.scss */
 
 header.kad-header-style-three #thelogo img {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
+}
+
+@media only screen and (max-width: 1024px) {
+  /* line 20, assets/scss/global/_header.scss */
+
+  header#kad-banner #logo .kad-retina-logo {
+    display: inline-block !important;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  /* line 30, assets/scss/global/_header.scss */
+
+  header.kad-header-style-three #thelogo img {
+    padding-top: 15px;
+  }
+
+  /* line 37, assets/scss/global/_header.scss */
+
+  header.kad-center-head-shrink .nav-trigger .nav-trigger-case {
+    top: -80px;
+  }
+
+  /* line 39, assets/scss/global/_header.scss */
+
+  header.kad-center-head-shrink .nav-trigger .nav-trigger-case:focus {
+    outline: none;
+  }
+
+  /* line 42, assets/scss/global/_header.scss */
+
+  header.kad-center-head-shrink .nav-trigger .nav-trigger-case .icon-menu {
+    color: #ca98b1;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /* line 51, assets/scss/global/_header.scss */
+
+  header #kad-shrinkheader {
+    max-height: 80px;
+  }
+
+  /* line 54, assets/scss/global/_header.scss */
+
+  header #kad-shrinkheader #logo a.brand {
+    max-height: 80px;
+  }
+
+  /* line 61, assets/scss/global/_header.scss */
+
+  header.kad-header-style-three #thelogo img {
+    padding: 10px 0;
+  }
+
+  /* line 68, assets/scss/global/_header.scss */
+
+  header#kad-banner #logo .kad-retina-logo {
+    max-height: 80px !important;
+  }
+
+  /* line 75, assets/scss/global/_header.scss */
+
+  header.kad-center-head-shrink .nav-trigger .nav-trigger-case {
+    top: -65px;
+  }
 }
 
 /* Footer styles */
+
+/* line 5, assets/scss/global/_footer.scss */
+
+footer .footercredits p {
+  font-size: 12px;
+}
+
+/* line 12, assets/scss/global/_footer.scss */
+
+footer .footernav ul li a {
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 767px) {
+  /* line 20, assets/scss/global/_footer.scss */
+
+  footer .footercredits {
+    text-align: center;
+  }
+
+  /* line 24, assets/scss/global/_footer.scss */
+
+  footer .footernav ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+  }
+}
+
+/* Breadcrumb styles */
+
+/* line 4, assets/scss/component/_breadcrumb.scss */
+
+.contentclass #kadbreadcrumbs {
+  font-size: 12px;
+}
+
+/* Sidebar styles */
+
+/* line 5, assets/scss/component/_sidebar.scss */
+
+#ktsidebar .kadence_recent_posts ul {
+  margin-left: 0;
+}
+
+/* line 8, assets/scss/component/_sidebar.scss */
+
+#ktsidebar .kadence_recent_posts .recentpost_title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* Single post styles */
+
+/* line 4, assets/scss/page/_single-post.scss */
+
+article .entry-title {
+  margin-top: 40px;
+}
+
+/* line 7, assets/scss/page/_single-post.scss */
+
+article .subhead,
+article .subhead a {
+  font-size: 12px;
+}
+
+/* line 11, assets/scss/page/_single-post.scss */
+
+article #commentform label {
+  font-size: 12px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 767px) {
+  /* line 19, assets/scss/page/_single-post.scss */
+
+  article .entry-title {
+    font-size: 30px;
+  }
+}

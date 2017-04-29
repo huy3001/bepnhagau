@@ -1,2 +1,31 @@
 /* Footer styles */
 
+footer {
+    .footercredits {
+        p {
+            font-size: $f-size - 2px;
+        }
+    }
+    .footernav {
+        ul {
+            li {
+                a {
+                    font-size: $f-size - 2px;
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $bp-small - 1) {
+        .footercredits {
+            text-align: center;
+        }
+        .footernav {
+            ul {
+                display: inline-block;
+                vertical-align: top;
+                padding: 0;
+            }
+        }
+    }
+}

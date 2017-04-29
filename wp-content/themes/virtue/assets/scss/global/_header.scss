@@ -1,11 +1,80 @@
 /* Header styles */
 
 header {
+    &.headerclass {
+        @include box-shadow(0 1px 5px rgba(202,152,177,0.3));
+        position: relative;
+    }
     &.kad-header-style-three {
         #thelogo {
             img {
                 display: inline-block;
-                vertical-align: middle;
+                vertical-align: top;
+            }
+        }
+    }
+
+    @include bp(max-width, $bp-large) {
+        &#kad-banner {
+            #logo {
+                .kad-retina-logo {
+                    display: inline-block !important;
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $bp-medium - 1) {
+        &.kad-header-style-three {
+            #thelogo {
+                img {
+                    padding-top: 15px;
+                }
+            }
+        }
+        &.kad-center-head-shrink {
+            .nav-trigger {
+                .nav-trigger-case {
+                    top: -80px;
+                    &:focus {
+                        outline: none;
+                    }
+                    .icon-menu {
+                        color: $c-pink;
+                    }
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $bp-small - 1) {
+        #kad-shrinkheader {
+            max-height: 80px;
+            #logo {
+                a.brand {
+                    max-height: 80px;
+                }
+            }
+        }
+        &.kad-header-style-three {
+            #thelogo {
+                img {
+                    padding: 10px 0;
+                }
+            }
+        }
+        &#kad-banner {
+            #logo {
+                .kad-retina-logo {
+                    max-height: 80px !important;
+                }
+            }
+        }
+        &.kad-center-head-shrink {
+            .nav-trigger {
+                .nav-trigger-case {
+                    top: -65px;
+                }
             }
         }
     }
