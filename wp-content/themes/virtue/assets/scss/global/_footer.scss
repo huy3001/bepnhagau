@@ -1,6 +1,13 @@
 /* Footer styles */
 
 footer {
+    .footercol4 {
+        .virtue_social_widget {
+            a {
+                float: right;
+            }
+        }
+    }
     .footercredits {
         p {
             font-size: $f-size - 2px;
@@ -16,7 +23,29 @@ footer {
         }
     }
 
+    @include small-bp($bp-small, $bp-medium - 1) {
+        .footercol2 {
+            .kadence_image_grid {
+                .imagegrid-widget {
+                    a.imagegrid_item {
+                        float: right;
+                    }
+                }
+            }
+        }
+    }
+
     @include bp(max-width, $bp-small - 1) {
+        .footercol4 {
+            .virtue_social_widget {
+                text-align: center;
+                a {
+                    display: inline-block;
+                    vertical-align: top;
+                    float: none;
+                }
+            }
+        }
         .footercredits {
             text-align: center;
         }

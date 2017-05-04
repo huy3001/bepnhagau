@@ -1,0 +1,25 @@
+/* Home page styles */
+
+.home {
+    .sliderclass {
+        padding: 30px 0;
+    }
+    .home-portfolio {
+        padding-bottom: 0;
+    }
+    .home_blog {
+        article {
+            .entry-content {
+                a {
+                    display: block;
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $bp-small - 1) {
+        .sliderclass {
+            padding: 0;
+        }
+    }
+}

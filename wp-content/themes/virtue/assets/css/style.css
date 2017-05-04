@@ -122,26 +122,54 @@ header.kad-header-style-three #thelogo img {
 
 /* Footer styles */
 
-/* line 5, assets/scss/global/_footer.scss */
+/* line 6, assets/scss/global/_footer.scss */
+
+footer .footercol4 .virtue_social_widget a {
+  float: right;
+}
+
+/* line 12, assets/scss/global/_footer.scss */
 
 footer .footercredits p {
   font-size: 12px;
 }
 
-/* line 12, assets/scss/global/_footer.scss */
+/* line 19, assets/scss/global/_footer.scss */
 
 footer .footernav ul li a {
   font-size: 12px;
 }
 
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 30, assets/scss/global/_footer.scss */
+
+  footer .footercol2 .kadence_image_grid .imagegrid-widget a.imagegrid_item {
+    float: right;
+  }
+}
+
 @media only screen and (max-width: 767px) {
-  /* line 20, assets/scss/global/_footer.scss */
+  /* line 40, assets/scss/global/_footer.scss */
+
+  footer .footercol4 .virtue_social_widget {
+    text-align: center;
+  }
+
+  /* line 42, assets/scss/global/_footer.scss */
+
+  footer .footercol4 .virtue_social_widget a {
+    display: inline-block;
+    vertical-align: top;
+    float: none;
+  }
+
+  /* line 49, assets/scss/global/_footer.scss */
 
   footer .footercredits {
     text-align: center;
   }
 
-  /* line 24, assets/scss/global/_footer.scss */
+  /* line 53, assets/scss/global/_footer.scss */
 
   footer .footernav ul {
     display: inline-block;
@@ -174,33 +202,83 @@ footer .footernav ul li a {
   overflow: hidden;
 }
 
-/* Single post styles */
+/* Portfolio styles */
 
-/* line 4, assets/scss/page/_single-post.scss */
+@media only screen and (max-width: 1024px) {
+  /* line 7, assets/scss/component/_portfolio.scss */
 
-article .entry-title {
-  margin-top: 40px;
+  .home-portfolio .portfolio_item .portfoliolink,
+  #portfoliowrapper .portfolio_item .portfoliolink {
+    opacity: 1;
+    filter: alpha(opacity=100);
+  }
+
+  /* line 11, assets/scss/component/_portfolio.scss */
+
+  .home-portfolio .portfolio_item .piteminfo h5,
+  #portfoliowrapper .portfolio_item .piteminfo h5 {
+    font-size: 12px;
+  }
 }
 
-/* line 7, assets/scss/page/_single-post.scss */
+/* Article styles */
+
+/* line 4, assets/scss/component/_article.scss */
 
 article .subhead,
 article .subhead a {
   font-size: 12px;
 }
 
-/* line 11, assets/scss/page/_single-post.scss */
+@media only screen and (max-width: 767px) {
+  /* line 9, assets/scss/component/_article.scss */
 
-article #commentform label {
-  font-size: 12px;
-  vertical-align: top;
-  margin-top: 10px;
+  article .entry-title {
+    font-size: 20px;
+    line-height: normal;
+  }
+}
+
+/* Home page styles */
+
+/* line 4, assets/scss/page/_home.scss */
+
+.home .sliderclass {
+  padding: 30px 0;
+}
+
+/* line 7, assets/scss/page/_home.scss */
+
+.home .home-portfolio {
+  padding-bottom: 0;
+}
+
+/* line 13, assets/scss/page/_home.scss */
+
+.home .home_blog article .entry-content a {
+  display: block;
 }
 
 @media only screen and (max-width: 767px) {
-  /* line 19, assets/scss/page/_single-post.scss */
+  /* line 21, assets/scss/page/_home.scss */
 
-  article .entry-title {
-    font-size: 30px;
+  .home .sliderclass {
+    padding: 0;
   }
+}
+
+/* Single post styles */
+
+/* line 5, assets/scss/page/_single-post.scss */
+
+.single-post article .entry-title {
+  margin-top: 40px;
+}
+
+/* line 9, assets/scss/page/_single-post.scss */
+
+.single-post article #commentform label {
+  font-size: 12px;
+  vertical-align: top;
+  margin-top: 10px;
 }

@@ -1,0 +1,17 @@
+/* Portfolio styles */
+
+@include bp(max-width, $bp-large) {
+    .home-portfolio,
+    #portfoliowrapper {
+        .portfolio_item {
+            .portfoliolink {
+                @include opacity(1);
+            }
+            .piteminfo {
+                h5 {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}

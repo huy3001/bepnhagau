@@ -1,0 +1,14 @@
+/* Article styles */
+
+article {
+    .subhead, .subhead a {
+        font-size: $f-size - 2px;
+    }
+
+    @include bp(max-width, $bp-small - 1) {
+        .entry-title {
+            font-size: 20px;
+            line-height: normal;
+        }
+    }
+}

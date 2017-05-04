@@ -1,23 +1,16 @@
 /* Single post styles */
 
-article {
-    .entry-title {
-        margin-top: 40px;
-    }
-    .subhead, .subhead a {
-        font-size: $f-size - 2px;
-    }
-    #commentform {
-        label {
-            font-size: $f-size - 2px;
-            vertical-align: top;
-            margin-top: 10px;
-        }
-    }
-
-    @include bp(max-width, $bp-small - 1) {
+.single-post {
+    article {
         .entry-title {
-            font-size: 30px;
+            margin-top: 40px;
+        }
+        #commentform {
+            label {
+                font-size: $f-size - 2px;
+                vertical-align: top;
+                margin-top: 10px;
+            }
         }
     }
 }
