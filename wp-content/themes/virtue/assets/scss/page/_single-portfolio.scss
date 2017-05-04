@@ -1,0 +1,20 @@
+/* Single portfolio styles */
+
+.single-portfolio {
+    @include bp(max-width, $bp-medium - 1) {
+        .single-portfolio-item {
+            .entry-title {
+                font-size: 30px;
+            }
+        }
+        .portfolio-single-img {
+            margin-bottom: 15px;
+        }
+    }
+
+    @include bp(max-width, $bp-small - 1) {
+        .portfolionav {
+            display: none;
+        }
+    }
+}

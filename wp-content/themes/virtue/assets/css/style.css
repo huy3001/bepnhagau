@@ -36,6 +36,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+@media only screen and (max-width: 767px) {
+  /* line 9, assets/scss/global/_general.scss */
+
+  .page-header h1 {
+    font-size: 30px;
+    line-height: 1;
+  }
+}
+
 /* Header styles */
 
 /* line 4, assets/scss/global/_header.scss */
@@ -205,18 +214,20 @@ footer .footernav ul li a {
 /* Portfolio styles */
 
 @media only screen and (max-width: 1024px) {
-  /* line 7, assets/scss/component/_portfolio.scss */
+  /* line 8, assets/scss/component/_portfolio.scss */
 
   .home-portfolio .portfolio_item .portfoliolink,
-  #portfoliowrapper .portfolio_item .portfoliolink {
+  #portfoliowrapper .portfolio_item .portfoliolink,
+  #portfolio-carousel .portfolio_item .portfoliolink {
     opacity: 1;
     filter: alpha(opacity=100);
   }
 
-  /* line 11, assets/scss/component/_portfolio.scss */
+  /* line 12, assets/scss/component/_portfolio.scss */
 
   .home-portfolio .portfolio_item .piteminfo h5,
-  #portfoliowrapper .portfolio_item .piteminfo h5 {
+  #portfoliowrapper .portfolio_item .piteminfo h5,
+  #portfolio-carousel .portfolio_item .piteminfo h5 {
     font-size: 12px;
   }
 }
@@ -281,4 +292,36 @@ article .subhead a {
   font-size: 12px;
   vertical-align: top;
   margin-top: 10px;
+}
+
+/* Portfolio grid styles */
+
+/* line 6, assets/scss/page/_portfolio-grid.scss */
+
+.page-template-page-portfolio #filters li h5 {
+  font-size: 14px;
+}
+
+/* Single portfolio styles */
+
+@media only screen and (max-width: 991px) {
+  /* line 6, assets/scss/page/_single-portfolio.scss */
+
+  .single-portfolio .single-portfolio-item .entry-title {
+    font-size: 30px;
+  }
+
+  /* line 10, assets/scss/page/_single-portfolio.scss */
+
+  .single-portfolio .portfolio-single-img {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /* line 16, assets/scss/page/_single-portfolio.scss */
+
+  .single-portfolio .portfolionav {
+    display: none;
+  }
 }

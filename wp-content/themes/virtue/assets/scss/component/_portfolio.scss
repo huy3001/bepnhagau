@@ -2,14 +2,15 @@
 
 @include bp(max-width, $bp-large) {
     .home-portfolio,
-    #portfoliowrapper {
+    #portfoliowrapper,
+    #portfolio-carousel {
         .portfolio_item {
             .portfoliolink {
                 @include opacity(1);
             }
             .piteminfo {
                 h5 {
-                    font-size: 12px;
+                    font-size: $f-size - 2px;
                 }
             }
         }

@@ -3,3 +3,12 @@
 body {
     font-family: $f-family;
 }
+
+@include bp(max-width, $bp-small - 1) {
+    .page-header {
+        h1 {
+            font-size: 30px;
+            line-height: 1;
+        }
+    }
+}
