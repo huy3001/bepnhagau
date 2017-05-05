@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-05-04 18:07+0700\n"
+"PO-Revision-Date: 2017-05-05 18:06+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1460,139 +1460,141 @@ msgstr "Đóng"
 #: ../lib/kad_shortcodes/shortcodes.php:406
 #: ../lib/kad_shortcodes/shortcodes.php:409
 msgid "please specify correct url"
-msgstr ""
+msgstr "vui lòng ghi rõ url chính xác"
 
 #: ../lib/kad_shortcodes/staff_shortcodes.php:82 ../page-staff-grid.php:93
 msgid "Filter Staff"
-msgstr ""
+msgstr "Nhân viên Lọc"
 
 #: ../lib/kad_shortcodes/staff_shortcodes.php:162 ../page-staff-grid.php:169
 msgid "Sorry, no staff entries found."
-msgstr ""
+msgstr "Rất tiếc, không có mục nhân viên nào được tìm thấy."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:9
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:82
 #: ../page-contact.php:144 ../templates/comments.php:69
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:10
 #: ../lib/post-types.php:66
 msgid "Testimonial"
-msgstr ""
+msgstr "Lời đánh giá"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:11
 msgid "Location - optional"
-msgstr ""
+msgstr "Vị trí - tùy chọn"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:12
 msgid "Position or Company - optional"
-msgstr ""
+msgstr "Vị trí hoặc Công ty - tùy chọn"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:13
 msgid "Link - optional"
-msgstr ""
+msgstr "Liên kết - tùy chọn"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:14
 msgid "Image Upload - optional"
-msgstr ""
+msgstr "Tải lên hình ảnh - tùy chọn"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:15
 msgid "Submit"
-msgstr ""
+msgstr "Gửi đi"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:16
 #: ../page-contact.php:104
 msgid "Check your math."
-msgstr ""
+msgstr "Kiểm tra thuật toán của bạn."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:17
 #: ../page-contact.php:109
 msgid "Please enter your name."
-msgstr ""
+msgstr "Xin hãy nhập tên của bạn."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:18
 msgid "Please add testimonial content."
-msgstr ""
+msgstr "Hãy thêm nội dung đánh giá."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:19
 #: ../page-contact.php:189
 msgid "Sorry, an error occured."
-msgstr ""
+msgstr "Xin lỗi, đã xảy ra lỗi."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:20
 msgid "You must be logged in to submit an testimonial."
-msgstr ""
+msgstr "Bạn phải đăng nhập để gửi một đánh giá."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:21
 msgid ""
 "Thank you for submitting your testimonial! It is now awaiting approval from "
 "the site admnistator. Thank you!"
 msgstr ""
+"Cảm ơn bạn đã gửi đánh giá của bạn! Nó đang chờ sự chấp thuận của quản trị "
+"viên trang web. Cảm ơn bạn!"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:29
 #: ../page-contact.php:13
 msgid "This field is required."
-msgstr ""
+msgstr "Trường này là bắt buộc."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:30
 #: ../page-contact.php:13
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Vui lòng nhập địa chỉ email hợp lệ."
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:81
 msgid " Testimonial Post"
-msgstr ""
+msgstr " Bài viết đánh giá"
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:81
 #: ../page-contact.php:143
 msgid "From "
-msgstr ""
+msgstr "Từ "
 
 #: ../lib/kad_shortcodes/testimonial_form_shortcode.php:83
 #: ../page-contact.php:145
 msgid "From"
-msgstr ""
+msgstr "Từ"
 
 #: ../lib/kad_shortcodes/testimonial_shortcodes.php:109
 #: ../page-testimonial-grid.php:132
 msgid "Sorry, no testimonial entries found."
-msgstr ""
+msgstr "Xin lỗi, không tìm thấy đánh giá nào."
 
 #: ../lib/metaboxes.php:39
 msgid "All Blog Posts"
-msgstr ""
+msgstr "Tất cả bài viết blog"
 
 #: ../lib/metaboxes.php:119
 msgid "Page Title and Subtitle"
-msgstr ""
+msgstr "Tiêu đề trang và Phụ đề"
 
 #: ../lib/metaboxes.php:126 ../lib/premium_widgets.php:709
 msgid "Subtitle"
-msgstr ""
+msgstr "Phụ đề"
 
 #: ../lib/metaboxes.php:127
 msgid "Subtitle will go below page title"
-msgstr ""
+msgstr "Phụ đề sẽ nằm dưới tiêu đề trang"
 
 #: ../lib/metaboxes.php:135
 msgid "Standard Post Options"
-msgstr ""
+msgstr "Tuỳ chọn Bài viết Tiêu chuẩn"
 
 #: ../lib/metaboxes.php:144
 msgid "Head Content"
-msgstr ""
+msgstr "Nội dung chính"
 
 #: ../lib/metaboxes.php:149 ../lib/metaboxes.php:176
 msgid "Site Default"
-msgstr ""
+msgstr "Trang web Mặc định"
 
 #: ../lib/metaboxes.php:150 ../lib/metaboxes.php:289
 #: ../lib/premium_widgets.php:389 ../themeoptions/options.php:593
 #: ../themeoptions/options.php:738 ../themeoptions/options.php:1662
 #: ../themeoptions/options.php:2112
 msgid "None"
-msgstr ""
+msgstr "Trống"
 
 #: ../lib/metaboxes.php:151 ../lib/metaboxes.php:279
 msgid "Image Slider (Flex Slider)"
@@ -1612,16 +1614,16 @@ msgstr ""
 #: ../lib/metaboxes.php:912 ../themeoptions/options.php:593
 #: ../themeoptions/options.php:738 ../themeoptions/options.php:2112
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ../lib/metaboxes.php:155 ../lib/metaboxes.php:278 ../lib/metaboxes.php:326
 #: ../lib/metaboxes.php:913 ../themeoptions/options.php:2112
 msgid "Image"
-msgstr ""
+msgstr "Ảnh"
 
 #: ../lib/metaboxes.php:159 ../lib/metaboxes.php:299 ../lib/metaboxes.php:943
 msgid "Max Image/Slider Height"
-msgstr ""
+msgstr "Chiều cao tối đa của hình ảnh/thanh trượt"
 
 #: ../lib/metaboxes.php:160 ../lib/metaboxes.php:944
 msgid "Default is: 400 (Note: just input number, example: 350)"
@@ -1629,7 +1631,7 @@ msgstr ""
 
 #: ../lib/metaboxes.php:165 ../lib/metaboxes.php:305 ../lib/metaboxes.php:949
 msgid "Max Image/Slider Width"
-msgstr ""
+msgstr "Chiều rộng tối đa của hình ảnh/thanh trượt"
 
 #: ../lib/metaboxes.php:166
 msgid ""
@@ -1639,27 +1641,27 @@ msgstr ""
 
 #: ../lib/metaboxes.php:171
 msgid "Post Summary"
-msgstr ""
+msgstr "Tóm tắt bài viết"
 
 #: ../lib/metaboxes.php:177 ../themeoptions/options.php:2097
 msgid "Text"
-msgstr ""
+msgstr "Văn bản"
 
 #: ../lib/metaboxes.php:178 ../themeoptions/options.php:2097
 msgid "Portrait Image"
-msgstr ""
+msgstr "Hình ảnh chân dung"
 
 #: ../lib/metaboxes.php:179 ../themeoptions/options.php:2097
 msgid "Landscape Image"
-msgstr ""
+msgstr "Hình ảnh phong cảnh"
 
 #: ../lib/metaboxes.php:180 ../themeoptions/options.php:2097
 msgid "Portrait Image Slider"
-msgstr ""
+msgstr "Thanh trượt hình ảnh chân dung"
 
 #: ../lib/metaboxes.php:181 ../themeoptions/options.php:2097
 msgid "Landscape Image Slider"
-msgstr ""
+msgstr "Thanh trượt hình ảnh phong cảnh"
 
 #: ../lib/metaboxes.php:186 ../lib/metaboxes.php:965
 msgid "If Video Post"
@@ -1672,17 +1674,17 @@ msgstr ""
 
 #: ../lib/metaboxes.php:196
 msgid "Post Options"
-msgstr ""
+msgstr "Tùy chọn bài viết"
 
 #: ../lib/metaboxes.php:203 ../lib/metaboxes.php:492 ../lib/metaboxes.php:1024
 #: ../lib/metaboxes.php:1094 ../lib/metaboxes.php:1245
 msgid "Display Sidebar?"
-msgstr ""
+msgstr "Hiển thị Thanh bên?"
 
 #: ../lib/metaboxes.php:204 ../lib/metaboxes.php:493 ../lib/metaboxes.php:1025
 #: ../lib/metaboxes.php:1095 ../lib/metaboxes.php:1246
 msgid "Choose if layout is fullwidth or sidebar"
-msgstr ""
+msgstr "Chọn bố cục là đầy đủ hoặc thanh bên"
 
 #: ../lib/metaboxes.php:209 ../lib/metaboxes.php:227 ../lib/metaboxes.php:316
 #: ../lib/metaboxes.php:426 ../lib/metaboxes.php:499 ../lib/metaboxes.php:557
@@ -1692,7 +1694,7 @@ msgstr ""
 #: ../lib/metaboxes.php:1126 ../lib/metaboxes.php:1142
 #: ../lib/metaboxes.php:1153 ../lib/metaboxes.php:1250
 msgid "Yes"
-msgstr ""
+msgstr "Có"
 
 #: ../lib/metaboxes.php:210 ../lib/metaboxes.php:226 ../lib/metaboxes.php:237
 #: ../lib/metaboxes.php:317 ../lib/metaboxes.php:425 ../lib/metaboxes.php:498
@@ -1702,45 +1704,45 @@ msgstr ""
 #: ../lib/metaboxes.php:1127 ../lib/metaboxes.php:1143
 #: ../lib/metaboxes.php:1152 ../lib/metaboxes.php:1251
 msgid "No"
-msgstr ""
+msgstr "Không"
 
 #: ../lib/metaboxes.php:214 ../lib/metaboxes.php:503 ../lib/metaboxes.php:1034
 #: ../lib/metaboxes.php:1104 ../lib/metaboxes.php:1255
 #: ../lib/metaboxes.php:1273
 msgid "Choose Sidebar"
-msgstr ""
+msgstr "Chọn Thanh bên"
 
 #: ../lib/metaboxes.php:220
 msgid "Author Info"
-msgstr ""
+msgstr "Thông tin tác giả"
 
 #: ../lib/metaboxes.php:221
 msgid "Display an author info box?"
-msgstr ""
+msgstr "Hiển thị hộp thông tin tác giả?"
 
 #: ../lib/metaboxes.php:231
 msgid "Posts Carousel"
-msgstr ""
+msgstr "Băng chuyền bài viết"
 
 #: ../lib/metaboxes.php:232
 msgid "Display a carousel with similar or recent posts?"
-msgstr ""
+msgstr "Hiển thị băng chuyền với các bài viết tương tự hoặc gần đây?"
 
 #: ../lib/metaboxes.php:238 ../themeoptions/options.php:2128
 msgid "Yes - Display Recent Posts"
-msgstr ""
+msgstr "Có - Hiển thị các bài viết gần đây"
 
 #: ../lib/metaboxes.php:239 ../themeoptions/options.php:2128
 msgid "Yes - Display Similar Posts"
-msgstr ""
+msgstr "Có - Hiển thị các bài viết tương tự"
 
 #: ../lib/metaboxes.php:244 ../lib/metaboxes.php:414
 msgid "Carousel Title"
-msgstr ""
+msgstr "Tiêu đề băng chuyền"
 
 #: ../lib/metaboxes.php:245
 msgid "ex. Similar Posts"
-msgstr ""
+msgstr "ví dụ Các bài viết tương tự"
 
 #: ../lib/metaboxes.php:254
 msgid "Portfolio Post Options"
