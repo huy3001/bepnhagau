@@ -2,12 +2,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-05-05 18:06+0700\n"
+"PO-Revision-Date: 2017-05-22 18:01+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.2\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1598,17 +1598,17 @@ msgstr "Trống"
 
 #: ../lib/metaboxes.php:151 ../lib/metaboxes.php:279
 msgid "Image Slider (Flex Slider)"
-msgstr ""
+msgstr "Thanh trượt hình ảnh (thanh trượt Flex)"
 
 #: ../lib/metaboxes.php:152
 msgid "Carousel Slider - (Caroufedsel Slider)"
-msgstr ""
+msgstr "Thanh trượt Carousel - (Thanh trượt Caroufedsel)"
 
 #: ../lib/metaboxes.php:153 ../lib/metaboxes.php:281
 #: ../lib/premium_widgets.php:67 ../themeoptions/options.php:593
 #: ../themeoptions/options.php:2112
 msgid "Image Carousel"
-msgstr ""
+msgstr "Hình ảnh Carousel"
 
 #: ../lib/metaboxes.php:154 ../lib/metaboxes.php:182 ../lib/metaboxes.php:288
 #: ../lib/metaboxes.php:912 ../themeoptions/options.php:593
@@ -1627,7 +1627,7 @@ msgstr "Chiều cao tối đa của hình ảnh/thanh trượt"
 
 #: ../lib/metaboxes.php:160 ../lib/metaboxes.php:944
 msgid "Default is: 400 (Note: just input number, example: 350)"
-msgstr ""
+msgstr "Mặc định là: 400 (Lưu ý: chỉ cần nhập số lượng, ví dụ: 350)"
 
 #: ../lib/metaboxes.php:165 ../lib/metaboxes.php:305 ../lib/metaboxes.php:949
 msgid "Max Image/Slider Width"
@@ -1638,6 +1638,8 @@ msgid ""
 "Default is: 770 or 1140 on fullwidth posts (Note: just input number, "
 "example: 650, does not apply to carousel slider)"
 msgstr ""
+"Mặc định là: 770 hoặc 1140 trên các bài viết đầy đủ (Lưu ý: chỉ cần nhập số, "
+"ví dụ: 650, không áp dụng cho thanh trượt carousel)"
 
 #: ../lib/metaboxes.php:171
 msgid "Post Summary"
@@ -1665,12 +1667,12 @@ msgstr "Thanh trượt hình ảnh phong cảnh"
 
 #: ../lib/metaboxes.php:186 ../lib/metaboxes.php:965
 msgid "If Video Post"
-msgstr ""
+msgstr "Nếu Bài viết Video"
 
 #: ../lib/metaboxes.php:187 ../lib/metaboxes.php:392 ../lib/metaboxes.php:520
 #: ../lib/metaboxes.php:966
 msgid "Place Embed Code Here, works with youtube, vimeo..."
-msgstr ""
+msgstr "Đặt Mã Nhúng Ở đây, làm việc với youtube, vimeo ..."
 
 #: ../lib/metaboxes.php:196
 msgid "Post Options"
@@ -1746,360 +1748,363 @@ msgstr "ví dụ Các bài viết tương tự"
 
 #: ../lib/metaboxes.php:254
 msgid "Portfolio Post Options"
-msgstr ""
+msgstr "Tùy chọn Danh mục Bài viết"
 
 #: ../lib/metaboxes.php:262
 msgid "Project Layout"
-msgstr ""
+msgstr "Giao diện Dự án"
 
 #: ../lib/metaboxes.php:263
 msgid "Whats the difference?"
-msgstr ""
+msgstr "Có gì khác biệt?"
 
 #: ../lib/metaboxes.php:267
 msgid "Beside"
-msgstr ""
+msgstr "Bên cạnh"
 
 #: ../lib/metaboxes.php:268
 msgid "Above"
-msgstr ""
+msgstr "Trên"
 
 #: ../lib/metaboxes.php:269
 msgid "Three Rows"
-msgstr ""
+msgstr "Ba hàng"
 
 #: ../lib/metaboxes.php:273
 msgid "Project Options"
-msgstr ""
+msgstr "Tùy chọn dự án"
 
 #: ../lib/metaboxes.php:280 ../lib/metaboxes.php:907
 #: ../themeoptions/options.php:593
 msgid "Carousel Slider"
-msgstr ""
+msgstr "Thanh trượt Carousel"
 
 #: ../lib/metaboxes.php:282
 msgid "Rev Slider"
-msgstr ""
+msgstr "Thanh trượt Rev"
 
 #: ../lib/metaboxes.php:283 ../lib/metaboxes.php:910
 #: ../themeoptions/options.php:593
 msgid "Kadence Slider"
-msgstr ""
+msgstr "Thanh trượt Kadence"
 
 #: ../lib/metaboxes.php:284 ../lib/metaboxes.php:911
 #: ../themeoptions/options.php:738
 msgid "Cyclone Slider"
-msgstr ""
+msgstr "Thanh trượt Cyclone"
 
 #: ../lib/metaboxes.php:285
 msgid "Image Grid"
-msgstr ""
+msgstr "Lưới hình ảnh"
 
 #: ../lib/metaboxes.php:286
 msgid "Image List"
-msgstr ""
+msgstr "Danh sách hình ảnh"
 
 #: ../lib/metaboxes.php:287
 msgid "Image List Style 2"
-msgstr ""
+msgstr "Kiểu danh sách hình ảnh 2"
 
 #: ../lib/metaboxes.php:293
 msgid "If Revolution, Cyclone or Kadence Slider"
-msgstr ""
+msgstr "Nếu Thanh trượt Revolution, Cyclone hoặc Kadence"
 
 #: ../lib/metaboxes.php:294
 msgid "Paste Slider Shortcode here"
-msgstr ""
+msgstr "Dán Mã tắt Thanh trượt ở đây"
 
 #: ../lib/metaboxes.php:300
 msgid "Default is: 450 (Note: just input number, example: 350)"
-msgstr ""
+msgstr "Mặc định là: 400 (Lưu ý: chỉ cần nhập số lượng, ví dụ: 350)"
 
 #: ../lib/metaboxes.php:306
 msgid ""
 "Default is: 670 or 1140 on above or three row layouts (Note: just input "
 "number, example: 650)"
 msgstr ""
+"Mặc định là: 670 hoặc 1140 giao diện ở trên hoặc ba hàng (Lưu ý: chỉ cần "
+"nhập số lượng, ví dụ: 650)"
 
 #: ../lib/metaboxes.php:311
 msgid "Auto Play Slider?"
-msgstr ""
+msgstr "Thanh trượt Tự chạy?"
 
 #: ../lib/metaboxes.php:321
 msgid "Project Summary"
-msgstr ""
+msgstr "Tóm tắt Dự án"
 
 #: ../lib/metaboxes.php:322
 msgid "This determines how its displayed in the <b>portfolio grid page</b>"
 msgstr ""
+"Điều này xác định cách hiển thị nó trong trang <b>trang lưới danh mục</b>"
 
 #: ../lib/metaboxes.php:327 ../themeoptions/options.php:2112
 msgid "Image Slider"
-msgstr ""
+msgstr "Thanh trượt hình ảnh"
 
 #: ../lib/metaboxes.php:331
 msgid "Value 01 Title"
-msgstr ""
+msgstr "Giá trị 01 Tiêu đề"
 
 #: ../lib/metaboxes.php:332
 msgid "ex. Project Type:"
-msgstr ""
+msgstr "Ví dụ Loại dự án:"
 
 #: ../lib/metaboxes.php:337
 msgid "Value 01 Description"
-msgstr ""
+msgstr "Giá trị 01 Mô tả"
 
 #: ../lib/metaboxes.php:338
 msgid "ex. Character Illustration"
-msgstr ""
+msgstr "Ví dụ Nhân vật minh họa"
 
 #: ../lib/metaboxes.php:343
 msgid "Value 02 Title"
-msgstr ""
+msgstr "Giá trị 02 Tiêu đề"
 
 #: ../lib/metaboxes.php:344
 msgid "ex. Skills Needed:"
-msgstr ""
+msgstr "Ví dụ Những kỹ năng cần thiết:"
 
 #: ../lib/metaboxes.php:349
 msgid "Value 02 Description"
-msgstr ""
+msgstr "Giá trị 02 Mô tả"
 
 #: ../lib/metaboxes.php:350
 msgid "ex. Photoshop, Illustrator"
-msgstr ""
+msgstr "Ví dụ Photoshop, Illustrator"
 
 #: ../lib/metaboxes.php:355
 msgid "Value 03 Title"
-msgstr ""
+msgstr "Giá trị 03 Tiêu đề"
 
 #: ../lib/metaboxes.php:356
 msgid "ex. Customer:"
-msgstr ""
+msgstr "Ví dụ Khách hàng:"
 
 #: ../lib/metaboxes.php:361
 msgid "Value 03 Description"
-msgstr ""
+msgstr "Giá trị 03 Mô tả"
 
 #: ../lib/metaboxes.php:362
 msgid "ex. Example Inc"
-msgstr ""
+msgstr "Ví dụ Ví dụ Inc"
 
 #: ../lib/metaboxes.php:367
 msgid "Value 04 Title"
-msgstr ""
+msgstr "Giá trị 04 Tiêu đề"
 
 #: ../lib/metaboxes.php:368
 msgid "ex. Project Year:"
-msgstr ""
+msgstr "Ví dụ Năm dự án:"
 
 #: ../lib/metaboxes.php:373
 msgid "Value 04 Description"
-msgstr ""
+msgstr "Giá trị 04 Mô tả"
 
 #: ../lib/metaboxes.php:374
 msgid "ex. 2013"
-msgstr ""
+msgstr "Ví dụ Năm 2013"
 
 #: ../lib/metaboxes.php:379
 msgid "External Website"
-msgstr ""
+msgstr "Trang web bên ngoài"
 
 #: ../lib/metaboxes.php:380
 msgid "ex. Website:"
-msgstr ""
+msgstr "Ví dụ Trang web:"
 
 #: ../lib/metaboxes.php:385
 msgid "Website Address"
-msgstr ""
+msgstr "Địa chỉ trang web"
 
 #: ../lib/metaboxes.php:386
 msgid "ex. http://www.example.com"
-msgstr ""
+msgstr "Ví dụ http://www.example.com"
 
 #: ../lib/metaboxes.php:391
 msgid "If Video Project"
-msgstr ""
+msgstr "Nếu Dự án Video"
 
 #: ../lib/metaboxes.php:397
 msgid "Choose Portfolio Parent Page"
-msgstr ""
+msgstr "Chọn Trang Danh mục Cha mẹ"
 
 #: ../lib/metaboxes.php:407
 msgid "Bottom Carousel Options"
-msgstr ""
+msgstr "Tùy chọn Carousel Dưới cùng"
 
 #: ../lib/metaboxes.php:415
 msgid "ex. Similar Projects"
-msgstr ""
+msgstr "Ví dụ Các sản phẩm tương tự"
 
 #: ../lib/metaboxes.php:420
 msgid "Bottom Portfolio Carousel"
-msgstr ""
+msgstr "Carousel Danh mục Dưới cùng"
 
 #: ../lib/metaboxes.php:421
 msgid "Display a carousel with portfolio items below project?"
-msgstr ""
+msgstr "Hiển thị một băng chuyền với các mục danh mục dưới dự án?"
 
 #: ../lib/metaboxes.php:430
 msgid "Carousel Items"
-msgstr ""
+msgstr "Các mục Carousel"
 
 #: ../lib/metaboxes.php:435
 msgid "All Portfolio Posts"
-msgstr ""
+msgstr "Tất cả danh mục bài viết"
 
 #: ../lib/metaboxes.php:436
 msgid "Only of same Portfolio Type"
-msgstr ""
+msgstr "Chỉ có loại danh mục giống nhau"
 
 #: ../lib/metaboxes.php:440
 msgid "Carousel Order"
-msgstr ""
+msgstr "Thứ tự Carousel"
 
 #: ../lib/metaboxes.php:457
 msgid "Testimonial Options"
-msgstr ""
+msgstr "Tuỳ chọn Đánh giá"
 
 #: ../lib/metaboxes.php:464
 msgid "Location"
-msgstr ""
+msgstr "Vị trí"
 
 #: ../lib/metaboxes.php:465
 msgid "ex: New York, NY"
-msgstr ""
+msgstr "Ví dụ: New York, NY"
 
 #: ../lib/metaboxes.php:470
 msgid "Client Title"
-msgstr ""
+msgstr "Tiêu đề Khách hàng"
 
 #: ../lib/metaboxes.php:471
 msgid "ex: CEO of Example Inc"
-msgstr ""
+msgstr "Ví dụ: CEO của Ví dụ Inc"
 
 #: ../lib/metaboxes.php:476
 msgid "Link"
-msgstr ""
+msgstr "Liên kết"
 
 #: ../lib/metaboxes.php:477
 msgid "ex: http://www.example.com"
-msgstr ""
+msgstr "Ví dụ http://www.example.com"
 
 #: ../lib/metaboxes.php:485
 msgid "Product Sidebar Options"
-msgstr ""
+msgstr "Tuỳ chọn Thanh bên của Sản phẩm"
 
 #: ../lib/metaboxes.php:512 ../themeoptions/options.php:1855
 msgid "Product Video Tab"
-msgstr ""
+msgstr "Tab Video Sản phẩm"
 
 #: ../lib/metaboxes.php:530
 msgid "Portfolio Page Options"
-msgstr ""
+msgstr "Tùy chọn Trang Danh mục"
 
 #: ../lib/metaboxes.php:544 ../lib/metaboxes.php:659 ../lib/metaboxes.php:730
 #: ../lib/metaboxes.php:825 ../lib/metaboxes.php:1088
 #: ../themeoptions/options.php:1401 ../themeoptions/options.php:1421
 #: ../themeoptions/options.php:1561 ../themeoptions/options.php:2165
 msgid "Four Column"
-msgstr ""
+msgstr "4 Cột"
 
 #: ../lib/metaboxes.php:545 ../lib/metaboxes.php:660 ../lib/metaboxes.php:729
 #: ../lib/metaboxes.php:826 ../lib/metaboxes.php:1089
 #: ../themeoptions/options.php:1401 ../themeoptions/options.php:1421
 #: ../themeoptions/options.php:1561 ../themeoptions/options.php:2165
 msgid "Three Column"
-msgstr ""
+msgstr "3 Cột"
 
 #: ../lib/metaboxes.php:546 ../lib/metaboxes.php:661 ../lib/metaboxes.php:728
 #: ../lib/metaboxes.php:827 ../lib/metaboxes.php:1090
 #: ../themeoptions/options.php:1401 ../themeoptions/options.php:1421
 #: ../themeoptions/options.php:1561 ../themeoptions/options.php:2165
 msgid "Two Column"
-msgstr ""
+msgstr "2 Cột"
 
 #: ../lib/metaboxes.php:547 ../lib/metaboxes.php:662
 #: ../themeoptions/options.php:1421 ../themeoptions/options.php:1561
 msgid "Five Column"
-msgstr ""
+msgstr "5 Cột"
 
 #: ../lib/metaboxes.php:548 ../lib/metaboxes.php:663
 #: ../themeoptions/options.php:1421 ../themeoptions/options.php:1561
 msgid "Six Column"
-msgstr ""
+msgstr "8 Cột"
 
 #: ../lib/metaboxes.php:552 ../lib/metaboxes.php:741
 msgid "Filter?"
-msgstr ""
+msgstr "Lọc?"
 
 #: ../lib/metaboxes.php:562
 msgid "Portfolio Work Types"
-msgstr ""
+msgstr "Các loại công việc của Danh mục"
 
 #: ../lib/metaboxes.php:563
 msgid "You can have filterable portfolios with one work type if has children"
-msgstr ""
+msgstr "Bạn có thể có danh mục có thể lọc với một loại công việc nếu có con"
 
 #: ../lib/metaboxes.php:569
 msgid "Order Items By"
-msgstr ""
+msgstr "Sắp xếp mục theo"
 
 #: ../lib/metaboxes.php:581 ../lib/metaboxes.php:667 ../lib/metaboxes.php:751
 #: ../lib/metaboxes.php:839
 msgid "Items per Page"
-msgstr ""
+msgstr "Mục trên mỗi trang"
 
 #: ../lib/metaboxes.php:582 ../lib/metaboxes.php:668 ../lib/metaboxes.php:752
 msgid "How many portfolio items per page"
-msgstr ""
+msgstr "Có bao nhiêu danh mục trên mỗi trang"
 
 #: ../lib/metaboxes.php:604 ../lib/metaboxes.php:690 ../lib/metaboxes.php:774
 msgid "Crop images to equal height"
-msgstr ""
+msgstr "Cắt hình ảnh bằng chiều cao"
 
 #: ../lib/metaboxes.php:605 ../lib/metaboxes.php:691 ../lib/metaboxes.php:775
 msgid "If cropped rows will be equal"
-msgstr ""
+msgstr "Nếu các hàng được cắt sẽ bằng nhau"
 
 #: ../lib/metaboxes.php:614 ../lib/metaboxes.php:700 ../lib/metaboxes.php:784
 msgid "Set image height if cropping"
-msgstr ""
+msgstr "Đặt chiều cao hình ảnh nếu cắt xén"
 
 #: ../lib/metaboxes.php:615 ../lib/metaboxes.php:701
 msgid "Default is 1:1 ratio (Note: just input number, example: 350)"
-msgstr ""
+msgstr "Mặc định là tỷ lệ 1: 1 (Lưu ý: chỉ cần nhập số, ví dụ: 350)"
 
 #: ../lib/metaboxes.php:620
 msgid "Display Item Work Types"
-msgstr ""
+msgstr "Hiển thị Các loại mục công việc"
 
 #: ../lib/metaboxes.php:626 ../lib/metaboxes.php:706
 msgid "Display Item Excerpt"
-msgstr ""
+msgstr "Hiển thị Đoạn trích của mục"
 
 #: ../lib/metaboxes.php:632
 msgid "Add Lightbox link in the top right of each item"
-msgstr ""
+msgstr "Thêm liên kết Hộp đèn  ở trên cùng bên phải của mỗi mục"
 
 #: ../lib/metaboxes.php:645
 msgid "Portfolio Category Page Options"
-msgstr ""
+msgstr "Tùy chọn Trang Loại Danh mục"
 
 #: ../lib/metaboxes.php:715
 msgid "Staff Page Options"
-msgstr ""
+msgstr "Tùy chọn Trang Nhân viên"
 
 #: ../lib/metaboxes.php:734
 msgid "Limit to Group"
-msgstr ""
+msgstr "Giới hạn cho Nhóm"
 
 #: ../lib/metaboxes.php:785
 msgid "Default is 16:9 ratio (Note: just input number, example: 350)"
-msgstr ""
+msgstr "Mặc định là tỷ lệ 16: 9 (Lưu ý: chỉ cần nhập số, ví dụ: 350)"
 
 #: ../lib/metaboxes.php:790
 msgid "Use Staff Excerpt or Content?"
-msgstr ""
+msgstr "Sử dụng phần trích dẫn hay nội dung của nhân viên?"
 
 #: ../lib/metaboxes.php:794
 msgid "Content"
@@ -2107,15 +2112,15 @@ msgstr ""
 
 #: ../lib/metaboxes.php:795
 msgid "Excerpt"
-msgstr ""
+msgstr "Đoạn trích"
 
 #: ../lib/metaboxes.php:799
 msgid "Images and title link?"
-msgstr ""
+msgstr "Hình ảnh và liên kết tiêu đề?"
 
 #: ../lib/metaboxes.php:803
 msgid "No, no link"
-msgstr ""
+msgstr "Không, không có liên kết"
 
 #: ../lib/metaboxes.php:804
 msgid "Yes, link to single post"
