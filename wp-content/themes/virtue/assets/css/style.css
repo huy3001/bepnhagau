@@ -36,8 +36,30 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* line 7, assets/scss/global/_general.scss */
+
+a {
+  color: #ff69b4;
+}
+
+/* line 12, assets/scss/global/_general.scss */
+
+.entry-content a {
+  color: #ff69b4;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+/* line 15, assets/scss/global/_general.scss */
+
+.entry-content a:hover {
+  color: #ca98b1;
+}
+
 @media only screen and (max-width: 767px) {
-  /* line 9, assets/scss/global/_general.scss */
+  /* line 23, assets/scss/global/_general.scss */
 
   .page-header h1 {
     font-size: 30px;
