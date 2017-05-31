@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-05-22 18:01+0700\n"
+"PO-Revision-Date: 2017-05-23 11:46+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2108,7 +2108,7 @@ msgstr "Sử dụng phần trích dẫn hay nội dung của nhân viên?"
 
 #: ../lib/metaboxes.php:794
 msgid "Content"
-msgstr ""
+msgstr "Nội dung"
 
 #: ../lib/metaboxes.php:795
 msgid "Excerpt"
@@ -2124,440 +2124,448 @@ msgstr "Không, không có liên kết"
 
 #: ../lib/metaboxes.php:804
 msgid "Yes, link to single post"
-msgstr ""
+msgstr "Có, liên kết tới một bài viết"
 
 #: ../lib/metaboxes.php:805
 msgid "Image link to Lightbox"
-msgstr ""
+msgstr "Hình ảnh liên kết tới Hộp đèn"
 
 #: ../lib/metaboxes.php:812
 msgid "Testimonial Page Options"
-msgstr ""
+msgstr "Tùy chọn Trang Đánh giá"
 
 #: ../lib/metaboxes.php:828 ../themeoptions/options.php:1421
 msgid "One Column"
-msgstr ""
+msgstr "1 Cột"
 
 #: ../lib/metaboxes.php:832 ../lib/post-types.php:97
 msgid "Testimonial Group"
-msgstr ""
+msgstr "Nhóm đánh giá"
 
 #: ../lib/metaboxes.php:840
 msgid "How many testimonial items per page"
-msgstr ""
+msgstr "Bao nhiêu đánh giá trên mỗi trang"
 
 #: ../lib/metaboxes.php:862
 msgid "Limit Testimonial Text"
-msgstr ""
+msgstr "Giới hạn văn bản đánh giá"
 
 #: ../lib/metaboxes.php:869
 msgid "Word Count Text"
-msgstr ""
+msgstr "Văn bản đếm từ"
 
 #: ../lib/metaboxes.php:870
 msgid "eg: 25"
-msgstr ""
+msgstr "Ví dụ: 25"
 
 #: ../lib/metaboxes.php:875
 msgid "Add link to single post"
-msgstr ""
+msgstr "Thêm liên kết tới một bài viết"
 
 #: ../lib/metaboxes.php:882
 msgid "Link Text"
-msgstr ""
+msgstr "Văn bản liên kết"
 
 #: ../lib/metaboxes.php:883
 msgid "eg: Read More"
-msgstr ""
+msgstr "Ví dụ: Đọc thêm"
 
 #: ../lib/metaboxes.php:892
 msgid "Feature Page Options"
-msgstr ""
+msgstr "Tùy chọn Trang Nổi bật"
 
 #: ../lib/metaboxes.php:901
 msgid "Feature Options"
-msgstr ""
+msgstr "Tùy chọn Nổi bật"
 
 #: ../lib/metaboxes.php:902
 msgid "If image slider make sure images uploaded are at-least 1170px wide."
 msgstr ""
+"Nếu thanh trượt hình ảnh đảm bảo hình ảnh được tải lên có chiều rộng tối "
+"thiểu là 1170px."
 
 #: ../lib/metaboxes.php:906 ../themeoptions/options.php:593
 #: ../themeoptions/options.php:738 ../themeoptions/options.php:1662
 msgid "Flex Slider"
-msgstr ""
+msgstr "Thanh trượt Flex"
 
 #: ../lib/metaboxes.php:908
 msgid "Image Carousel Slider"
-msgstr ""
+msgstr "Thanh trượt hình ảnh Carousel"
 
 #: ../lib/metaboxes.php:909 ../themeoptions/options.php:593
 #: ../themeoptions/options.php:738 ../themeoptions/options.php:1662
 msgid "Revolution Slider"
-msgstr ""
+msgstr "Thanh trượt Revolution"
 
 #: ../lib/metaboxes.php:917 ../themeoptions/options.php:600
 #: ../themeoptions/options.php:746 ../themeoptions/options.php:1670
 msgid "If Revolution Slider"
-msgstr ""
+msgstr "Nếu Thanh trượt Revolution"
 
 #: ../lib/metaboxes.php:918
 msgid "Paste Revolution slider alias here (example: slider1)"
-msgstr ""
+msgstr "Dán bí danh cho thanh trượt Revolution ở đây (ví dụ: slider1)"
 
 #: ../lib/metaboxes.php:923
 msgid "If Cyclone or Kadence Slider"
-msgstr ""
+msgstr "Nếu Thanh trượt Cyclone hoặc Kadence"
 
 #: ../lib/metaboxes.php:924
 msgid ""
 "Paste the slider shortcode here (example: [cycloneslider id=\"slider1\"])"
 msgstr ""
+"Dán mã ngắn thanh trượt ở đây (ví dụ: [cycloneslider id = \"slider1\"])"
 
 #: ../lib/metaboxes.php:929
 msgid "Display Shortcode Slider above Header"
-msgstr ""
+msgstr "Hiển thị mã ngắn thanh trượt ở trên đầu trang"
 
 #: ../lib/metaboxes.php:936
 msgid "If above Header use arrow"
-msgstr ""
+msgstr "Nếu phía trên đầu trang sử dụng mũi tên"
 
 #: ../lib/metaboxes.php:950
 msgid ""
 "Default is: 1140 on fullwidth posts (Note: just input number, example: 650, "
 "does not apply to Carousel slider)"
 msgstr ""
+"Mặc định là: 1140 trên bài viết đầy đủ (Lưu ý: chỉ cần nhập số, ví dụ: 650, "
+"không áp dụng cho thanh trượt Carousel)"
 
 #: ../lib/metaboxes.php:955
 msgid "Use Lightbox for Feature Image"
-msgstr ""
+msgstr "Sử dụng Hộp đèn cho Ảnh Nổi bật"
 
 #: ../lib/metaboxes.php:956
 msgid ""
 "If feature option is set to image, choose to use lightbox link with image."
 msgstr ""
+"Nếu tùy chọn nổi bật được đặt cho hình ảnh, hãy chọn sử dụng liên kết hộp "
+"đèn với hình ảnh."
 
 #: ../lib/metaboxes.php:974
 msgid "Blog List Options"
-msgstr ""
+msgstr "Tùy chọn danh sách Blog"
 
 #: ../lib/metaboxes.php:983 ../lib/metaboxes.php:1052
 msgid "Blog Category"
-msgstr ""
+msgstr "Danh mục Blog"
 
 #: ../lib/metaboxes.php:984 ../lib/metaboxes.php:1053
 msgid "Select all blog posts or a specific category to show"
 msgstr ""
+"Chọn tất cả các bài viết trên blog hoặc một danh mục cụ thể để hiển thị"
 
 #: ../lib/metaboxes.php:990 ../lib/metaboxes.php:1059
 msgid "How Many Posts Per Page"
-msgstr ""
+msgstr "Bao nhiêu bài viết trên mỗi trang"
 
 #: ../lib/metaboxes.php:1014
 msgid "Display Post Content as:"
-msgstr ""
+msgstr "Hiển thị nội dung bài viết dưới dạng:"
 
 #: ../lib/metaboxes.php:1019
 msgid "Summary"
-msgstr ""
+msgstr "Tóm tắt"
 
 #: ../lib/metaboxes.php:1020 ../lib/premium_widgets.php:70
 #: ../themeoptions/options.php:1387
 msgid "Full"
-msgstr ""
+msgstr "Đầy đủ"
 
 #: ../lib/metaboxes.php:1043
 msgid "Blog Grid Options"
-msgstr ""
+msgstr "Tùy chọn lưới Blog"
 
 #: ../lib/metaboxes.php:1083
 msgid "Choose Column Layout:"
-msgstr ""
+msgstr "Chọn Giao diện Cột:"
 
 #: ../lib/metaboxes.php:1112
 msgid "Contact Page Options"
-msgstr ""
+msgstr "Tùy chọn trang liên hệ"
 
 #: ../lib/metaboxes.php:1121
 msgid "Use Contact Form"
-msgstr ""
+msgstr "Sử dụng Mẫu Liên hệ"
 
 #: ../lib/metaboxes.php:1131
 msgid "Contact Form Title"
-msgstr ""
+msgstr "Tiêu đề Mẫu Liên hệ"
 
 #: ../lib/metaboxes.php:1132
 msgid "ex. Send us an Email"
-msgstr ""
+msgstr "Ví dụ Gửi email cho chúng tôi"
 
 #: ../lib/metaboxes.php:1137
 msgid "Use Simple Math Question"
-msgstr ""
+msgstr "Sử dụng Câu hỏi Toán Đơn giản"
 
 #: ../lib/metaboxes.php:1147
 msgid "Use Map"
-msgstr ""
+msgstr "Sử dụng Bản đồ"
 
 #: ../lib/metaboxes.php:1157
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: ../lib/metaboxes.php:1158 ../lib/metaboxes.php:1212
 msgid "Enter your Location"
-msgstr ""
+msgstr "Nhập vị trí của bạn"
 
 #: ../lib/metaboxes.php:1175
 msgid "Map Zoom Level"
-msgstr ""
+msgstr "Mức thu phóng bản đồ"
 
 #: ../lib/metaboxes.php:1176
 msgid "A good place to start is 15"
-msgstr ""
+msgstr "Một nơi tốt để bắt đầu là 15"
 
 #: ../lib/metaboxes.php:1181
 msgid "1 (World View)"
-msgstr ""
+msgstr "1 (Xem thế giới)"
 
 #: ../lib/metaboxes.php:1201
 msgid "21 (Street View)"
-msgstr ""
+msgstr "21 (Xem Phố)"
 
 #: ../lib/metaboxes.php:1206
 msgid "Default is 300"
-msgstr ""
+msgstr "Mặc định là 300"
 
 #: ../lib/metaboxes.php:1218 ../lib/metaboxes.php:1224
 #: ../lib/metaboxes.php:1230
 msgid "Enter a Location"
-msgstr ""
+msgstr "Nhập Vị trí"
 
 #: ../lib/metaboxes.php:1238 ../lib/metaboxes.php:1264
 msgid "Sidebar Options"
-msgstr ""
+msgstr "Tùy chọn thanh bên"
 
 #: ../lib/metaboxes.php:1284
 msgid "SEO Options"
-msgstr ""
+msgstr "Tùy chọn SEO"
 
 #: ../lib/metaboxes.php:1291 ../themeoptions/options.php:894
 msgid "Page Title"
-msgstr ""
+msgstr "Tiêu đề Trang"
 
 #: ../lib/metaboxes.php:1292 ../themeoptions/options.php:3433
 msgid "Optimal Format: Brand Name | Primary Keyword and Secondary Keyword"
-msgstr ""
+msgstr "Định dạng tối ưu: Tên thương hiệu | Từ khóa Chính và từ khoá phụ"
 
 #: ../lib/metaboxes.php:1297
 msgid "Page Description"
-msgstr ""
+msgstr "Mô tả Trang"
 
 #: ../lib/metaboxes.php:1298 ../themeoptions/options.php:3440
 msgid "Optimal Length: Roughly 155 Characters"
-msgstr ""
+msgstr "Chiều dài tối ưu: Khoảng 155 ký tự"
 
 #: ../lib/metaboxes.php:1308
 msgid "Virtue Custom Tab 01"
-msgstr ""
+msgstr "Virtue Tab Tuỳ chỉnh 01"
 
 #: ../lib/metaboxes.php:1315 ../lib/metaboxes.php:1347
 #: ../lib/metaboxes.php:1379
 msgid "Tab Title"
-msgstr ""
+msgstr "Tiêu đề Tab"
 
 #: ../lib/metaboxes.php:1316 ../lib/metaboxes.php:1348
 #: ../lib/metaboxes.php:1380
 msgid "This will show on the tab"
-msgstr ""
+msgstr "Điều này sẽ hiển thị trên tab"
 
 #: ../lib/metaboxes.php:1321 ../lib/metaboxes.php:1353
 #: ../lib/metaboxes.php:1385
 msgid "Tab Content"
-msgstr ""
+msgstr "Nội dung Tab"
 
 #: ../lib/metaboxes.php:1322 ../lib/metaboxes.php:1354
 #: ../lib/metaboxes.php:1386
 msgid "Add Tab Content"
-msgstr ""
+msgstr "Thêm Nội dung Tab"
 
 #: ../lib/metaboxes.php:1328 ../lib/metaboxes.php:1360
 #: ../lib/metaboxes.php:1392
 msgid "Tab priority"
-msgstr ""
+msgstr "Ưu tiên tab"
 
 #: ../lib/metaboxes.php:1329 ../lib/metaboxes.php:1361
 #: ../lib/metaboxes.php:1393
 msgid "This will determine where the tab is shown (e.g. 20)"
-msgstr ""
+msgstr "Điều này sẽ xác định nơi tab được hiển thị (ví dụ: 20)"
 
 #: ../lib/metaboxes.php:1340
 msgid "Virtue Custom Tab 02"
-msgstr ""
+msgstr "Virtue Tab Tuỳ chỉnh 02"
 
 #: ../lib/metaboxes.php:1372
 msgid "Virtue Custom Tab 03"
-msgstr ""
+msgstr "Virtue Tab Tuỳ chỉnh 03"
 
 #: ../lib/post-types.php:5 ../lib/post-types.php:17 ../lib/widgets.php:1109
 msgid "Portfolio"
-msgstr ""
+msgstr "Danh mục"
 
 #: ../lib/post-types.php:6
 msgid "Portfolio Item"
-msgstr ""
+msgstr "Mục Danh mục"
 
 #: ../lib/post-types.php:7 ../lib/post-types.php:67 ../lib/post-types.php:126
 msgid "Add New"
-msgstr ""
+msgstr "Thêm mới"
 
 #: ../lib/post-types.php:8
 msgid "Add New Portfolio Item"
-msgstr ""
+msgstr "Thêm mới Mục Danh mục"
 
 #: ../lib/post-types.php:9
 msgid "Edit Portfolio Item"
-msgstr ""
+msgstr "Sửa Mục Danh mục"
 
 #: ../lib/post-types.php:10
 msgid "New Portfolio Item"
-msgstr ""
+msgstr "Mục Danh mục mới"
 
 #: ../lib/post-types.php:11
 msgid "All Portfolio"
-msgstr ""
+msgstr "Tất cả danh mục"
 
 #: ../lib/post-types.php:12
 msgid "View Portfolio Item"
-msgstr ""
+msgstr "Xem Mục Danh mục"
 
 #: ../lib/post-types.php:13
 msgid "Search Portfolio"
-msgstr ""
+msgstr "Tìm kiếm Danh mục"
 
 #: ../lib/post-types.php:14
 msgid "No Portfolio Item found"
-msgstr ""
+msgstr "Không tìm thấy mục Danh mục nào"
 
 #: ../lib/post-types.php:15
 msgid "No Portfolio Items found in Trash"
-msgstr ""
+msgstr "Không tìm thấy danh mục nào trong Thùng rác"
 
 #: ../lib/post-types.php:38
 msgid "Portfolio Type"
-msgstr ""
+msgstr "Loại danh mục"
 
 #: ../lib/post-types.php:40
 msgid "Search Type"
-msgstr ""
+msgstr "Tìm kiếm loại"
 
 #: ../lib/post-types.php:41
 msgid "All Type"
-msgstr ""
+msgstr "Tất cả loại"
 
 #: ../lib/post-types.php:42
 msgid "Parent Type"
-msgstr ""
+msgstr "Loại cha mẹ"
 
 #: ../lib/post-types.php:43
 msgid "Parent Type:"
-msgstr ""
+msgstr "Loại cha mẹ:"
 
 #: ../lib/post-types.php:44
 msgid "Edit Type"
-msgstr ""
+msgstr "Sửa loại"
 
 #: ../lib/post-types.php:45
 msgid "Update Type"
-msgstr ""
+msgstr "Cập nhật loại"
 
 #: ../lib/post-types.php:46
 msgid "Add New Type"
-msgstr ""
+msgstr "Thêm mới loại"
 
 #: ../lib/post-types.php:47
 msgid "New Type Name"
-msgstr ""
+msgstr "Tên loại mới"
 
 #: ../lib/post-types.php:65 ../lib/post-types.php:77 ../lib/post-types.php:98
 #: ../lib/widgets.php:731
 msgid "Testimonials"
-msgstr ""
+msgstr "Đánh giá"
 
 #: ../lib/post-types.php:68
 msgid "Add New Testimonial"
-msgstr ""
+msgstr "Thêm mới Đánh giá"
 
 #: ../lib/post-types.php:69
 msgid "Edit Testimonial"
-msgstr ""
+msgstr "Sửa Đánh giá"
 
 #: ../lib/post-types.php:70
 msgid "New Testimonial"
-msgstr ""
+msgstr "Đánh giá mới"
 
 #: ../lib/post-types.php:71
 msgid "All Testimonials"
-msgstr ""
+msgstr "Tất cả Đánh giá"
 
 #: ../lib/post-types.php:72
 msgid "View Testimonial"
-msgstr ""
+msgstr "Xem Đánh giá"
 
 #: ../lib/post-types.php:73
 msgid "Search Testimonials"
-msgstr ""
+msgstr "Tìm kiếm Đánh giá"
 
 #: ../lib/post-types.php:74
 msgid "No Testimonials found"
-msgstr ""
+msgstr "Không có Đánh giá nào được tìm thấy"
 
 #: ../lib/post-types.php:75
 msgid "No Testimonials found in Trash"
-msgstr ""
+msgstr "Không có Đánh giá nào được tìm thấy trong thùng rác"
 
 #: ../lib/post-types.php:99 ../lib/post-types.php:158
 msgid "Search Groups"
-msgstr ""
+msgstr "Tìm kiếm nhóm"
 
 #: ../lib/post-types.php:100 ../lib/post-types.php:159
 msgid "All Groups"
-msgstr ""
+msgstr "Tất cả nhóm"
 
 #: ../lib/post-types.php:101 ../lib/post-types.php:160
 msgid "Parent Groups"
-msgstr ""
+msgstr "Nhóm cha mẹ"
 
 #: ../lib/post-types.php:102 ../lib/post-types.php:161
 msgid "Parent Groups:"
-msgstr ""
+msgstr "Nhóm cha mẹ:"
 
 #: ../lib/post-types.php:103 ../lib/post-types.php:162
 msgid "Edit Group"
-msgstr ""
+msgstr "Sửa nhóm"
 
 #: ../lib/post-types.php:104 ../lib/post-types.php:163
 msgid "Update Group"
-msgstr ""
+msgstr "Cập nhật nhóm"
 
 #: ../lib/post-types.php:105 ../lib/post-types.php:164
 msgid "Add New Group"
-msgstr ""
+msgstr "Thêm mới nhóm"
 
 #: ../lib/post-types.php:106 ../lib/post-types.php:165
 msgid "New Group Name"
-msgstr ""
+msgstr "Tên mới nhóm"
 
 #: ../lib/post-types.php:124 ../lib/post-types.php:125
 #: ../lib/post-types.php:136 ../lib/post-types.php:157
 msgid "Staff"
-msgstr ""
+msgstr "Nhân viên"
 
 #: ../lib/post-types.php:127
 msgid "Add New Staff"
-msgstr ""
+msgstr "Thêm Nhân viên mới"
 
 #: ../lib/post-types.php:128
 msgid "Edit Staff"
-msgstr ""
+msgstr "Sửa Nhân viên"
 
 #: ../lib/post-types.php:129
 msgid "New Staff"
