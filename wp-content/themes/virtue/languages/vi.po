@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-05-23 11:46+0700\n"
+"PO-Revision-Date: 2017-05-31 17:48+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1848,7 +1848,7 @@ msgstr "Giá trị 01 Tiêu đề"
 
 #: ../lib/metaboxes.php:332
 msgid "ex. Project Type:"
-msgstr "Ví dụ Loại dự án:"
+msgstr "ví dụ Loại dự án:"
 
 #: ../lib/metaboxes.php:337
 msgid "Value 01 Description"
@@ -1856,7 +1856,7 @@ msgstr "Giá trị 01 Mô tả"
 
 #: ../lib/metaboxes.php:338
 msgid "ex. Character Illustration"
-msgstr "Ví dụ Nhân vật minh họa"
+msgstr "ví dụ Nhân vật minh họa"
 
 #: ../lib/metaboxes.php:343
 msgid "Value 02 Title"
@@ -1864,7 +1864,7 @@ msgstr "Giá trị 02 Tiêu đề"
 
 #: ../lib/metaboxes.php:344
 msgid "ex. Skills Needed:"
-msgstr "Ví dụ Những kỹ năng cần thiết:"
+msgstr "ví dụ Những kỹ năng cần thiết:"
 
 #: ../lib/metaboxes.php:349
 msgid "Value 02 Description"
@@ -1872,7 +1872,7 @@ msgstr "Giá trị 02 Mô tả"
 
 #: ../lib/metaboxes.php:350
 msgid "ex. Photoshop, Illustrator"
-msgstr "Ví dụ Photoshop, Illustrator"
+msgstr "ví dụ Photoshop, Illustrator"
 
 #: ../lib/metaboxes.php:355
 msgid "Value 03 Title"
@@ -1880,7 +1880,7 @@ msgstr "Giá trị 03 Tiêu đề"
 
 #: ../lib/metaboxes.php:356
 msgid "ex. Customer:"
-msgstr "Ví dụ Khách hàng:"
+msgstr "ví dụ Khách hàng:"
 
 #: ../lib/metaboxes.php:361
 msgid "Value 03 Description"
@@ -1888,7 +1888,7 @@ msgstr "Giá trị 03 Mô tả"
 
 #: ../lib/metaboxes.php:362
 msgid "ex. Example Inc"
-msgstr "Ví dụ Ví dụ Inc"
+msgstr "ví dụ Ví dụ Inc"
 
 #: ../lib/metaboxes.php:367
 msgid "Value 04 Title"
@@ -1896,7 +1896,7 @@ msgstr "Giá trị 04 Tiêu đề"
 
 #: ../lib/metaboxes.php:368
 msgid "ex. Project Year:"
-msgstr "Ví dụ Năm dự án:"
+msgstr "ví dụ Năm dự án:"
 
 #: ../lib/metaboxes.php:373
 msgid "Value 04 Description"
@@ -1904,7 +1904,7 @@ msgstr "Giá trị 04 Mô tả"
 
 #: ../lib/metaboxes.php:374
 msgid "ex. 2013"
-msgstr "Ví dụ Năm 2013"
+msgstr "ví dụ Năm 2013"
 
 #: ../lib/metaboxes.php:379
 msgid "External Website"
@@ -1912,7 +1912,7 @@ msgstr "Trang web bên ngoài"
 
 #: ../lib/metaboxes.php:380
 msgid "ex. Website:"
-msgstr "Ví dụ Trang web:"
+msgstr "ví dụ Trang web:"
 
 #: ../lib/metaboxes.php:385
 msgid "Website Address"
@@ -1920,7 +1920,7 @@ msgstr "Địa chỉ trang web"
 
 #: ../lib/metaboxes.php:386
 msgid "ex. http://www.example.com"
-msgstr "Ví dụ http://www.example.com"
+msgstr "ví dụ http://www.example.com"
 
 #: ../lib/metaboxes.php:391
 msgid "If Video Project"
@@ -1936,7 +1936,7 @@ msgstr "Tùy chọn Carousel Dưới cùng"
 
 #: ../lib/metaboxes.php:415
 msgid "ex. Similar Projects"
-msgstr "Ví dụ Các sản phẩm tương tự"
+msgstr "ví dụ Các sản phẩm tương tự"
 
 #: ../lib/metaboxes.php:420
 msgid "Bottom Portfolio Carousel"
@@ -1972,7 +1972,7 @@ msgstr "Vị trí"
 
 #: ../lib/metaboxes.php:465
 msgid "ex: New York, NY"
-msgstr "Ví dụ: New York, NY"
+msgstr "ví dụ: New York, NY"
 
 #: ../lib/metaboxes.php:470
 msgid "Client Title"
@@ -1980,7 +1980,7 @@ msgstr "Tiêu đề Khách hàng"
 
 #: ../lib/metaboxes.php:471
 msgid "ex: CEO of Example Inc"
-msgstr "Ví dụ: CEO của Ví dụ Inc"
+msgstr "ví dụ: CEO của Ví dụ Inc"
 
 #: ../lib/metaboxes.php:476
 msgid "Link"
@@ -1988,7 +1988,7 @@ msgstr "Liên kết"
 
 #: ../lib/metaboxes.php:477
 msgid "ex: http://www.example.com"
-msgstr "Ví dụ http://www.example.com"
+msgstr "ví dụ http://www.example.com"
 
 #: ../lib/metaboxes.php:485
 msgid "Product Sidebar Options"
@@ -2156,7 +2156,7 @@ msgstr "Văn bản đếm từ"
 
 #: ../lib/metaboxes.php:870
 msgid "eg: 25"
-msgstr "Ví dụ: 25"
+msgstr "ví dụ: 25"
 
 #: ../lib/metaboxes.php:875
 msgid "Add link to single post"
@@ -2168,7 +2168,7 @@ msgstr "Văn bản liên kết"
 
 #: ../lib/metaboxes.php:883
 msgid "eg: Read More"
-msgstr "Ví dụ: Đọc thêm"
+msgstr "ví dụ: Đọc thêm"
 
 #: ../lib/metaboxes.php:892
 msgid "Feature Page Options"
@@ -2296,7 +2296,7 @@ msgstr "Tiêu đề Mẫu Liên hệ"
 
 #: ../lib/metaboxes.php:1132
 msgid "ex. Send us an Email"
-msgstr "Ví dụ Gửi email cho chúng tôi"
+msgstr "ví dụ Gửi email cho chúng tôi"
 
 #: ../lib/metaboxes.php:1137
 msgid "Use Simple Math Question"
@@ -2569,1768 +2569,1802 @@ msgstr "Sửa Nhân viên"
 
 #: ../lib/post-types.php:129
 msgid "New Staff"
-msgstr ""
+msgstr "Nhân viên mới"
 
 #: ../lib/post-types.php:130
 msgid "All Staff"
-msgstr ""
+msgstr "Toàn bộ nhân viên"
 
 #: ../lib/post-types.php:131
 msgid "View Staff"
-msgstr ""
+msgstr "Xem nhân viên"
 
 #: ../lib/post-types.php:132
 msgid "Search Staff"
-msgstr ""
+msgstr "Tìm kiếm nhân viên"
 
 #: ../lib/post-types.php:133
 msgid "No Staff found"
-msgstr ""
+msgstr "Không tìm thấy nhân viên nào"
 
 #: ../lib/post-types.php:134
 msgid "No Staff found in Trash"
-msgstr ""
+msgstr "Không tìm thấy nhân viên nào trong thùng rác"
 
 #: ../lib/post-types.php:156
 msgid "Staff Group"
-msgstr ""
+msgstr "Nhóm nhân viên"
 
 #: ../lib/premium_widgets.php:9
 msgid "Adds a gallery to any widget area."
-msgstr ""
+msgstr "Thêm một thư viện vào bất kỳ khu vực tiện ích nào."
 
 #: ../lib/premium_widgets.php:10
 msgid "Virtue: Gallery"
-msgstr ""
+msgstr "Virtue: Thư viện"
 
 #: ../lib/premium_widgets.php:67
 msgid "Standard"
-msgstr ""
+msgstr "Chuẩn"
 
 #: ../lib/premium_widgets.php:67
 msgid "Masonry"
-msgstr ""
+msgstr "Masonry"
 
 #: ../lib/premium_widgets.php:67
 msgid "Carousel"
-msgstr ""
+msgstr "Băng chuyền"
 
 #: ../lib/premium_widgets.php:67
 msgid "Slider"
-msgstr ""
+msgstr "Thanh trượt"
 
 #: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
 #: ../lib/widgets.php:900
 msgid "1 Column"
-msgstr ""
+msgstr "1 Cột"
 
 #: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
 #: ../lib/widgets.php:900
 msgid "2 Columns"
-msgstr ""
+msgstr "2 Cột"
 
 #: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
 #: ../lib/widgets.php:900
 msgid "3 Columns"
-msgstr ""
+msgstr "3 Cột"
 
 #: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
 #: ../lib/widgets.php:900
 msgid "4 Columns"
-msgstr ""
+msgstr "4 Cột"
 
 #: ../lib/premium_widgets.php:68 ../lib/premium_widgets.php:215
 #: ../lib/widgets.php:900
 msgid "5 Columns"
-msgstr ""
+msgstr "5 Cột"
 
 #: ../lib/premium_widgets.php:68 ../lib/widgets.php:900
 msgid "6 Columns"
-msgstr ""
+msgstr "6 Cột"
 
 #: ../lib/premium_widgets.php:69
 msgid "Off"
-msgstr ""
+msgstr "Tắt"
 
 #: ../lib/premium_widgets.php:69
 msgid "On"
-msgstr ""
+msgstr "Bật"
 
 #: ../lib/premium_widgets.php:70
 msgid "Medium"
-msgstr ""
+msgstr "Trung bình"
 
 #: ../lib/premium_widgets.php:70
 msgid "Thumbnail"
-msgstr ""
+msgstr "Hình thu nhỏ"
 
 #: ../lib/premium_widgets.php:102
 msgid "Add/Edit Gallery"
-msgstr ""
+msgstr "Thêm/Sửa Thư viện"
 
 #: ../lib/premium_widgets.php:103
 msgid "Clear Gallery"
-msgstr ""
+msgstr "Xóa Thư viện"
 
 #: ../lib/premium_widgets.php:106 ../lib/premium_widgets.php:268
 #: ../lib/premium_widgets.php:415 ../lib/premium_widgets.php:693
 #: ../lib/premium_widgets.php:847 ../lib/widgets.php:307 ../lib/widgets.php:493
 #: ../lib/widgets.php:680 ../lib/widgets.php:933 ../lib/widgets.php:1103
 msgid "Title:"
-msgstr ""
+msgstr "Tiêu đề:"
 
 #: ../lib/premium_widgets.php:110
 msgid "Gallery Type"
-msgstr ""
+msgstr "Kiểu Thư viện"
 
 #: ../lib/premium_widgets.php:114
 msgid "Gallery Columns"
-msgstr ""
+msgstr "Cột Thư viện"
 
 #: ../lib/premium_widgets.php:118
 msgid "Display Captions"
-msgstr ""
+msgstr "Hiển thị chú thích"
 
 #: ../lib/premium_widgets.php:122
 msgid "Lightbox Image Size"
-msgstr ""
+msgstr "Kích thước Ảnh hộp đèn"
 
 #: ../lib/premium_widgets.php:125
 msgid "If Type Slider"
-msgstr ""
+msgstr "Nếu Kiểu Thanh trượt"
 
 #: ../lib/premium_widgets.php:127
 msgid "Slider Width (e.g. = 600)"
-msgstr ""
+msgstr "Chiều rộng Thanh trượt (ví dụ: 600)"
 
 #: ../lib/premium_widgets.php:131
 msgid "Slider Height (e.g. = 400)"
-msgstr ""
+msgstr "Chiều cao Thanh trượt (ví dụ: 400)"
 
 #: ../lib/premium_widgets.php:135
 msgid "Slider Speed (e.g. = 7000)"
-msgstr ""
+msgstr "Tốc độ Thanh trượt (ví dụ: 7000)"
 
 #: ../lib/premium_widgets.php:151
 msgid "Adds a carousel to any widget area"
-msgstr ""
+msgstr "Thêm một băng chuyền vào bất kỳ khu vực tiện ích nào"
 
 #: ../lib/premium_widgets.php:152
 msgid "Virtue: Carousel"
-msgstr ""
+msgstr "Virtue: Băng chuyền"
 
 #: ../lib/premium_widgets.php:214
 msgid "Portfolio Posts"
-msgstr ""
+msgstr "Danh mục bài viết"
 
 #: ../lib/premium_widgets.php:214
 msgid "Sale Products"
-msgstr ""
+msgstr "Sản phẩm giảm giá"
 
 #: ../lib/premium_widgets.php:214
 msgid "Best Products"
-msgstr ""
+msgstr "Sản phẩm tốt nhất"
 
 #: ../lib/premium_widgets.php:214
 msgid "Category of Products"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 #: ../lib/premium_widgets.php:216
 msgid "1 item"
-msgstr ""
+msgstr "1 mục"
 
 #: ../lib/premium_widgets.php:216 ../themeoptions/options.php:971
 #: ../themeoptions/options.php:1018 ../themeoptions/options.php:1065
 #: ../themeoptions/options.php:1183 ../themeoptions/options.php:1239
 #: ../themeoptions/options.php:2001
 msgid "All Visible"
-msgstr ""
+msgstr "Tất cả Hiển thị"
 
 #: ../lib/premium_widgets.php:272
 msgid "Carousel Type"
-msgstr ""
+msgstr "Loại Băng chuyền"
 
 #: ../lib/premium_widgets.php:276 ../lib/widgets.php:952
 msgid "Carousel Columns"
-msgstr ""
+msgstr "Cột Băng chuyền"
 
 #: ../lib/premium_widgets.php:280
 msgid "Scroll Setting"
-msgstr ""
+msgstr "Thiết lập cuộn"
 
 #: ../lib/premium_widgets.php:284
 msgid "Items (e.g. = 8)"
-msgstr ""
+msgstr "Mục (ví dụ = 8)"
 
 #: ../lib/premium_widgets.php:288
 msgid "Order by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #: ../lib/premium_widgets.php:292
 msgid "Blog Post Category"
-msgstr ""
+msgstr "Danh mục bài viết Blog"
 
 #: ../lib/premium_widgets.php:296
 msgid "Portfolio Category"
-msgstr ""
+msgstr "Loại Danh mục"
 
 #: ../lib/premium_widgets.php:300
 msgid "Product Category"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 #: ../lib/premium_widgets.php:304 ../lib/widgets.php:955
 msgid "Carousel Speed (e.g. = 7000)"
-msgstr ""
+msgstr "Tốc độ Thanh trượt (ví dụ: 7000)"
 
 #: ../lib/premium_widgets.php:313
 msgid "Adds a info box with icon options"
-msgstr ""
+msgstr "Thêm một hộp thông tin với các biểu tượng tùy chọn"
 
 #: ../lib/premium_widgets.php:314
 msgid "Virtue: Info Box"
-msgstr ""
+msgstr "Virtue:: Hộp thông tin"
 
 #: ../lib/premium_widgets.php:410
 msgid "Or upload a custom icon"
-msgstr ""
+msgstr "Hoặc tải lên một biểu tượng tuỳ chỉnh"
 
 #: ../lib/premium_widgets.php:412 ../lib/premium_widgets.php:836
 #: ../lib/widgets.php:1202
 msgid "Upload"
-msgstr ""
+msgstr "Tải lên"
 
 #: ../lib/premium_widgets.php:423
 msgid "Box Background Color (e.g. = #f2f2f2)"
-msgstr ""
+msgstr "Hộp màu nền (ví dụ: = #f2f2f2)"
 
 #: ../lib/premium_widgets.php:427
 msgid "Text Color (e.g. = #444444)"
-msgstr ""
+msgstr "Màu văn bản (ví dụ: = #444444)"
 
 #: ../lib/premium_widgets.php:431
 msgid "Icon Size (e.g. = 48)"
-msgstr ""
+msgstr "Kích cỡ biểu tượng (ví dụ: = 48)"
 
 #: ../lib/premium_widgets.php:439
 msgid "Icon Background Color (e.g. = #444444)"
-msgstr ""
+msgstr "Màu nền của biểu tượng (ví dụ: = #444444)"
 
 #: ../lib/premium_widgets.php:443
 msgid "Icon Color (e.g. = #f2f2f2)"
-msgstr ""
+msgstr "Biểu tượng màu sắc (ví dụ: = #f2f2f2)"
 
 #: ../lib/premium_widgets.php:447 ../lib/premium_widgets.php:855
 msgid "Link:"
-msgstr ""
+msgstr "Liên kết:"
 
 #: ../lib/premium_widgets.php:458
 msgid "Adds a google map to a widget area"
-msgstr ""
+msgstr "Thêm một bản đồ google vào bất kỳ khu vực tiện ích nào"
 
 #: ../lib/premium_widgets.php:459
 msgid "Virtue: Google Map"
-msgstr ""
+msgstr "Virtue: Bản đồ Google"
 
 #: ../lib/premium_widgets.php:521
 msgid "True"
-msgstr ""
+msgstr "Đúng"
 
 #: ../lib/premium_widgets.php:521
 msgid "False"
-msgstr ""
+msgstr "Sai"
 
 #: ../lib/premium_widgets.php:540
 msgid "Marker Title:"
-msgstr ""
+msgstr "Tiêu đề đánh dấu:"
 
 #: ../lib/premium_widgets.php:544
 msgid "Marker Address"
-msgstr ""
+msgstr "Địa chỉ đánh dấu"
 
 #: ../lib/premium_widgets.php:556
 msgid "Map Height (e.g. = 300)"
-msgstr ""
+msgstr "Chiều cao bản đồ (ví dụ: 300)"
 
 #: ../lib/premium_widgets.php:560
 msgid "Marker Title Two:"
-msgstr ""
+msgstr "Đánh dấu Tiêu đề hai:"
 
 #: ../lib/premium_widgets.php:564
 msgid "Marker Address Two"
-msgstr ""
+msgstr "Đánh dấu Địa chỉ hai"
 
 #: ../lib/premium_widgets.php:568
 msgid "Marker Title Three:"
-msgstr ""
+msgstr "Đánh dấu Tiêu đề ba:"
 
 #: ../lib/premium_widgets.php:572
 msgid "Marker Address Three"
-msgstr ""
+msgstr "Tiêu đề Địa chỉ ba"
 
 #: ../lib/premium_widgets.php:576
 msgid "Marker Title Four:"
-msgstr ""
+msgstr "Đánh dấu Tiêu đề bốn:"
 
 #: ../lib/premium_widgets.php:580
 msgid "Marker Address Four"
-msgstr ""
+msgstr "Tiêu đề Địa chỉ bốn"
 
 #: ../lib/premium_widgets.php:584
 msgid "Map Center (defauts to first address)"
-msgstr ""
+msgstr "Bản đồ Trung tâm (mặc định đến địa chỉ đầu tiên)"
 
 #: ../lib/premium_widgets.php:588
 msgid ""
 "Load Core Google Scripts? (Only turn this off if this is the second+ map on "
 "a page)"
 msgstr ""
+"Tải Core Google Scripts? (Chỉ tắt tính năng này nếu đây là bản đồ thứ hai "
+"trên một trang)"
 
 #: ../lib/premium_widgets.php:598
 msgid "Adds a simple call to action"
-msgstr ""
+msgstr "Thêm một lời gọi hành động đơn giản"
 
 #: ../lib/premium_widgets.php:599
 msgid "Virtue: Call to Action"
-msgstr ""
+msgstr "Virtue: Gọi hành động"
 
 #: ../lib/premium_widgets.php:680 ../lib/premium_widgets.php:818
 msgid "Self"
-msgstr ""
+msgstr "Tự"
 
 #: ../lib/premium_widgets.php:680 ../lib/premium_widgets.php:818
 #: ../lib/widgets.php:1186
 msgid "New Window"
-msgstr ""
+msgstr "Cửa sổ mới"
 
 #: ../lib/premium_widgets.php:697
 msgid "Title Size (e.g. = 48)"
-msgstr ""
+msgstr "Kích thước Tiêu đề (ví dụ: 48)"
 
 #: ../lib/premium_widgets.php:701
 msgid "Title Line height (e.g. = 48)"
-msgstr ""
+msgstr "Chiều cao dòng chữ tiêu đề (ví dụ: 48)"
 
 #: ../lib/premium_widgets.php:705
 msgid "Title Color (e.g. = #f2f2f2)"
-msgstr ""
+msgstr "Màu Tiêu đề (ví dụ: # f2f2f2)"
 
 #: ../lib/premium_widgets.php:713
 msgid "Subtitle Size (e.g. = 48)"
-msgstr ""
+msgstr "Kích thước phụ đề (ví dụ: 48)"
 
 #: ../lib/premium_widgets.php:717
 msgid "Subtitle Line Height (e.g. = 48)"
-msgstr ""
+msgstr "Chiều cao dòng chữ phụ đề (ví dụ: 48)"
 
 #: ../lib/premium_widgets.php:721
 msgid "Subtitle Color (e.g. = #f2f2f2)"
-msgstr ""
+msgstr "Màu phụ đề (ví dụ: # f2f2f2)"
 
 #: ../lib/premium_widgets.php:729
 msgid "Button Text:"
-msgstr ""
+msgstr "Văn bản nút:"
 
 #: ../lib/premium_widgets.php:733
 msgid "Button Link:"
-msgstr ""
+msgstr "Liên kết nút:"
 
 #: ../lib/premium_widgets.php:737 ../lib/premium_widgets.php:859
 msgid "Link Target"
-msgstr ""
+msgstr "Mục tiêu Liên kết"
 
 #: ../lib/premium_widgets.php:747
 msgid "Adds an image background with text, link and hover effect."
-msgstr ""
+msgstr "Thêm hình nền bằng văn bản, liên kết và hiệu ứng di chuột."
 
 #: ../lib/premium_widgets.php:748
 msgid "Virtue: Image Menu Item"
-msgstr ""
+msgstr "Virtue: Danh mục hình ảnh"
 
 #: ../lib/premium_widgets.php:817
 msgid "Height setting Above"
-msgstr ""
+msgstr "Cài đặt độ cao trên"
 
 #: ../lib/premium_widgets.php:817 ../themeoptions/options.php:933
 msgid "Image Size"
-msgstr ""
+msgstr "Kích thước hình ảnh"
 
 #: ../lib/premium_widgets.php:834
 msgid "Upload an image"
-msgstr ""
+msgstr "Tải lên một hình ảnh"
 
 #: ../lib/premium_widgets.php:839
 msgid "Item Height (e.g. = 220)"
-msgstr ""
+msgstr "Chiều cao của mục (ví dụ: 220)"
 
 #: ../lib/premium_widgets.php:843
 msgid "Height set by:"
-msgstr ""
+msgstr "Chiều cao do:"
 
 #: ../lib/revslider-activate.php:96
 msgid "Install Suggested Plugins"
-msgstr ""
+msgstr "Cài đặt Plugin Đề xuất"
 
 #: ../lib/revslider-activate.php:97
 msgid "Theme Recommended Plugins"
-msgstr ""
+msgstr "Các Plugins đề xuất cho chủ đề"
 
 #: ../lib/revslider-activate.php:110
 msgid "Return to recommended Plugins Installer"
-msgstr ""
+msgstr "Quay trở lại trình cài đặt plugin được đề xuất"
 
 #: ../lib/revslider-activate.php:112
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
-msgstr ""
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %s"
 
 #: ../lib/scripts.php:47
 msgid ""
 "Sorry, no products matched your selection. Please choose a different "
 "combination."
 msgstr ""
+"Rất tiếc, không có sản phẩm nào phù hợp với lựa chọn của bạn. Hãy chọn một "
+"phương thức kết hợp khác."
 
 #: ../lib/scripts.php:48
 msgid ""
 "Sorry, this product is unavailable. Please choose a different combination."
 msgstr ""
+"Rất tiếc, sản phẩm này hiện không tồn tại. Hãy chọn một phương thức kết hợp "
+"khác."
 
 #: ../lib/taxonomy-meta-class.php:133 ../lib/taxonomy-meta-class.php:174
 #: ../lib/taxonomy-meta-class.php:388 ../lib/taxonomy-meta-class.php:415
 msgid "Delete"
-msgstr ""
+msgstr "Xoá"
 
 #: ../lib/taxonomy-meta-class.php:142 ../lib/taxonomy-meta-class.php:395
 msgid "Select File"
-msgstr ""
+msgstr "Chọn tập tin"
 
 #: ../lib/taxonomy-meta-class.php:183 ../lib/taxonomy-meta-class.php:422
 msgid "Select Image"
-msgstr ""
+msgstr "Chọn ảnh"
 
 #: ../lib/taxonomy-meta.php:55
 msgid "Category Image"
-msgstr ""
+msgstr "Thể loại ảnh"
 
 #: ../lib/utils.php:67
 #, php-format
 msgid "Daily Archives: %s"
-msgstr ""
+msgstr "Lưu trữ hàng ngày: %s"
 
 #: ../lib/utils.php:69
 #, php-format
 msgid "Monthly Archives: %s"
-msgstr ""
+msgstr "Lưu trữ hàng tháng: %s"
 
 #: ../lib/utils.php:71
 #, php-format
 msgid "Yearly Archives: %s"
-msgstr ""
+msgstr "Lưu trữ hàng năm: %s"
 
 #: ../lib/utils.php:73
 #, php-format
 msgid "Author Archives: %s"
-msgstr ""
+msgstr "Lưu trữ tác giả: %s"
 
 #: ../lib/utils.php:78
 #, php-format
 msgid "Search Results for %s"
-msgstr ""
+msgstr "Kết quả tìm kiếm cho %s"
 
 #: ../lib/utils.php:80
 msgid "Not Found"
-msgstr ""
+msgstr "Không tìm thấy"
 
 #: ../lib/widgets.php:6 ../lib/widgets.php:69
 msgid "Primary Sidebar"
-msgstr ""
+msgstr "Thanh bên chính"
 
 #: ../lib/widgets.php:48
 msgid "Topbar Widget"
-msgstr ""
+msgstr "Tiện ích thanh đầu trang"
 
 #: ../lib/widgets.php:59
 msgid "Header Widget Area"
-msgstr ""
+msgstr "Khu vực Tiện ích Đầu trang"
 
 #: ../lib/widgets.php:77 ../themeoptions/options.php:890
 msgid "Home Widget Area"
-msgstr ""
+msgstr "Khu vực Tiện ích Trang chủ"
 
 #: ../lib/widgets.php:90 ../lib/widgets.php:131 ../lib/widgets.php:162
 msgid "Footer Column 1"
-msgstr ""
+msgstr "Chân trang Cột 1"
 
 #: ../lib/widgets.php:100 ../lib/widgets.php:141 ../lib/widgets.php:172
 msgid "Footer Column 2"
-msgstr ""
+msgstr "Chân trang Cột 2"
 
 #: ../lib/widgets.php:110 ../lib/widgets.php:151
 msgid "Footer Column 3"
-msgstr ""
+msgstr "Chân trang Cột 3"
 
 #: ../lib/widgets.php:120
 msgid "Footer Column 4"
-msgstr ""
+msgstr "Chân trang Cột 4"
 
 #: ../lib/widgets.php:203
 msgid "Use this widget to add a Vcard to your site"
-msgstr ""
+msgstr "Sử dụng tiện ích này để thêm Vcard vào trang web của bạn"
 
 #: ../lib/widgets.php:204
 msgid "Virtue: Contact/Vcard"
-msgstr ""
+msgstr "Virtue: Liên hệ / Vcard"
 
 #: ../lib/widgets.php:311
 msgid "Company Name:"
-msgstr ""
+msgstr "Tên công ty:"
 
 #: ../lib/widgets.php:315 ../page-contact.php:195
 msgid "Name:"
-msgstr ""
+msgstr "Tên:"
 
 #: ../lib/widgets.php:319
 msgid "Street Address:"
-msgstr ""
+msgstr "Địa chỉ đường phố:"
 
 #: ../lib/widgets.php:323
 msgid "City/Locality:"
-msgstr ""
+msgstr "Thành phố/Địa phương:"
 
 #: ../lib/widgets.php:327
 msgid "State/Region:"
-msgstr ""
+msgstr "Tiểu bang/Khu vực:"
 
 #: ../lib/widgets.php:331
 msgid "Zipcode/Postal Code:"
-msgstr ""
+msgstr "Mã Zip/Mã Bưu điện:"
 
 #: ../lib/widgets.php:335
 msgid "Mobile Telephone:"
-msgstr ""
+msgstr "Điện thoại di động:"
 
 #: ../lib/widgets.php:339
 msgid "Fixed Telephone:"
-msgstr ""
+msgstr "Điện thoại cố định:"
 
 #: ../lib/widgets.php:343 ../page-contact.php:202
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: ../lib/widgets.php:354
 msgid "Simple way to add Social Icons"
-msgstr ""
+msgstr "Cách đơn giản để thêm các biểu tượng xã hội"
 
 #: ../lib/widgets.php:355
 msgid "Virtue: Social Links"
-msgstr ""
+msgstr "Virtue: Liên kết xã hội"
 
 #: ../lib/widgets.php:497
 msgid "Facebook:"
-msgstr ""
+msgstr "Facebook:"
 
 #: ../lib/widgets.php:501
 msgid "Twitter:"
-msgstr ""
+msgstr "Twitter:"
 
 #: ../lib/widgets.php:505
 msgid "Instagram:"
-msgstr ""
+msgstr "Instagram:"
 
 #: ../lib/widgets.php:509
 msgid "GooglePlus:"
-msgstr ""
+msgstr "GooglePlus:"
 
 #: ../lib/widgets.php:513
 msgid "Flickr:"
-msgstr ""
+msgstr "Flickr:"
 
 #: ../lib/widgets.php:517
 msgid "Vimeo:"
-msgstr ""
+msgstr "Vimeo:"
 
 #: ../lib/widgets.php:521
 msgid "Youtube:"
-msgstr ""
+msgstr "Youtube:"
 
 #: ../lib/widgets.php:525
 msgid "Pinterest:"
-msgstr ""
+msgstr "Pinterest:"
 
 #: ../lib/widgets.php:529
 msgid "Dribbble:"
-msgstr ""
+msgstr "Dribbble:"
 
 #: ../lib/widgets.php:533
 msgid "Linkedin:"
-msgstr ""
+msgstr "Linkedin:"
 
 #: ../lib/widgets.php:537
 msgid "Tumblr:"
-msgstr ""
+msgstr "Tumblr:"
 
 #: ../lib/widgets.php:541
 msgid "Stumbleupon:"
-msgstr ""
+msgstr "Stumbleupon:"
 
 #: ../lib/widgets.php:545
 msgid "VK:"
-msgstr ""
+msgstr "VK:"
 
 #: ../lib/widgets.php:549
 msgid "Viadeo:"
-msgstr ""
+msgstr "Viadeo:"
 
 #: ../lib/widgets.php:553
 msgid "xing:"
-msgstr ""
+msgstr "xing:"
 
 #: ../lib/widgets.php:557
 msgid "Yelp:"
-msgstr ""
+msgstr "Yelp:"
 
 #: ../lib/widgets.php:561
 msgid "Soundcloud:"
-msgstr ""
+msgstr "Soundcloud:"
 
 #: ../lib/widgets.php:565
 msgid "RSS:"
-msgstr ""
+msgstr "RSS:"
 
 #: ../lib/widgets.php:579
 msgid "This shows the most recent posts on your site with a thumbnail"
 msgstr ""
+"Hiển thị các bài viết gần đây nhất trên trang web của bạn với một hình thu "
+"nhỏ"
 
 #: ../lib/widgets.php:580
 msgid "Virtue: Recent Posts"
-msgstr ""
+msgstr "Virtue: Bài viết gần đây"
 
 #: ../lib/widgets.php:605 ../templates/recentblog-carousel.php:8
 msgid "Recent Posts"
-msgstr ""
+msgstr "Bài viết gần đây"
 
 #: ../lib/widgets.php:683 ../lib/widgets.php:937
 msgid "Number of posts to show:"
-msgstr ""
+msgstr "Số lượng bài viết hiển thị:"
 
 #: ../lib/widgets.php:686 ../lib/widgets.php:944
 msgid "Orderby:"
-msgstr ""
+msgstr "Sắp xeeps theo:"
 
 #: ../lib/widgets.php:690
 msgid "Limit to Catagory (Optional):"
-msgstr ""
+msgstr "Giới hạn tới loại (Tùy chọn):"
 
 #: ../lib/widgets.php:705
 msgid "This shows a slider with your testimonials"
-msgstr ""
+msgstr "Điều này cho thấy một thanh trượt với các đánh giá của bạn"
 
 #: ../lib/widgets.php:706
 msgid "Virtue: Testimonial Carousel"
-msgstr ""
+msgstr "Virtue: Băng chuyền Đánh giá"
 
 #: ../lib/widgets.php:899
 msgid "none"
-msgstr ""
+msgstr "trống"
 
 #: ../lib/widgets.php:899
 msgid "Page Link"
-msgstr ""
+msgstr "Liên kết trang"
 
 #: ../lib/widgets.php:899
 msgid "Post Link"
-msgstr ""
+msgstr "Liên kết bài viết"
 
 #: ../lib/widgets.php:941
 msgid "Number of words to show:"
-msgstr ""
+msgstr "Số từ cần hiển thị:"
 
 #: ../lib/widgets.php:948
 msgid "Limit to Group (Optional):"
-msgstr ""
+msgstr "Giới hạn cho Nhóm (Tùy chọn):"
 
 #: ../lib/widgets.php:959
 msgid "Link Options:"
-msgstr ""
+msgstr "Tùy chọn liên kết:"
 
 #: ../lib/widgets.php:963
 msgid "If link to page, choose page:"
-msgstr ""
+msgstr "Nếu liên kết đến trang, chọn trang:"
 
 #: ../lib/widgets.php:966
 msgid "Link text (e.g. = Read More)"
-msgstr ""
+msgstr "Văn bản liên kết (ví dụ: Đọc thêm)"
 
 #: ../lib/widgets.php:981
 msgid ""
 "This shows a grid of featured images from recent posts or portfolio items"
 msgstr ""
+"Hiển thị một lưới các hình ảnh nổi bật từ các bài viết hoặc mục danh mục gần "
+"đây"
 
 #: ../lib/widgets.php:982
 msgid "Virtue: Post Grid"
-msgstr ""
+msgstr "Virtue: Lưới Bài viết"
 
 #: ../lib/widgets.php:1106
 msgid "Grid Choice:"
-msgstr ""
+msgstr "Lựa chọn lưới:"
 
 #: ../lib/widgets.php:1112
 msgid "If Post - Choose Category (Optional):"
-msgstr ""
+msgstr "Nếu Bài viết - Chọn Loại (Tùy chọn):"
 
 #: ../lib/widgets.php:1115
 msgid "If Portfolio - Choose Type (Optional):"
-msgstr ""
+msgstr "Nếu Danh mục - Chọn Loại (Tùy chọn):"
 
 #: ../lib/widgets.php:1118
 msgid "Number of images to show:"
-msgstr ""
+msgstr "Số lượng hình ảnh hiển thị:"
 
 #: ../lib/widgets.php:1129
 msgid "This allows for an image and a simple about text."
-msgstr ""
+msgstr "Điều này cho phép một hình ảnh và một văn bản đơn giản."
 
 #: ../lib/widgets.php:1130
 msgid "Virtue: Image"
-msgstr ""
+msgstr "Virtue: Hình ảnh"
 
 #: ../lib/widgets.php:1185
 msgid "Lightbox"
-msgstr ""
+msgstr "Lightbox"
 
 #: ../lib/widgets.php:1187
 msgid "Same Window"
-msgstr ""
+msgstr "Cùng một cửa sổ"
 
 #: ../lib/widgets.php:1188
 msgid "No Link"
-msgstr ""
+msgstr "Không liên kết"
 
 #: ../lib/widgets.php:1200
 msgid "Image URL"
-msgstr ""
+msgstr "URL hình ảnh"
 
 #: ../lib/widgets.php:1205
 msgid "Image opens in"
-msgstr ""
+msgstr "Hình ảnh mở ra trong"
 
 #: ../lib/widgets.php:1209
 msgid "Image Link (optional)"
-msgstr ""
+msgstr "Liên kết hình ảnh (tùy chọn)"
 
 #: ../lib/widgets.php:1213
 msgid "Image Alt Text (optional)"
-msgstr ""
+msgstr "Văn bản thay thế hình ảnh (tùy chọn)"
 
 #: ../lib/widgets.php:1217
 msgid "Text/Caption (optional)"
-msgstr ""
+msgstr "Văn bản/Phụ đề (tùy chọn)"
 
 #: ../page-contact.php:116
 msgid "Please enter your email address."
-msgstr ""
+msgstr "Hãy điền địa chỉ email của bạn."
 
 #: ../page-contact.php:119
 msgid "You entered an invalid email address."
-msgstr ""
+msgstr "Bạn đã nhập một địa chỉ email không hợp lệ."
 
 #: ../page-contact.php:126
 msgid "Please enter a message."
-msgstr ""
+msgstr "Vui lòng nhập một tin nhắn."
 
 #: ../page-contact.php:143
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
 #: ../page-contact.php:185
 msgid "Thanks, your email was sent successfully."
-msgstr ""
+msgstr "Cảm ơn, email của bạn đã được gửi thành công."
 
 #: ../page-contact.php:208
 msgid "Message: "
-msgstr ""
+msgstr "Thông điệp: "
 
 #: ../page-contact.php:226
 msgid "Send Email"
-msgstr ""
+msgstr "Gửi email"
 
 #: ../product-searchform.php:2
 msgid "Search for products"
-msgstr ""
+msgstr "Tìm sản phẩm"
 
 #: ../searchform.php:3
 msgid "Search for:"
-msgstr ""
+msgstr "Tìm kiếm:"
 
 #: ../templates/account-sidebar.php:23
 msgid "Edit Account"
-msgstr ""
+msgstr "Chỉnh sửa tài khoản"
 
 #: ../templates/account-sidebar.php:26
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: ../templates/bottomportfolio-carousel.php:26
 msgid "Recent Projects"
-msgstr ""
+msgstr "Các dự án gần đây"
 
 #: ../templates/comment.php:7
 msgid "(Edit)"
-msgstr ""
+msgstr "(Chỉnh sửa)"
 
 #: ../templates/comments.php:8
 #, php-format
 msgid "One Response "
 msgid_plural "%1$s Responses "
-msgstr[0] ""
+msgstr[0] "%1$s Phản hồi "
 
 #: ../templates/comments.php:18
 msgid "&larr; Older comments"
-msgstr ""
+msgstr "&larr; Bình luận cũ hơn"
 
 #: ../templates/comments.php:21
 msgid "Newer comments &rarr;"
-msgstr ""
+msgstr "Bình luận mới hơn &rarr;"
 
 #: ../templates/comments.php:31 ../templates/comments.php:43
 msgid "Comments are closed."
-msgstr ""
+msgstr "Bình luận bị đóng."
 
 #: ../templates/comments.php:54 ../templates/content-fullpost.php:134
 #: ../templates/content-fullpostfull.php:134
 msgid "Leave a Reply"
-msgstr ""
+msgstr "Để lại một trả lời"
 
 #: ../templates/comments.php:54
 #, php-format
 msgid "Leave a Reply to %s"
-msgstr ""
+msgstr "Để lại một trả lời cho %s"
 
 #: ../templates/comments.php:57
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "Bạn cần phải <a href=\"%s\">đăng nhập</a> để viết bình luận."
 
 #: ../templates/comments.php:63
 #, php-format
 msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
-msgstr ""
+msgstr "Đăng nhập như <a href=\"%s/wp-admin/profile.php\">%s</a>."
 
 #: ../templates/comments.php:64
 msgid "Log out of this account"
-msgstr ""
+msgstr "Đăng xuất khỏi tài khoản này"
 
 #: ../templates/comments.php:64
 msgid "Log out &raquo;"
-msgstr ""
+msgstr "Đăng xuất &raquo;"
 
 #: ../templates/comments.php:71
 msgid "Email (will not be published)"
-msgstr ""
+msgstr "Email (sẽ không được công bố)"
 
 #: ../templates/comments.php:73
 msgid "Website"
-msgstr ""
+msgstr "Trang web"
 
 #: ../templates/comments.php:84
 msgid "Comment"
-msgstr ""
+msgstr "Bình luận"
 
 #: ../templates/comments.php:87
 msgid "Submit Comment"
-msgstr ""
+msgstr "Gửi bình luận"
 
 #: ../templates/content-fullpost.php:129
 #: ../templates/content-fullpostfull.php:129
 #: ../templates/content-singleportfolio.php:291
 msgid "Pages:"
-msgstr ""
+msgstr "Trang:"
 
 #: ../templates/content-fullpost.php:135
 #: ../templates/content-fullpostfull.php:135
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Bình luận"
 
 #: ../templates/content-fullpost.php:136
 #: ../templates/content-fullpostfull.php:136
 msgid "% Comments"
-msgstr ""
+msgstr "% Bình luận"
 
 #: ../templates/content-fullpost.php:138
 #: ../templates/content-fullpostfull.php:138
 msgid "Comments are Closed"
-msgstr ""
+msgstr "Bình luận bị đóng"
 
 #: ../templates/entry-meta-subhead.php:3 ../templates/entry-meta.php:2
 msgid "by"
-msgstr ""
+msgstr "bởi"
 
 #: ../templates/entry-meta-subhead.php:6
 msgid "posted in:"
-msgstr ""
+msgstr "được đăng tại:"
 
 #: ../templates/header-style-three.php:42
 #: ../templates/header-style-two-shrink.php:58
 #: ../templates/header-style-two.php:54 ../templates/header.php:46
 msgid "Menu"
-msgstr ""
+msgstr "Trình đơn"
 
 #: ../templates/home/blog-home-onecolumn.php:9
 #: ../templates/home/blog-home.php:4
 msgid "Latest from the Blog"
-msgstr ""
+msgstr "Mới nhất từ Blog"
 
 #: ../templates/home/custom-carousel.php:8
 msgid "Featured News"
-msgstr ""
+msgstr "Tin tức nổi bật"
 
 #: ../templates/home/rev-slider.php:10
 msgid "Please Install Revolution Slider Plugin"
-msgstr ""
+msgstr "Vui lòng cài đặt Plugin Slider Revolution"
 
 #: ../templates/similarblog-carousel.php:8
 msgid "Similar Posts"
-msgstr ""
+msgstr "Bài viết tương tự"
 
 #: ../themeoptions/options.php:53 ../themeoptions/options.php:54
 msgid "Theme Options"
-msgstr ""
+msgstr "Tùy chọn chủ đề"
 
 #: ../themeoptions/options.php:73
 msgid ""
 "Thank you for using the Virtue Theme by <a href=\"http://kadencethemes.com/"
 "\" target=\"_blank\">Kadence Themes</a>."
 msgstr ""
+"Cảm ơn bạn đã sử dụng Chủ đề Virtue bởi <a href=\"https://www.kadencethemes."
+"com/\" target=\"_blank\">Kadence Themes</a>."
 
 #: ../themeoptions/options.php:126
 msgid "Main Settings"
-msgstr ""
+msgstr "Những cài đặt chính"
 
 #: ../themeoptions/options.php:129
 msgid "Welcome to Virtue Theme Options"
-msgstr ""
+msgstr "Chào mừng bạn đến với Tùy chọn Chủ đề Virtue"
 
 #: ../themeoptions/options.php:130
 msgid "This theme was developed by"
-msgstr ""
+msgstr "Chủ đề này được phát triển bởi"
 
 #: ../themeoptions/options.php:131
 msgid "For theme documentation visit"
-msgstr ""
+msgstr "Đối với tài liệu cho chủ đề hãy vào"
 
 #: ../themeoptions/options.php:133
 msgid "For support please visit"
-msgstr ""
+msgstr "Để được hỗ trợ vui lòng truy cập"
 
 #: ../themeoptions/options.php:141
 msgid "Site Layout Style"
-msgstr ""
+msgstr "Kiểu dáng trang web"
 
 #: ../themeoptions/options.php:142
 msgid "Select Boxed or Wide Site Layout Style"
-msgstr ""
+msgstr "Chọn kiểu đóng gói hoặc phong cách Trang web rộng rãi"
 
 #: ../themeoptions/options.php:152
 msgid "Header Style"
-msgstr ""
+msgstr "Phong cách đầu trang"
 
 #: ../themeoptions/options.php:157
 msgid "Choose a Header Style"
-msgstr ""
+msgstr "Chọn một Phong cách đầu trang"
 
 #: ../themeoptions/options.php:165
 msgid "Header Start Height"
-msgstr ""
+msgstr "Chiều cao ban đầu của đầu trang"
 
 #: ../themeoptions/options.php:166
 msgid "Note: This header style does not have secondary menu support."
-msgstr ""
+msgstr "Lưu ý: Phong cách đầu trang này không có hỗ trợ trình đơn thứ cấp."
 
 #: ../themeoptions/options.php:176
 msgid ""
 "*Note the left menu is the primary menu and the right menu is the secondary "
 "menu. The header is set with two menus."
 msgstr ""
+"* Lưu ý trình đơn bên trái là menu chính và trình đơn bên phải là trình đơn "
+"phụ. Đầu trang được đặt với hai menu."
 
 #: ../themeoptions/options.php:182
 msgid "Choose how many menu items per Side"
-msgstr ""
+msgstr "Chọn bao nhiêu mục trình đơn trên mỗi bên"
 
 #: ../themeoptions/options.php:183
 msgid ""
 "This determines how many menu items fit on each side of the logo, each menu "
 "is set in the appernace > menus page."
 msgstr ""
+"Điều này sẽ xác định có bao nhiêu mục trình đơn phù hợp với mỗi bên của biểu "
+"trưng, mỗi menu được đặt trong  giao diện > trang menu."
 
 #: ../themeoptions/options.php:192
 msgid "Enable Sticky Header?"
-msgstr ""
+msgstr "Kích hoạt đầu trang dính?"
 
 #: ../themeoptions/options.php:193
 msgid "Choose to enable fixed header. Automatically off for mobile"
-msgstr ""
+msgstr "Chọn để cho phép đầu trang cố định. Tự động tắt cho điện thoại di động"
 
 #: ../themeoptions/options.php:199
 msgid "Enable Shrink with Center Header?"
-msgstr ""
+msgstr "Bật Thu hẹp với Đầu trang Trung tâm?"
 
 #: ../themeoptions/options.php:200
 msgid "Choose to enable a shink a header shrink"
-msgstr ""
+msgstr "Chọn để cho phép co lại một đầu trang co lại"
 
 #: ../themeoptions/options.php:207
 msgid "Header Center Start Height"
-msgstr ""
+msgstr "Chiều cao ban đầu của đầu trang trung tâm"
 
 #: ../themeoptions/options.php:217
 msgid "Enable Mobile Sticky Header?"
-msgstr ""
+msgstr "Kích hoạt đầu trang dính trên điện thoại di động?"
 
 #: ../themeoptions/options.php:218
 msgid "Choose to enable fixed header for mobile"
-msgstr ""
+msgstr "Chọn bật đầu trang cố định cho thiết bị di động"
 
 #: ../themeoptions/options.php:225
 msgid "Logo Options"
-msgstr ""
+msgstr "Tùy chọn Logo"
 
 #: ../themeoptions/options.php:231
 msgid "Logo Layout (Standard Header only)"
-msgstr ""
+msgstr "Bố cục Logo (Tiêu đề Chuẩn)"
 
 #: ../themeoptions/options.php:232
 msgid "Choose how you want your logo to be laid out"
-msgstr ""
+msgstr "Chọn cách bạn muốn đặt logo của mình"
 
 #: ../themeoptions/options.php:245
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: ../themeoptions/options.php:247
 msgid "Upload your Logo. If left blank theme will use site name."
-msgstr ""
+msgstr "Tải lên Logo của bạn. Nếu để trống chủ đề sẽ sử dụng tên trang web."
 
 #: ../themeoptions/options.php:254
 msgid "Upload Your @2x Logo for Retina Screens"
-msgstr ""
+msgstr "Tải lên @2x Logo của bạn cho Màn hình Retina"
 
 #: ../themeoptions/options.php:256
 msgid "Should be twice the pixel size of your normal logo."
-msgstr ""
+msgstr "Phải gấp đôi kích thước pixel của logo thông thường của bạn."
 
 #: ../themeoptions/options.php:261
 msgid "Sitename Logo Font"
-msgstr ""
+msgstr "Logo Font Tên trang web"
 
 #: ../themeoptions/options.php:275
 msgid "Choose size and style your sitename, if you don't use an image logo."
 msgstr ""
+"Chọn kích thước và kiểu tên trang web của bạn, nếu bạn không sử dụng biểu "
+"tượng hình ảnh."
 
 #: ../themeoptions/options.php:286
 msgid "Site Tagline - Below Logo\""
-msgstr ""
+msgstr "Khẩu hiệu trang web - Bên dưới Logo\""
 
 #: ../themeoptions/options.php:287
 msgid "An optional line of text below your logo"
-msgstr ""
+msgstr "Dòng văn bản tùy chọn bên dưới logo của bạn"
 
 #: ../themeoptions/options.php:294
 msgid "Site Tagline Font"
-msgstr ""
+msgstr "Font Khẩu hiệu trang web"
 
 #: ../themeoptions/options.php:307
 msgid "Choose size and style your site tagline"
-msgstr ""
+msgstr "Chọn kích thước và phong cách cho khẩu hiệu trang web của bạn"
 
 #: ../themeoptions/options.php:318 ../themeoptions/options.php:328
 #: ../themeoptions/options.php:338 ../themeoptions/options.php:348
 msgid "Logo Spacing"
-msgstr ""
+msgstr "Khoảng cách của Logo"
 
 #: ../themeoptions/options.php:319 ../themeoptions/options.php:359
 msgid "Top Spacing"
-msgstr ""
+msgstr "Khoảng cách trên"
 
 #: ../themeoptions/options.php:329 ../themeoptions/options.php:369
 msgid "Bottom Spacing"
-msgstr ""
+msgstr "Khoảng cách dưới"
 
 #: ../themeoptions/options.php:339
 msgid "Left Spacing"
-msgstr ""
+msgstr "Khoảng cách trái"
 
 #: ../themeoptions/options.php:349
 msgid "Right Spacing"
-msgstr ""
+msgstr "Khoảng cách phải"
 
 #: ../themeoptions/options.php:358 ../themeoptions/options.php:368
 msgid "Primary Menu Spacing"
-msgstr ""
+msgstr "Khoảng cách Menu chính"
 
 #: ../themeoptions/options.php:379
 msgid "Sitewide Banner"
-msgstr ""
+msgstr "Biểu ngữ toàn trang"
 
 #: ../themeoptions/options.php:381
 msgid "Upload a banner for bottom of header."
-msgstr ""
+msgstr "Tải lên biểu ngữ cho phần cuối của đầu trang."
 
 #: ../themeoptions/options.php:386
 msgid "Banner Link"
-msgstr ""
+msgstr "Liên kết biểu ngữ"
 
 #: ../themeoptions/options.php:395
 msgid "Topbar Settings"
-msgstr ""
+msgstr "Cài đặt thanh đầu trang"
 
 #: ../themeoptions/options.php:400
 msgid "Use Topbar?"
-msgstr ""
+msgstr "Sử dụng thanh đầu trang?"
 
 #: ../themeoptions/options.php:401
 msgid "Choose to show or hide topbar"
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn thanh đầu trang"
 
 #: ../themeoptions/options.php:407
 msgid "Enable topbar mobile menu layout."
-msgstr ""
+msgstr "Bật bố cục trình đơn trên điện thoại di động của thanh đầu trang."
 
 #: ../themeoptions/options.php:408
 msgid ""
 "This will convert your menu to a mobile friendly layout and move the search "
 "box into the menu."
 msgstr ""
+"Thao tác này sẽ chuyển menu của bạn sang bố cục thân thiện với điện thoại di "
+"động và di chuyển hộp tìm kiếm vào trình đơn."
 
 #: ../themeoptions/options.php:414
 msgid "Use Topbar Icon Menu?"
-msgstr ""
+msgstr "Sử dụng biểu tượng Menu cho thanh đầu trang?"
 
 #: ../themeoptions/options.php:415
 msgid "Choose to show or hide topbar icon Menu"
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn biểu tượng Menu cho thanh đầu trang"
 
 #: ../themeoptions/options.php:421
 msgid "Topbar Icon Menu"
-msgstr ""
+msgstr "Biểu tượng Menu cho thanh đầu trang"
 
 #: ../themeoptions/options.php:422
 msgid "Choose your icons for the topbar icon menu."
-msgstr ""
+msgstr "Chọn biểu tượng của bạn cho biểu tượng menu thanh đầu trang."
 
 #: ../themeoptions/options.php:427
 msgid "Show Cart total in topbar?"
-msgstr ""
+msgstr "Hiển thị giỏ hàng trên thanh đầu trang?"
 
 #: ../themeoptions/options.php:428
 msgid "This only works if using woocommerce"
-msgstr ""
+msgstr "Điều này chỉ hoạt động nếu sử dụng woocommerce"
 
 #: ../themeoptions/options.php:434
 msgid "Display Search in Topbar?"
-msgstr ""
+msgstr "Hiển thị tìm kiếm thanh đầu trang?"
 
 #: ../themeoptions/options.php:435
 msgid "Choose to show or hide search in topbar"
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn tìm kiếm trong thanh đầu trang"
 
 #: ../themeoptions/options.php:441
 msgid "Enable widget area in right of Topbar?"
-msgstr ""
+msgstr "Bật khu vực tiện ích bên phải của Thanh đầu trang?"
 
 #: ../themeoptions/options.php:442
 msgid ""
 "Note this will hide remove search (you can re-enable it my adding it to the "
 "widget area)"
 msgstr ""
+"Lưu ý điều này sẽ giấu tìm kiếm (bạn có thể kích hoạt lại nó bằng cách thêm "
+"nó vào khu vực tiện ích)"
 
 #: ../themeoptions/options.php:448
 msgid "Topbar Layout Switch"
-msgstr ""
+msgstr "Chuyển Giao diện Thanh đầu trang"
 
 #: ../themeoptions/options.php:449
 msgid "This moves the left items to the right and right items to the left."
 msgstr ""
+"Thao tác này sẽ di chuyển các mục bên trái sang bên phải và các mục bên phải "
+"sang trái."
 
 #: ../themeoptions/options.php:458
 msgid "Footer"
-msgstr ""
+msgstr "Chân trang"
 
 #: ../themeoptions/options.php:459
 msgid "Footer Layout"
-msgstr ""
+msgstr "Bố cục chân trang"
 
 #: ../themeoptions/options.php:465
 msgid "Footer Widget Layout"
-msgstr ""
+msgstr "Giao diện tiện ích chân trang"
 
 #: ../themeoptions/options.php:466
 msgid "Select how many columns for footer widgets"
-msgstr ""
+msgstr "Chọn số lượng cột cho tiện ích chân trang"
 
 #: ../themeoptions/options.php:477
 msgid "Sitewide Footer Call To Action"
-msgstr ""
+msgstr "Lời gọi hành động chân trang cho toàn trang"
 
 #: ../themeoptions/options.php:482
 msgid "Use Sitewide Footer Call to Action"
-msgstr ""
+msgstr "Sử dụng lời gọi hành động chân trang cho toàn trang"
 
 #: ../themeoptions/options.php:488
 msgid "Call to Action Text"
-msgstr ""
+msgstr "Văn bản gọi hành động"
 
 #: ../themeoptions/options.php:494
 msgid "Call to Action Text Color"
-msgstr ""
+msgstr "Màu văn bản gọi hành động"
 
 #: ../themeoptions/options.php:504
 msgid "Call to Action Button Text"
-msgstr ""
+msgstr "Nội dung nút gọi hành động"
 
 #: ../themeoptions/options.php:505
 msgid "e.g. = Read More"
-msgstr ""
+msgstr "ví dụ: Đọc thêm"
 
 #: ../themeoptions/options.php:511
 msgid "Call to Action Button Link"
-msgstr ""
+msgstr "Liên kết nút gọi hành động"
 
 #: ../themeoptions/options.php:517
 msgid "Button Text Color"
-msgstr ""
+msgstr "Màu nội dung nút"
 
 #: ../themeoptions/options.php:536
 msgid "Button Hover Text Color"
-msgstr ""
+msgstr "Màu nội dung nút khi di chuột qua"
 
 #: ../themeoptions/options.php:546
 msgid "Button Hover Background Color"
-msgstr ""
+msgstr "Màu nền nút khi di chuột qua"
 
 #: ../themeoptions/options.php:555
 msgid "Call to action top and bottom padding."
-msgstr ""
+msgstr "Khoản cách gọi hành động trên và dưới."
 
 #: ../themeoptions/options.php:566
 msgid "Call to action background"
-msgstr ""
+msgstr "Nền gọi hành động"
 
 #: ../themeoptions/options.php:572
 msgid "Sitewide Footer Shortcode"
-msgstr ""
+msgstr "Mã ngắn chân trang cho toàn trang"
 
 #: ../themeoptions/options.php:577
 msgid "Add shortcode here for output just above footer."
-msgstr ""
+msgstr "Thêm mã ngắn ở đây để xuất ngay phía trên chân trang."
 
 #: ../themeoptions/options.php:585
 msgid "Home Slider"
-msgstr ""
+msgstr "Thanh trượt Trang chủ"
 
 #: ../themeoptions/options.php:586
 msgid "Home Page Slider Options"
-msgstr ""
+msgstr "Tuỳ chọn Thanh trượt Trang chủ"
 
 #: ../themeoptions/options.php:591
 msgid "Choose a Home Image Slider"
-msgstr ""
+msgstr "Chọn một Thanh trượt Hình ảnh Trang chủ"
 
 #: ../themeoptions/options.php:592
 msgid "If you don't want an image slider on your home page choose none."
 msgstr ""
+"Nếu bạn không muốn thanh trượt hình ảnh trên trang chủ của mình thì không "
+"chọn."
 
 #: ../themeoptions/options.php:593
 msgid "Thumb Slider"
-msgstr ""
+msgstr "Thanh trượt hình ảnh nhỏ"
 
 #: ../themeoptions/options.php:593
 msgid "Cyclone Slider / Shortcode"
-msgstr ""
+msgstr "Thanh trượt / Mã ngắn Cyclone"
 
 #: ../themeoptions/options.php:601 ../themeoptions/options.php:747
 #: ../themeoptions/options.php:1671
 msgid "Choose your Revolution Slider Here"
-msgstr ""
+msgstr "Chọn Thanh trượt Revolution ở đây"
 
 #: ../themeoptions/options.php:610
 msgid "If Kadence Slider"
-msgstr ""
+msgstr "Nếu Thanh trượt Kadence"
 
 #: ../themeoptions/options.php:611
 msgid "Choose your Kadence Slider Here"
-msgstr ""
+msgstr "Chọn Thanh trượt Kadence ở đây"
 
 #: ../themeoptions/options.php:621
 msgid "Move Slider above Header"
-msgstr ""
+msgstr "Di chuyển thanh trượt phía trên đầu trang"
 
 #: ../themeoptions/options.php:622
 msgid "This works great for full screen sliders"
-msgstr ""
+msgstr "Điều này hoạt động tốt cho thanh trượt toàn màn hình"
 
 #: ../themeoptions/options.php:629
 msgid "Add arrow at the bottom of slider"
-msgstr ""
+msgstr "Thêm mũi tên ở cuối thanh trượt"
 
 #: ../themeoptions/options.php:630
 msgid "This adds a little arrow link that scrolls down into the content"
 msgstr ""
+"Điều này cho biết thêm một liên kết mũi tên nhỏ cuộn xuống phần nội dung"
 
 #: ../themeoptions/options.php:637
 msgid "If Cyclone Slider or using any shortcode"
-msgstr ""
+msgstr "Nếu Thanh trượt Cyclone hoặc sử dụng bất kỳ mã ngắn nào"
 
 #: ../themeoptions/options.php:638
 msgid "Paste shortcode here"
-msgstr ""
+msgstr "Dán Mã ngắn ở đây"
 
 #: ../themeoptions/options.php:644 ../themeoptions/options.php:763
 #: ../themeoptions/options.php:1687
 msgid "Slider Images"
-msgstr ""
+msgstr "Thanh trượt Hình ảnh"
 
 #: ../themeoptions/options.php:645 ../themeoptions/options.php:764
 #: ../themeoptions/options.php:1688
 msgid "Use large images for best results."
-msgstr ""
+msgstr "Sử dụng hình ảnh lớn để có kết quả tốt nhất."
 
 #: ../themeoptions/options.php:650 ../themeoptions/options.php:770
 #: ../themeoptions/options.php:1694
 msgid "Slider Max Height"
-msgstr ""
+msgstr "Chiều cao tối đa của Thanh trượt"
 
 #: ../themeoptions/options.php:651 ../themeoptions/options.php:661
 #: ../themeoptions/options.php:771 ../themeoptions/options.php:782
 #: ../themeoptions/options.php:1695
 msgid "Note: does not work if images are smaller than max."
-msgstr ""
+msgstr "Lưu ý: không hoạt động nếu hình ảnh nhỏ hơn tối đa."
 
 #: ../themeoptions/options.php:660 ../themeoptions/options.php:781
 #: ../themeoptions/options.php:1705
 msgid "Slider Max Width"
-msgstr ""
+msgstr "Chiều rộng tối đa của Thanh trượt"
 
 #: ../themeoptions/options.php:670 ../themeoptions/options.php:792
 #: ../themeoptions/options.php:1716
 msgid "Auto Play?"
-msgstr ""
+msgstr "Tự chạy?"
 
 #: ../themeoptions/options.php:671 ../themeoptions/options.php:793
 #: ../themeoptions/options.php:1717
 msgid "This determines if a slider automatically scrolls"
-msgstr ""
+msgstr "Điều này sẽ quyết định nếu một thanh trượt tự động cuộn"
 
 #: ../themeoptions/options.php:677 ../themeoptions/options.php:800
 #: ../themeoptions/options.php:1724
 msgid "Slider Pause Time"
-msgstr ""
+msgstr "Thời gian tạm dừng thanh trượt"
 
 #: ../themeoptions/options.php:678 ../themeoptions/options.php:801
 #: ../themeoptions/options.php:1725
 msgid "How long to pause on each slide, in milliseconds."
-msgstr ""
+msgstr "Bao lâu để tạm dừng trên mỗi trang trình bày, tính bằng mili giây."
 
 #: ../themeoptions/options.php:687 ../themeoptions/options.php:811
 #: ../themeoptions/options.php:1735
 msgid "Transition Type"
-msgstr ""
+msgstr "Loại chuyển tiếp"
 
 #: ../themeoptions/options.php:688 ../themeoptions/options.php:812
 #: ../themeoptions/options.php:1736
 msgid "Choose a transition type"
-msgstr ""
+msgstr "Chọn loại chuyển tiếp"
 
 #: ../themeoptions/options.php:689 ../themeoptions/options.php:813
 #: ../themeoptions/options.php:1737
 msgid "Fade"
-msgstr ""
+msgstr "Phai"
 
 #: ../themeoptions/options.php:689 ../themeoptions/options.php:813
 #: ../themeoptions/options.php:1737
 msgid "Slide"
-msgstr ""
+msgstr "Trượt"
 
 #: ../themeoptions/options.php:695 ../themeoptions/options.php:820
 #: ../themeoptions/options.php:1744
 msgid "Slider Transition Time"
-msgstr ""
+msgstr "Thời gian chuyển thanh trượt"
 
 #: ../themeoptions/options.php:696 ../themeoptions/options.php:821
 #: ../themeoptions/options.php:1745
 msgid "How long for slide transitions, in milliseconds."
-msgstr ""
+msgstr "Thời lượng chuyển đổi hình ảnh, tính bằng mili giây."
 
 #: ../themeoptions/options.php:705 ../themeoptions/options.php:831
 #: ../themeoptions/options.php:1755
 msgid "Show Captions?"
-msgstr ""
+msgstr "Hiển thị chú thích?"
 
 #: ../themeoptions/options.php:706 ../themeoptions/options.php:832
 #: ../themeoptions/options.php:1756
 msgid "Choose to show or hide captions"
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn phụ đề"
 
 #: ../themeoptions/options.php:712 ../themeoptions/options.php:839
 msgid "Video Embed Code"
-msgstr ""
+msgstr "Mã nhúng Video"
 
 #: ../themeoptions/options.php:713 ../themeoptions/options.php:840
 msgid "If your using a video on the home page place video embed code here."
-msgstr ""
+msgstr "Nếu bạn sử dụng video trên trang chủ, hãy đưa mã nhúng video vào đây."
 
 #: ../themeoptions/options.php:723
 msgid "Home Mobile Slider"
-msgstr ""
+msgstr "Thanh trượt Di động Trang chủ"
 
 #: ../themeoptions/options.php:724
 msgid "Create a more lightweight Home slider for your mobile visitors."
-msgstr ""
+msgstr "Tạo một thanh trượt nhẹ hơn cho người xem bằng điện thoại của bạn."
 
 #: ../themeoptions/options.php:729
 msgid "Would you like to use this feature?"
-msgstr ""
+msgstr "Bạn có muốn sử dụng tính năng này?"
 
 #: ../themeoptions/options.php:730
 msgid ""
 "Choose if you would like to show a different slider on your home page for "
 "your mobile visitors."
 msgstr ""
+"Chọn nếu bạn muốn hiển thị một thanh trượt khác trên trang chủ của mình cho "
+"khách truy cập trên thiết bị di động."
 
 #: ../themeoptions/options.php:736
 msgid "Choose a Slider for Mobile"
-msgstr ""
+msgstr "Chọn Thanh trượt cho Điện thoại di động"
 
 #: ../themeoptions/options.php:737
 msgid "Choose which slider you would like to show for mobile viewers."
 msgstr ""
+"Chọn thanh trượt bạn muốn hiển thị cho người xem trên điện thoại di động."
 
 #: ../themeoptions/options.php:756 ../themeoptions/options.php:1680
 msgid "If Cyclone Slider"
-msgstr ""
+msgstr "Nếu Thanh trượt Cyclone"
 
 #: ../themeoptions/options.php:757 ../themeoptions/options.php:1681
 msgid "Paste Cyclone Slider shortcode here"
-msgstr ""
+msgstr "Dán Mã ngắn Thanh trượt Cyclone ở đây"
 
 #: ../themeoptions/options.php:850
 msgid "Home Layout"
-msgstr ""
+msgstr "Giao diện Trang chủ"
 
 #: ../themeoptions/options.php:857
 msgid "Display a sidebar on the Home Page?"
-msgstr ""
+msgstr "Hiển thị thanh bên trên Trang chủ?"
 
 #: ../themeoptions/options.php:858
 msgid "This determines if there is a sidebar on the home page."
-msgstr ""
+msgstr "Điều này quyết định nếu có một thanh bên trên trang chủ."
 
 #: ../themeoptions/options.php:868
 msgid "Choose a Sidebar for your Home Page"
-msgstr ""
+msgstr "Chọn một thanh bên cho Trang chủ của bạn"
 
 #: ../themeoptions/options.php:876
 msgid "Homepage Layout Manager"
-msgstr ""
+msgstr "Trình quản lý bố cục trang chủ"
 
 #: ../themeoptions/options.php:877
 msgid "Organize how you want the layout to appear on the homepage"
-msgstr ""
+msgstr "Tổ chức cách bạn muốn bố cục xuất hiện trên trang chủ"
 
 #: ../themeoptions/options.php:881 ../themeoptions/options.php:907
 msgid "Image Menu"
-msgstr ""
+msgstr "Menu hình ảnh"
 
 #: ../themeoptions/options.php:883
 msgid "Latest Blog Posts"
-msgstr ""
+msgstr "Bài viết Blog mới nhất"
 
 #: ../themeoptions/options.php:884
 msgid "Portfolio Carousel"
-msgstr ""
+msgstr "Băng chuyền Danh mục"
 
 #: ../themeoptions/options.php:885 ../themeoptions/options.php:1266
 msgid "Icon Menu"
-msgstr ""
+msgstr "Menu Biểu tượng"
 
 #: ../themeoptions/options.php:886
 msgid "Portfolio Full"
-msgstr ""
+msgstr "Danh mục Đầy đủ"
 
 #: ../themeoptions/options.php:887
 msgid "On Sale Products"
-msgstr ""
+msgstr "Sản phẩm giảm giá"
 
 #: ../themeoptions/options.php:888
 msgid "Best Selling Products"
-msgstr ""
+msgstr "Sản phẩm bán chạy nhất"
 
 #: ../themeoptions/options.php:889
 msgid "Custom Carousel"
-msgstr ""
+msgstr "Băng chuyền tùy chỉnh"
 
 #: ../themeoptions/options.php:895
 msgid "Page Content"
-msgstr ""
+msgstr "Nội dung Trang"
 
 #: ../themeoptions/options.php:902
 msgid "Home Image Menu"
-msgstr ""
+msgstr "Menu Hình ảnh Trang chủ"
 
 #: ../themeoptions/options.php:908 ../themeoptions/options.php:1223
 msgid "Add images, descriptions, titles, and links"
-msgstr ""
+msgstr "Thêm hình ảnh, mô tả, tiêu đề và liên kết"
 
 #: ../themeoptions/options.php:913 ../themeoptions/options.php:1272
 msgid "Choose how many columns in each row"
-msgstr ""
+msgstr "Chọn số cột trong mỗi hàng"
 
 #: ../themeoptions/options.php:922
 msgid "Image Menu Height"
-msgstr ""
+msgstr "Chiều cao Menu Hình ảnh"
 
 #: ../themeoptions/options.php:931
 msgid "Height set by"
-msgstr ""
+msgstr "Chiều cao do"
 
 #: ../themeoptions/options.php:932
 msgid "Choose how the image menu height will be set."
-msgstr ""
+msgstr "Chọn cách chiều cao của trình đơn hình ảnh được đặt."
 
 #: ../themeoptions/options.php:933
 msgid "Height setting above"
-msgstr ""
+msgstr "Cài đặt độ cao ở trên"
 
 #: ../themeoptions/options.php:940
 msgid "Home Featured Product Settings"
-msgstr ""
+msgstr "Cài đặt sản phẩm nổi bật ở Trang chủ"
 
 #: ../themeoptions/options.php:945
 msgid "Home Product Carousel Title"
-msgstr ""
+msgstr "Tiêu đề Băng chuyền Sản phẩm ở Trang chủ"
 
 #: ../themeoptions/options.php:946
 msgid "e.g. = Featured Products"
-msgstr ""
+msgstr "ví dụ: Sản phẩm nổi bật"
 
 #: ../themeoptions/options.php:951 ../themeoptions/options.php:998
 #: ../themeoptions/options.php:1045 ../themeoptions/options.php:1148
 #: ../themeoptions/options.php:1228
 msgid "Choose how many columns are in carousel"
-msgstr ""
+msgstr "Chọn số cột trong băng chuyền"
 
 #: ../themeoptions/options.php:960 ../themeoptions/options.php:1007
 #: ../themeoptions/options.php:1054
 msgid "Choose how many products are in carousel"
-msgstr ""
+msgstr "Chọn bao nhiêu sản phẩm trong băng chuyền"
 
 #: ../themeoptions/options.php:969 ../themeoptions/options.php:1016
 #: ../themeoptions/options.php:1063
 msgid "Carousel Scroll"
-msgstr ""
+msgstr "Cuộn Băng chuyền"
 
 #: ../themeoptions/options.php:970 ../themeoptions/options.php:1017
 #: ../themeoptions/options.php:1064
 msgid "Choose how the product items scroll."
-msgstr ""
+msgstr "Chọn cách các mục sản phẩm cuộn."
 
 #: ../themeoptions/options.php:971 ../themeoptions/options.php:1018
 #: ../themeoptions/options.php:1065 ../themeoptions/options.php:1183
 #: ../themeoptions/options.php:1239 ../themeoptions/options.php:2001
 msgid "One Item"
-msgstr ""
+msgstr "Một mục"
 
 #: ../themeoptions/options.php:978 ../themeoptions/options.php:1025
 #: ../themeoptions/options.php:1072 ../themeoptions/options.php:1172
 #: ../themeoptions/options.php:1246 ../themeoptions/options.php:1981
 msgid "Choose the carousel speed (in seconds)."
-msgstr ""
+msgstr "Chọn tốc độ băng chuyền (tính bằng giây)."
 
 #: ../themeoptions/options.php:987
 msgid "Home On Sale Product Settings"
-msgstr ""
+msgstr "Cài đặt sản phẩm giảm giá ở trang chủ"
 
 #: ../themeoptions/options.php:992
 msgid "Home On Sale Product Carousel Title"
-msgstr ""
+msgstr "Tiêu đề Băng chuyền Sản phẩm giảm giá ở Trang chủ"
 
 #: ../themeoptions/options.php:993
 msgid "e.g. = On Sale Products"
-msgstr ""
+msgstr "ví dụ: Sản phẩm giảm giá"
 
 #: ../themeoptions/options.php:1034
 msgid "Home Best Selling Product Settings"
-msgstr ""
+msgstr "Cài đặt sản phẩm bán chạy nhất ở Trang chủ"
 
 #: ../themeoptions/options.php:1039
 msgid "Home Best Selling Product Carousel Title"
-msgstr ""
+msgstr "Tiêu đề Băng chuyền Sản phẩm bán chạy nhất ở Trang chủ"
 
 #: ../themeoptions/options.php:1040
 msgid "e.g. = Best Selling Products"
-msgstr ""
+msgstr "ví dụ: Sản phẩm bán chạy nhất"
 
 #: ../themeoptions/options.php:1081
 msgid "Home Blog Settings"
-msgstr ""
+msgstr "Cài đặt Trang chủ Blog"
 
 #: ../themeoptions/options.php:1086
 msgid "Home Blog Title"
-msgstr ""
+msgstr "Tiêu đề Trang chủ Blog"
 
 #: ../themeoptions/options.php:1087
 msgid "e.g. = Latest from the blog"
-msgstr ""
+msgstr "ví dụ: Mới nhất từ blog"
 
 #: ../themeoptions/options.php:1092
 msgid "Choose How many posts on Homepage"
-msgstr ""
+msgstr "Chọn có bao nhiêu bài viết trên Trang chủ"
 
 #: ../themeoptions/options.php:1101
 msgid "Choose how many post columns on Homepage"
-msgstr ""
+msgstr "Chọn có bao nhiêu cột bài viết trên Trang chủ"
 
 #: ../themeoptions/options.php:1111
 msgid "Limit posts to a Category"
-msgstr ""
+msgstr "Giới hạn bài viết vào một loại"
 
 #: ../themeoptions/options.php:1112
 msgid "Leave blank to select all"
-msgstr ""
+msgstr "Để trống để chọn tất cả"
 
 #: ../themeoptions/options.php:1118
 msgid "Home Post Excerpt Length"
-msgstr ""
+msgstr "Chiều dài Trích đoạn Bài viết ở Trang chủ"
 
 #: ../themeoptions/options.php:1119
 msgid "Determines how many words are in the post excerpt."
-msgstr ""
+msgstr "Xác định có bao nhiêu từ trong trích đoạn bài viết."
 
 #: ../themeoptions/options.php:1128
 msgid "Home Portfolio Carousel Settings"
-msgstr ""
+msgstr "Thiết đặt Danh mục Carousel Trang chủ"
 
 #: ../themeoptions/options.php:1133
 msgid "Home Portfolio Carousel title"
-msgstr ""
+msgstr "Tiêu đề Danh mục Carousel Trang chủ"
 
 #: ../themeoptions/options.php:1134
 msgid "e.g. = Portfolio Carousel title"
-msgstr ""
+msgstr "ví dụ: Tiêu đề Carousel Danh mục"
 
 #: ../themeoptions/options.php:1141
 msgid "Portfolio Carousel Category Type"
-msgstr ""
+msgstr "Loại Mục Danh mục Carousel"
 
 #: ../themeoptions/options.php:1142
 msgid "Leave blank to select all types"
-msgstr ""
+msgstr "Để trống để chọn tất cả các loại"
 
 #: ../themeoptions/options.php:1157 ../themeoptions/options.php:1350
 msgid "Set height for portfolio items - Optional"
-msgstr ""
+msgstr "Đặt chiều cao cho danh mục - Tùy chọn"
 
 #: ../themeoptions/options.php:1158 ../themeoptions/options.php:1351
 msgid "Example 400"
-msgstr ""
+msgstr "Ví dụ 400"
 
 #: ../themeoptions/options.php:1163
 msgid "Choose how many portfolio items are in carousel"
-msgstr ""
+msgstr "Chọn bao nhiêu danh mục nằm trong băng chuyền"
 
 #: ../themeoptions/options.php:1181 ../themeoptions/options.php:1999
 msgid "Portfolio Carousel Scroll"
-msgstr ""
+msgstr "Cuộn Băng chuyền Danh mục"
 
 #: ../themeoptions/options.php:1182 ../themeoptions/options.php:2000
 msgid "Choose how the portfolio items scroll."
-msgstr ""
+msgstr "Chọn cách các mục sản phẩm cuộn."
 
 #: ../themeoptions/options.php:1190
 msgid "Portfolio Carousel Order by"
-msgstr ""
+msgstr "Danh mục Carousel sắp xếp theo"
 
 #: ../themeoptions/options.php:1191
 msgid "Choose how the portfolio items should be ordered in the carousel."
-msgstr ""
+msgstr "Chọn cách sắp xếp các danh mục trong băng chuyền."
 
 #: ../themeoptions/options.php:1199 ../themeoptions/options.php:1362
 msgid "Display Portfolio Types under Title"
-msgstr ""
+msgstr "Hiển thị các Loại Danh mục bên dưới Tiêu đề"
 
 #: ../themeoptions/options.php:1205 ../themeoptions/options.php:1368
 msgid "Display Portfolio Excerpt under Title"
-msgstr ""
+msgstr "Hiển thị Trích đoạn danh mục dưới Tiêu đề"
 
 #: ../themeoptions/options.php:1211
 msgid "Home Custom Carousel Settings"
-msgstr ""
+msgstr "Cài đặt Băng chuyền Tuỳ chỉnh Trang chủ"
 
 #: ../themeoptions/options.php:1216
 msgid "Home Custom Carousel Title"
-msgstr ""
+msgstr "Tiêu đề Băng chuyền Tuỳ chỉnh Trang chủ"
 
 #: ../themeoptions/options.php:1217
 msgid "e.g. = Featured News"
-msgstr ""
+msgstr "ví dụ: Tin tức nổi bật"
 
 #: ../themeoptions/options.php:1222
 msgid "Custom Carousel Items"
-msgstr ""
+msgstr "Mục Băng chuyền tùy chỉnh"
 
 #: ../themeoptions/options.php:1237
 msgid "Custom Carousel Scroll"
-msgstr ""
+msgstr "Cuộn Băng chuyền tùy chỉnh"
 
 #: ../themeoptions/options.php:1238
 msgid "Choose how the custom items scroll."
-msgstr ""
+msgstr "Chọn cách các mục tùy chỉnh cuộn."
 
 #: ../themeoptions/options.php:1255
 msgid "Enable custom image ratio for carousel"
-msgstr ""
+msgstr "Bật tỷ lệ hình ảnh tùy chỉnh cho băng chuyền"
 
 #: ../themeoptions/options.php:1261
 msgid "Home Icon Menu"
-msgstr ""
+msgstr "Menu Biểu tượng Trang chủ"
 
 #: ../themeoptions/options.php:1267
 msgid "Choose your icons for the icon menu."
-msgstr ""
+msgstr "Chọn biểu tượng của bạn cho menu biểu tượng."
 
 #: ../themeoptions/options.php:1281
 msgid "Icon Menu Box Background Color"
-msgstr ""
+msgstr "Màu nền của Hộp Trình đơn Biểu tượng"
 
 #: ../themeoptions/options.php:1282
 msgid ""
 "Choose the background color for icon menu boxes. * Note the hover color is "
 "set by your primary color in basic styling."
 msgstr ""
+"Chọn màu nền cho các hộp trình đơn biểu tượng. * Lưu ý màu hover được đặt "
+"bởi màu chính của bạn trong kiểu dáng cơ bản."
 
 #: ../themeoptions/options.php:1289
 msgid "Icon Menu Font and Icon Color"
-msgstr ""
+msgstr "Biểu tượng Menu Font và Màu Biểu tượng"
 
 #: ../themeoptions/options.php:1290
 msgid ""
 "Choose the color for icon menu font and icon. * Note the hover color is set "
 "to white and background is set to primary color."
 msgstr ""
+"Chọn màu cho font biểu tượng trình đơn và biểu tượng. * Lưu ý màu hover được "
+"đặt thành trắng và nền được đặt thành màu chính."
 
 #: ../themeoptions/options.php:1297
 msgid "Home Portfolio Full Settings"
-msgstr ""
+msgstr "Cài đặt Danh mục đầy đủ Trang chủ"
 
 #: ../themeoptions/options.php:1302
 msgid "Home Portfolio Full Title"
-msgstr ""
+msgstr "Tiêu đề Danh mục đầy đủ Trang chủ"
 
 #: ../themeoptions/options.php:1303
 msgid "e.g. = Our Work"
-msgstr ""
+msgstr "ví dụ. = Công việc của chúng tôi"
 
 #: ../themeoptions/options.php:1310
 msgid "Portfolio Full Category Type"
-msgstr ""
+msgstr "Loại danh mục đầy đủ"
 
 #: ../themeoptions/options.php:1311
 msgid "Choose type for the Portfolio Full"
