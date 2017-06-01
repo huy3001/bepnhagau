@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-06-01 17:20+0700\n"
+"PO-Revision-Date: 2017-06-01 18:09+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4973,205 +4973,214 @@ msgstr "Hiển thị ngày với bài viết?"
 
 #: ../themeoptions/options.php:2056
 msgid "Choose to show or hide date with post title."
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn ngày với tiêu đề bài viết."
 
 #: ../themeoptions/options.php:2062
 msgid "Show Previous and Next posts links?"
-msgstr ""
+msgstr "Hiển thị các liên kết bài viết trước và tiếp theo?"
 
 #: ../themeoptions/options.php:2063
 msgid ""
 "Choose to show or hide previous and next post links in the footer of a "
 "single post."
 msgstr ""
+"Chọn để hiển thị hoặc ẩn các liên kết bài viết trước và sau ở chân trang của "
+"một bài viết."
 
 #: ../themeoptions/options.php:2069
 msgid "Use Infinite Scroll on Blog pages"
-msgstr ""
+msgstr "Sử dụng cuộn vô hạn trên các trang Blog"
 
 #: ../themeoptions/options.php:2070 ../themeoptions/options.php:2077
 msgid ""
 "Remove Pagination and creates infinite scroll instead. Note does not work "
 "with slider post summaries"
 msgstr ""
+"Hủy bỏ Phân trang và tạo ra cuộn vô hạn để thay thế. Ghi chú không hoạt động "
+"với các bản tóm tắt bài viết trên thanh trượt"
 
 #: ../themeoptions/options.php:2076
 msgid "Use Infinite Scroll on Blog archive pages"
-msgstr ""
+msgstr "Sử dụng cuộn vô hạn trên các trang lưu trữ Blog"
 
 #: ../themeoptions/options.php:2083
 msgid "Blog Post Defaults"
-msgstr ""
+msgstr "Mặc định Bài viết Blog"
 
 #: ../themeoptions/options.php:2088
 msgid "Blog Post Sidebar Default"
-msgstr ""
+msgstr "Mặc định Thanh bên Bài viết Blog"
 
 #: ../themeoptions/options.php:2096
 msgid "Blog Post Summary Default"
-msgstr ""
+msgstr "Mặc định Tóm tắt Bài viết Blog"
 
 #: ../themeoptions/options.php:2105
 msgid "Default post summary feature Image"
-msgstr ""
+msgstr "Hình ảnh nổi bật tóm tắt bài viết mặc định"
 
 #: ../themeoptions/options.php:2106
 msgid "Replace theme default feature image for posts without a featured image"
 msgstr ""
+"Thay thế hình ảnh nổi bật mặc định chủ đề cho bài viết mà không có hình ảnh "
+"nổi bật"
 
 #: ../themeoptions/options.php:2111
 msgid "Blog Post Head Content Default"
-msgstr ""
+msgstr "Mặc định nội dung đầu trang bài viết Blog"
 
 #: ../themeoptions/options.php:2119
 msgid "Blog Post Author Box Default"
-msgstr ""
+msgstr "Mặc định hộp tác giả bài viết Blog"
 
 #: ../themeoptions/options.php:2127
 msgid "Blog Post Bottom Carousel Default"
-msgstr ""
+msgstr "Mặc định Băng chuyền dưới cùng bài viết Blog"
 
 #: ../themeoptions/options.php:2135
 msgid "Display Similar Posts in random order?"
-msgstr ""
+msgstr "Hiển thị các bài viết tương tự theo thứ tự ngẫu nhiên?"
 
 #: ../themeoptions/options.php:2142
 msgid "Choose how many items to show on recent/similar post carousel."
 msgstr ""
+"Chọn bao nhiêu mặt hàng để hiển thị trên băng chuyền bài gần đây/tương tự."
 
 #: ../themeoptions/options.php:2151
 msgid "Blog Category/Archive Defaults"
-msgstr ""
+msgstr "Mặc định Loại /Lưu trữ Blog"
 
 #: ../themeoptions/options.php:2156 ../themeoptions/options.php:2164
 msgid "Category Display Type"
-msgstr ""
+msgstr "Loại danh mục hiển thị"
 
 #: ../themeoptions/options.php:2157
 msgid "Full Post"
-msgstr ""
+msgstr "Toàn bộ bài viết"
 
 #: ../themeoptions/options.php:2157
 msgid "Grid Post"
-msgstr ""
+msgstr "Lưới Bài viết"
 
 #: ../themeoptions/options.php:2174
 msgid "Display the sidebar on blog archives?"
-msgstr ""
+msgstr "Hiển thị thanh bên trên lưu trữ blog?"
 
 #: ../themeoptions/options.php:2175
 msgid "This determines if there is a sidebar on the blog category pages."
-msgstr ""
+msgstr "Điều này xác định nếu có một thanh bên trên các trang danh mục blog."
 
 #: ../themeoptions/options.php:2185
 msgid "Choose a Sidebar for your Category/Archive Pages"
-msgstr ""
+msgstr "Chọn một thanh bên cho các trang Danh mục/Lưu trữ của bạn"
 
 #: ../themeoptions/options.php:2196 ../themeoptions/options.php:2197
 msgid "Basic Styling"
-msgstr ""
+msgstr "Tạo kiểu cơ bản"
 
 #: ../themeoptions/options.php:2202
 msgid "Theme Skin Stylesheet"
-msgstr ""
+msgstr "Mẫu Kiểu Chủ đề"
 
 #: ../themeoptions/options.php:2203
 msgid ""
 "Note* changes made in options panel will override this stylesheet. Example: "
 "Colors set in typography."
 msgstr ""
+"Lưu ý* các thay đổi được thực hiện trong bảng điều khiển tùy chọn sẽ ghi đè "
+"lên biểu định kiểu này. Ví dụ: Màu sắc được đặt trong kiểu chữ."
 
 #: ../themeoptions/options.php:2212
 msgid "Primary Color"
-msgstr ""
+msgstr "Màu chính"
 
 #: ../themeoptions/options.php:2213
 msgid "Choose the default Highlight color for your site."
-msgstr ""
+msgstr "Chọn màu Đánh dấu mặc định cho trang web của bạn."
 
 #: ../themeoptions/options.php:2221
 msgid "20% lighter than Primary Color"
-msgstr ""
+msgstr "Nhạt hơn 20% so với Màu Chính"
 
 #: ../themeoptions/options.php:2222
 msgid "This is used for hover effects"
-msgstr ""
+msgstr "Điều này được sử dụng cho hiệu ứng di chuột"
 
 #: ../themeoptions/options.php:2231
 msgid "Sitewide Gray Fonts"
-msgstr ""
+msgstr "Các phông màu xám toàn trang"
 
 #: ../themeoptions/options.php:2240
 msgid "Footer Font Color"
-msgstr ""
+msgstr "Màu chữ chân trang"
 
 #: ../themeoptions/options.php:2252
 msgid "Advanced Styling"
-msgstr ""
+msgstr "Kiểu dáng Nâng cao"
 
 #: ../themeoptions/options.php:2253
 msgid "Main Content Background"
-msgstr ""
+msgstr "Nền nội dung chính"
 
 #: ../themeoptions/options.php:2258
 msgid "Content Background Color"
-msgstr ""
+msgstr "Màu nền nội dung"
 
 #: ../themeoptions/options.php:2268 ../themeoptions/options.php:2312
 #: ../themeoptions/options.php:2358 ../themeoptions/options.php:2403
 #: ../themeoptions/options.php:2448 ../themeoptions/options.php:2490
 #: ../themeoptions/options.php:2532 ../themeoptions/options.php:2577
 msgid "Upload background image or texture"
-msgstr ""
+msgstr "Tải lên hình nền hoặc kết cấu"
 
 #: ../themeoptions/options.php:2274 ../themeoptions/options.php:2318
 #: ../themeoptions/options.php:2364 ../themeoptions/options.php:2409
 #: ../themeoptions/options.php:2454 ../themeoptions/options.php:2495
 #: ../themeoptions/options.php:2538 ../themeoptions/options.php:2583
 msgid "Image repeat options"
-msgstr ""
+msgstr "Tùy chọn lặp lại hình ảnh"
 
 #: ../themeoptions/options.php:2275 ../themeoptions/options.php:2319
 #: ../themeoptions/options.php:2365 ../themeoptions/options.php:2410
 #: ../themeoptions/options.php:2455 ../themeoptions/options.php:2496
 #: ../themeoptions/options.php:2539 ../themeoptions/options.php:2584
 msgid "no-repeat"
-msgstr ""
+msgstr "Không lặp lại"
 
 #: ../themeoptions/options.php:2275 ../themeoptions/options.php:2319
 #: ../themeoptions/options.php:2365 ../themeoptions/options.php:2410
 #: ../themeoptions/options.php:2455 ../themeoptions/options.php:2496
 #: ../themeoptions/options.php:2539 ../themeoptions/options.php:2584
 msgid "repeat"
-msgstr ""
+msgstr "Lặp lại"
 
 #: ../themeoptions/options.php:2275 ../themeoptions/options.php:2319
 #: ../themeoptions/options.php:2365 ../themeoptions/options.php:2410
 #: ../themeoptions/options.php:2455 ../themeoptions/options.php:2496
 #: ../themeoptions/options.php:2539 ../themeoptions/options.php:2584
 msgid "repeat-x"
-msgstr ""
+msgstr "Lặp lại-x"
 
 #: ../themeoptions/options.php:2275 ../themeoptions/options.php:2319
 #: ../themeoptions/options.php:2365 ../themeoptions/options.php:2410
 #: ../themeoptions/options.php:2455 ../themeoptions/options.php:2496
 #: ../themeoptions/options.php:2539 ../themeoptions/options.php:2584
 msgid "repeat-y"
-msgstr ""
+msgstr "Lặp lại-y"
 
 #: ../themeoptions/options.php:2282 ../themeoptions/options.php:2326
 #: ../themeoptions/options.php:2372 ../themeoptions/options.php:2417
 #: ../themeoptions/options.php:2462 ../themeoptions/options.php:2502
 #: ../themeoptions/options.php:2546 ../themeoptions/options.php:2591
 msgid "X image placement options"
-msgstr ""
+msgstr "Tùy chọn vị trí hình ảnh X"
 
 #: ../themeoptions/options.php:2283 ../themeoptions/options.php:2327
 #: ../themeoptions/options.php:2373 ../themeoptions/options.php:2418
 #: ../themeoptions/options.php:2463 ../themeoptions/options.php:2503
 #: ../themeoptions/options.php:2547 ../themeoptions/options.php:2592
 msgid "left"
-msgstr ""
+msgstr "trái"
 
 #: ../themeoptions/options.php:2283 ../themeoptions/options.php:2291
 #: ../themeoptions/options.php:2327 ../themeoptions/options.php:2335
@@ -5182,187 +5191,188 @@ msgstr ""
 #: ../themeoptions/options.php:2547 ../themeoptions/options.php:2555
 #: ../themeoptions/options.php:2592 ../themeoptions/options.php:2600
 msgid "center"
-msgstr ""
+msgstr "trung tâm"
 
 #: ../themeoptions/options.php:2283 ../themeoptions/options.php:2327
 #: ../themeoptions/options.php:2373 ../themeoptions/options.php:2418
 #: ../themeoptions/options.php:2463 ../themeoptions/options.php:2503
 #: ../themeoptions/options.php:2547 ../themeoptions/options.php:2592
 msgid "right"
-msgstr ""
+msgstr "phải"
 
 #: ../themeoptions/options.php:2290 ../themeoptions/options.php:2334
 #: ../themeoptions/options.php:2380 ../themeoptions/options.php:2425
 #: ../themeoptions/options.php:2470 ../themeoptions/options.php:2509
 #: ../themeoptions/options.php:2554 ../themeoptions/options.php:2599
 msgid "Y image placement options"
-msgstr ""
+msgstr "Tùy chọn vị trí hình ảnh Y"
 
 #: ../themeoptions/options.php:2291 ../themeoptions/options.php:2335
 #: ../themeoptions/options.php:2381 ../themeoptions/options.php:2426
 #: ../themeoptions/options.php:2471 ../themeoptions/options.php:2510
 #: ../themeoptions/options.php:2555 ../themeoptions/options.php:2600
 msgid "top"
-msgstr ""
+msgstr "trên"
 
 #: ../themeoptions/options.php:2291 ../themeoptions/options.php:2335
 #: ../themeoptions/options.php:2381 ../themeoptions/options.php:2426
 #: ../themeoptions/options.php:2471 ../themeoptions/options.php:2510
 #: ../themeoptions/options.php:2555 ../themeoptions/options.php:2600
 msgid "bottom"
-msgstr ""
+msgstr "dưới"
 
 #: ../themeoptions/options.php:2298
 msgid "Topbar Background"
-msgstr ""
+msgstr "Nền thanh đầu trang"
 
 #: ../themeoptions/options.php:2303
 msgid "Topbar Background Color"
-msgstr ""
+msgstr "Màu nền thanh đầu trang"
 
 #: ../themeoptions/options.php:2342
 msgid "Header Background"
-msgstr ""
+msgstr "Nền Đầu trang"
 
 #: ../themeoptions/options.php:2347
 msgid "Header Background Color"
-msgstr ""
+msgstr "Màu nền Đầu trang"
 
 #: ../themeoptions/options.php:2388
 msgid "Secondary Menu Background"
-msgstr ""
+msgstr "Nền Menu phụ"
 
 #: ../themeoptions/options.php:2393
 msgid "Secondary Menu Background Color"
-msgstr ""
+msgstr "Màu nền Menu phụ"
 
 #: ../themeoptions/options.php:2433
 msgid "Mobile Menu Background"
-msgstr ""
+msgstr "Nền Menu Di động"
 
 #: ../themeoptions/options.php:2438
 msgid "Mobile Menu Background Color"
-msgstr ""
+msgstr "Màu Nền Menu Di động"
 
 #: ../themeoptions/options.php:2477
 msgid "Feature Background"
-msgstr ""
+msgstr "Nền Nổi bật"
 
 #: ../themeoptions/options.php:2517
 msgid "Footer Background"
-msgstr ""
+msgstr "Nền Chân trang"
 
 #: ../themeoptions/options.php:2522
 msgid "Footer Background Color"
-msgstr ""
+msgstr "Màu Nền Chân trang"
 
 #: ../themeoptions/options.php:2562
 msgid "Body Background"
-msgstr ""
+msgstr "Nền Thân trang"
 
 #: ../themeoptions/options.php:2567
 msgid "Body Background Color"
-msgstr ""
+msgstr "Màu Nền Thân trang"
 
 #: ../themeoptions/options.php:2607
 msgid "Fixed or Scroll"
-msgstr ""
+msgstr "Cố định hoặc Cuộn"
 
 #: ../themeoptions/options.php:2615
 msgid "Background Size"
-msgstr ""
+msgstr "Kích thước nền"
 
 #: ../themeoptions/options.php:2625
 msgid "Typography"
-msgstr ""
+msgstr "Kiểu chữ"
 
 #: ../themeoptions/options.php:2626
 msgid "Header Font Options"
-msgstr ""
+msgstr "Tùy chọn Font Đầu trang"
 
 #: ../themeoptions/options.php:2631
 msgid "H1 Headings"
-msgstr ""
+msgstr "Tiêu đề H1"
 
 #: ../themeoptions/options.php:2644
 msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
 msgstr ""
+"Chọn Kích thước và Kiểu cho h1 (Điều này tạo kiểu tiêu đề trang của bạn)"
 
 #: ../themeoptions/options.php:2655
 msgid "H2 Headings"
-msgstr ""
+msgstr "Tiêu đề H2"
 
 #: ../themeoptions/options.php:2671
 msgid "Choose Size and Style for h2"
-msgstr ""
+msgstr "Chọn Kích thước và Kiểu cho h2"
 
 #: ../themeoptions/options.php:2682
 msgid "H3 Headings"
-msgstr ""
+msgstr "Tiêu đề H3"
 
 #: ../themeoptions/options.php:2698
 msgid "Choose Size and Style for h3"
-msgstr ""
+msgstr "Chọn Kích thước và Kiểu cho h3"
 
 #: ../themeoptions/options.php:2709
 msgid "H4 Headings"
-msgstr ""
+msgstr "Tiêu đề H4"
 
 #: ../themeoptions/options.php:2725
 msgid "Choose Size and Style for h4"
-msgstr ""
+msgstr "Chọn Kích thước và Kiểu cho h4"
 
 #: ../themeoptions/options.php:2736
 msgid "H5 Headings"
-msgstr ""
+msgstr "Tiêu đề H5"
 
 #: ../themeoptions/options.php:2750
 msgid "Choose Size and Style for h5"
-msgstr ""
+msgstr "Chọn Kích thước và Kiểu cho h5"
 
 #: ../themeoptions/options.php:2761
 msgid "Body Font Options"
-msgstr ""
+msgstr "Tùy chọn Font Thân trang"
 
 #: ../themeoptions/options.php:2766
 msgid "Body Font"
-msgstr ""
+msgstr "Font Thân trang"
 
 #: ../themeoptions/options.php:2782
 msgid "Choose Size and Style for paragraphs"
-msgstr ""
+msgstr "Chọn Kích thước và Kiểu cho các đoạn văn"
 
 #: ../themeoptions/options.php:2796
 msgid "Menu Settings"
-msgstr ""
+msgstr "Cài đặt Menu"
 
 #: ../themeoptions/options.php:2797
 msgid "Primary Menu Options"
-msgstr ""
+msgstr "Tùy chọn Menu Chính"
 
 #: ../themeoptions/options.php:2803
 msgid "Enable Search in Primary Menu?"
-msgstr ""
+msgstr "Bật Tìm kiếm trong Menu Chính?"
 
 #: ../themeoptions/options.php:2804
 msgid "Choose to enable a search button in the header menu"
-msgstr ""
+msgstr "Chọn bật nút tìm kiếm trong trình đơn đầu trang"
 
 #: ../themeoptions/options.php:2811
 msgid "Enable Mini Cart in Primary Menu?"
-msgstr ""
+msgstr "Kích hoạt giỏ hàng mini trong Menu Chính?"
 
 #: ../themeoptions/options.php:2812
 msgid "Choose to enable a Cart button in the header menu"
-msgstr ""
+msgstr "Chọn bật nút Giỏ hàng trong trình đơn đầu trang"
 
 #: ../themeoptions/options.php:2818
 msgid "Primary Menu Font"
-msgstr ""
+msgstr "Font Menu chính"
 
 #: ../themeoptions/options.php:2834
 msgid "Choose Size and Style for primary menu"
-msgstr ""
+msgstr "Chọn Kích thước và Phong cách cho menu chính"
 
 #: ../themeoptions/options.php:2845
 msgid "Hover and Active Font Color"
