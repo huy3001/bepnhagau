@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-05-31 17:48+0700\n"
+"PO-Revision-Date: 2017-06-01 11:56+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4368,116 +4368,119 @@ msgstr "Loại danh mục đầy đủ"
 
 #: ../themeoptions/options.php:1311
 msgid "Choose type for the Portfolio Full"
-msgstr ""
+msgstr "Chọn kiểu cho danh mục đầy đủ"
 
 #: ../themeoptions/options.php:1317
 msgid "Display Portfolio Filter"
-msgstr ""
+msgstr "Hiển thị lọc danh mục"
 
 #: ../themeoptions/options.php:1323
 msgid "Choose how many Portfolio Items on Homepage"
-msgstr ""
+msgstr "Chọn có bao nhiêu mục danh mục trên Trang chủ"
 
 #: ../themeoptions/options.php:1332
 msgid "Portfolio full Order by"
-msgstr ""
+msgstr "Danh mục đầy đủ sắp xếp theo"
 
 #: ../themeoptions/options.php:1333
 msgid "Choose how the portfolio items should be ordered."
-msgstr ""
+msgstr "Chọn cách các mục danh mục được sắp xếp."
 
 #: ../themeoptions/options.php:1341
 msgid "Choose how many Portfolio columns"
-msgstr ""
+msgstr "Chọn có bao nhiêu cột danh mục"
 
 #: ../themeoptions/options.php:1356
 msgid "Masonry Style"
-msgstr ""
+msgstr "Phong cách Masonry"
 
 #: ../themeoptions/options.php:1374
 msgid "Display lightbox link in top right corner?"
-msgstr ""
+msgstr "Hiển thị liên kết hộp đèn ở góc trên bên phải?"
 
 #: ../themeoptions/options.php:1380
 msgid "Page Content Options (if home page is latest post page)"
-msgstr ""
+msgstr "Tùy chọn nội dung trang (nếu trang chủ là trang bài viết mới nhất)"
 
 #: ../themeoptions/options.php:1385
 msgid "Latest Post Display"
-msgstr ""
+msgstr "Hiển thị bài viết mới nhất"
 
 #: ../themeoptions/options.php:1386
 msgid ""
 "If Latest Post page is front page. Choose to show full post or post excerpt."
 msgstr ""
+"Nếu trang bài viết mới nhất là trang chủ. Chọn hiển thị toàn bộ bài viết "
+"hoặc trích đoạn bài viết."
 
 #: ../themeoptions/options.php:1387 ../themeoptions/options.php:2157
 msgid "Post Excerpt"
-msgstr ""
+msgstr "Trích đoạn Bài viết"
 
 #: ../themeoptions/options.php:1394
 msgid "Use Post Grid Format"
-msgstr ""
+msgstr "Sử dụng Định dạng Lưới Bài viết"
 
 #: ../themeoptions/options.php:1400
 msgid "Post Columns"
-msgstr ""
+msgstr "Cột bài viết"
 
 #: ../themeoptions/options.php:1413
 msgid "Shop Settings"
-msgstr ""
+msgstr "Cài đặt Shop"
 
 #: ../themeoptions/options.php:1414
 msgid "Shop Archive Page Settings"
-msgstr ""
+msgstr "Cài đặt trang lưu trữ cửa hàng"
 
 #: ../themeoptions/options.php:1419
 msgid "Shop Product Column Layout"
-msgstr ""
+msgstr "Giao diện Cột sản phẩm của Shop"
 
 #: ../themeoptions/options.php:1420
 msgid "Choose how many product columns on the shop and category pages"
-msgstr ""
+msgstr "Chọn số lượng cột sản phẩm trên trang cửa hàng và trang danh mục"
 
 #: ../themeoptions/options.php:1429
 msgid "Display the sidebar on Shop Page?"
-msgstr ""
+msgstr "Hiển thị thanh bên trên Trang cửa hàng?"
 
 #: ../themeoptions/options.php:1430
 msgid "This determines if there is a sidebar on the shop page."
-msgstr ""
+msgstr "Điều này sẽ xác định xem có thanh bên trên trang cửa hàng hay không."
 
 #: ../themeoptions/options.php:1440
 msgid "Choose a Sidebar for your shop page"
-msgstr ""
+msgstr "Chọn một thanh bên cho trang cửa hàng của bạn"
 
 #: ../themeoptions/options.php:1449
 msgid "Display the sidebar on Product Category Pages?"
-msgstr ""
+msgstr "Hiển thị thanh bên trên các trang loại sản phẩm?"
 
 #: ../themeoptions/options.php:1450
 msgid "This determines if there is a sidebar on the product category pages."
 msgstr ""
+"Điều này xác định xem có thanh bên trên trang cửa hàng và trang danh mục."
 
 #: ../themeoptions/options.php:1460
 msgid "Choose a Sidebar for your Product Category Pages"
-msgstr ""
+msgstr "Chọn một thanh bên cho các trang loại sản phẩm?"
 
 #: ../themeoptions/options.php:1468
 msgid "How many products per page"
-msgstr ""
+msgstr "Có bao nhiêu sản phẩm trên mỗi trang"
 
 #: ../themeoptions/options.php:1477
 msgid "Force products into rows"
-msgstr ""
+msgstr "Buộc sản phẩm vào các hàng"
 
 #: ../themeoptions/options.php:1478
 msgid "Products fit into rows regardless of size"
-msgstr ""
+msgstr "Sản phẩm phù hợp với hàng không phân biệt kích thước"
 
 #: ../themeoptions/options.php:1484
 msgid "Show Category Filter on Shop Page"
-msgstr ""
+msgstr "Hiển thị Bộ lọc Danh mục trên Trang cửa hàng"
 
 #: ../themeoptions/options.php:1485
 msgid ""
@@ -4485,10 +4488,13 @@ msgid ""
 "designed to filter what is visible on the page. It does not act as a menu "
 "and query products from multiple pages."
 msgstr ""
+"Điều này cho biết thêm một bộ lọc động cho trang cửa hàng. LƯU Ý rằng bộ lọc "
+"này chỉ được thiết kế để lọc những gì có thể nhìn thấy trên trang. Nó không "
+"hoạt động như một menu và truy vấn các sản phẩm từ nhiều trang."
 
 #: ../themeoptions/options.php:1491
 msgid "Show Category Filter on Category Pages"
-msgstr ""
+msgstr "Hiển thị Bộ lọc Danh mục trên Các trang danh mục"
 
 #: ../themeoptions/options.php:1492
 msgid ""
@@ -4496,53 +4502,62 @@ msgid ""
 "designed to filter what is visible on the page. It does not act as a menu "
 "and query products from multiple pages."
 msgstr ""
+"Thao tác này sẽ thêm một bộ lọc động vào các trang danh mục. LƯU Ý rằng bộ "
+"lọc này chỉ được thiết kế để lọc những gì có thể nhìn thấy trên trang. Nó "
+"không hoạt động như một menu và truy vấn các sản phẩm từ nhiều trang."
 
 #: ../themeoptions/options.php:1498
 msgid "Use Infinite Scroll on Shop pages"
-msgstr ""
+msgstr "Sử dụng Cuộn Vô hạn trên trang cửa hàng"
 
 #: ../themeoptions/options.php:1499
 msgid "Not recomended that you use with filter."
-msgstr ""
+msgstr "Không nên sử dụng với bộ lọc."
 
 #: ../themeoptions/options.php:1505
 msgid "Show toggle buttons for list/grid on shop page"
-msgstr ""
+msgstr "Hiển thị các nút chuyển đổi cho danh sách/lưới trên trang cửa hàng"
 
 #: ../themeoptions/options.php:1506
 msgid ""
 "Adds two icons for toggling between a grid and list layout on shop page."
 msgstr ""
+"Thêm hai biểu tượng để chuyển đổi giữa bố cục lưới và danh sách trên trang "
+"cửa hàng."
 
 #: ../themeoptions/options.php:1512
 msgid "Stop Product Excerpt from loading in the shop grid pages."
-msgstr ""
+msgstr "Ngừng tải Trích đoạn sản phẩm từ trong trang lưới cửa hàng."
 
 #: ../themeoptions/options.php:1513
 msgid "Good to turn on if there are conflicts on your shop grid pages."
-msgstr ""
+msgstr "Tốt hơn nên để bật nếu có mâu thuẫn trên trang lưới cửa hàng của bạn."
 
 #: ../themeoptions/options.php:1519
 msgid "Show Ratings in Shop and Category Pages"
-msgstr ""
+msgstr "Hiển thị các xếp hạng trong các trang cửa hàng và trang sản phẩm"
 
 #: ../themeoptions/options.php:1520
 msgid "This determines if the rating is displayed in the product archive pages"
 msgstr ""
+"Điều này sẽ xác định xem đánh giá được hiển thị trong các trang lưu trữ sản "
+"phẩm hay không"
 
 #: ../themeoptions/options.php:1526
 msgid "Show Sold tag if product out of stock."
-msgstr ""
+msgstr "Hiển thị thẻ đã bán nếu sản phẩm đã hết."
 
 #: ../themeoptions/options.php:1527
 msgid ""
 "This determines if a sold tag is displayed on the top right of the product "
 "image"
 msgstr ""
+"Điều này sẽ xác định xem một thẻ bán được hiển thị ở phía trên bên phải của "
+"hình ảnh sản phẩm"
 
 #: ../themeoptions/options.php:1533
 msgid "Hide Add to Cart Till Mouse Hover"
-msgstr ""
+msgstr "Ẩn Thêm vào giỏ hàng cho đến khi di chuột qua"
 
 #: ../themeoptions/options.php:1534
 msgid ""
