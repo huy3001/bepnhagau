@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Virtue\n"
 "POT-Creation-Date: 2017-05-04 14:41+0700\n"
-"PO-Revision-Date: 2017-06-01 11:56+0700\n"
+"PO-Revision-Date: 2017-06-01 17:20+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4564,383 +4564,412 @@ msgid ""
 "This determines if add to cart button will be hidden till the mouse hovers "
 "over the product"
 msgstr ""
+"Điều này sẽ xác định xem nút thêm vào giỏ hàng sẽ được ẩn cho đến khi di "
+"chuột lên sản phẩm"
 
 #: ../themeoptions/options.php:1540
 msgid "Product Image Flip"
-msgstr ""
+msgstr "Hình ảnh sản phẩm Lật"
 
 #: ../themeoptions/options.php:1541
 msgid ""
 "This allows your product image to flip to the first gallery image when "
 "hovered over on shop page. *Note only works in newer browsers."
 msgstr ""
+"Điều này cho phép hình ảnh sản phẩm của bạn lật đến hình ảnh thư viện đầu "
+"tiên khi di chuột trên trang cửa hàng. * Lưu ý chỉ hoạt động trong các trình "
+"duyệt mới."
 
 #: ../themeoptions/options.php:1547
 msgid "Quantity Box plus and minus"
-msgstr ""
+msgstr "Hộp Số lượng cộng và trừ"
 
 #: ../themeoptions/options.php:1548
 msgid ""
 "Turn this off if you would like to use browser added plus and minus for "
 "number boxes"
 msgstr ""
+"Tắt tính năng này nếu bạn muốn sử dụng trình duyệt được thêm cộng và trừ cho "
+"các hộp số"
 
 #: ../themeoptions/options.php:1554
 msgid "Shop Category Image Size"
-msgstr ""
+msgstr "Kích thước hình ảnh của cửa hàng"
 
 #: ../themeoptions/options.php:1559
 msgid "Shop Category Column Layout"
-msgstr ""
+msgstr "Giao diện Cột của cửa hàng"
 
 #: ../themeoptions/options.php:1560
 msgid ""
 "Choose how many Category Image columns to show on the shop and category pages"
 msgstr ""
+"Chọn số cột Hiển thị hình ảnh hiển thị trên trang cửa hàng và các trang danh "
+"mục"
 
 #: ../themeoptions/options.php:1568
 msgid "Category Image Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ Hình ảnh của Danh mục"
 
 #: ../themeoptions/options.php:1569
 msgid ""
 "If enabled below this sets how you want your category images to be cropped."
-msgstr ""
+msgstr "Điều này đặt cách bạn muốn cắt các ảnh danh mục của mình."
 
 #: ../themeoptions/options.php:1570 ../themeoptions/options.php:1629
 msgid "Square 1:1"
-msgstr ""
+msgstr "Vuông 1:1"
 
 #: ../themeoptions/options.php:1570 ../themeoptions/options.php:1629
 msgid "Portrait 3:4"
-msgstr ""
+msgstr "Chân dung 3:4"
 
 #: ../themeoptions/options.php:1570 ../themeoptions/options.php:1629
 msgid "Landscape 4:3"
-msgstr ""
+msgstr "Phong cảnh 4:3"
 
 #: ../themeoptions/options.php:1570 ../themeoptions/options.php:1629
 msgid "Wide Landscape 4:2"
-msgstr ""
+msgstr "Phong cảnh rộng 4:2"
 
 #: ../themeoptions/options.php:1570
 msgid "Turn Off"
-msgstr ""
+msgstr "Tắt"
 
 #: ../themeoptions/options.php:1577
 msgid "Shop Product Title Settings"
-msgstr ""
+msgstr "Cài đặt Tiêu đề Sản phẩm của Cửa hàng"
 
 #: ../themeoptions/options.php:1582
 msgid "Shop & archive Product title Font"
-msgstr ""
+msgstr "Font Tiêu đề sản phẩm của Cửa hàng và Lưu trữ"
 
 #: ../themeoptions/options.php:1594
 msgid "Choose Size and Style for product titles on category and archive pages."
 msgstr ""
+"Chọn Kích thước và Kiểu cho tiêu đề sản phẩm trên các trang phân loại và lưu "
+"trữ."
 
 #: ../themeoptions/options.php:1605
 msgid "Set Product Title to Uppercase?"
-msgstr ""
+msgstr "Đặt Tiêu đề Sản phẩm thành Chữ hoa?"
 
 #: ../themeoptions/options.php:1606
 msgid "This makes your product titles uppercase on Category pages"
 msgstr ""
+"Điều này làm cho tiêu đề sản phẩm của bạn in hoa trên các trang Chuyên mục"
 
 #: ../themeoptions/options.php:1612
 msgid "Product title Min Height"
-msgstr ""
+msgstr "Chiều cao tối thiểu của Tiêu đề sản phẩm"
 
 #: ../themeoptions/options.php:1613
 msgid ""
 "If your titles are long increase this to help align your products height."
 msgstr ""
+"Nếu tiêu đề của bạn tăng dài để giúp sắp xếp chiều cao sản phẩm của bạn."
 
 #: ../themeoptions/options.php:1622
 msgid "Product Image Sizes"
-msgstr ""
+msgstr "Kích thước hình ảnh sản phẩm"
 
 #: ../themeoptions/options.php:1627
 msgid "Product Image Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ hình ảnh sản phẩm"
 
 #: ../themeoptions/options.php:1628
 msgid ""
 "If enabled below this sets how you want your product images to be cropped."
 msgstr ""
+"Nếu được kích hoạt dưới đây sẽ đặt cách bạn muốn hình ảnh sản phẩm của bạn "
+"được cắt."
 
 #: ../themeoptions/options.php:1636
 msgid "Enable Product Image Aspect Ratio on Catalog pages"
-msgstr ""
+msgstr "Bật Tỷ lệ Hình ảnh Sản phẩm trên trang Danh mục"
 
 #: ../themeoptions/options.php:1637
 msgid ""
 "If turned off image dimensions are set by woocommerce settings - recommended "
 "width: 270px for Catalog Images"
 msgstr ""
+"Nếu tắt kích thước hình ảnh được thiết lập bởi cài đặt bán hàng - độ rộng đề "
+"nghị: 270px cho Hình ảnh Danh mục"
 
 #: ../themeoptions/options.php:1643
 msgid "Enable Product Image Aspect Ratio on product Page"
-msgstr ""
+msgstr "Bật Tỷ lệ Hình ảnh Sản phẩm trên trang Sản phẩm"
 
 #: ../themeoptions/options.php:1644
 msgid ""
 "If turned off image dimensions are set by woocommerce settings - recommended "
 "width: 468px for Single Product Image"
 msgstr ""
+"Nếu tắt kích thước hình ảnh được thiết lập bởi cài đặt bán hàng - độ rộng đề "
+"nghị: 468px cho hình ảnh sản phẩm đơn"
 
 #: ../themeoptions/options.php:1650
 msgid "Shop Slider"
-msgstr ""
+msgstr "Thanh trượt Cửa hàng"
 
 #: ../themeoptions/options.php:1655
 msgid "Would you like to use have a slider on your shop page?"
-msgstr ""
+msgstr "Bạn có muốn sử dụng thanh trượt trên trang cửa hàng của bạn?"
 
 #: ../themeoptions/options.php:1661
 msgid "Choose a Slider for your shop page"
-msgstr ""
+msgstr "Chọn Thanh trượt cho trang cửa hàng của bạn"
 
 #: ../themeoptions/options.php:1662
 msgid "Cyclone/Shortcode Slider"
-msgstr ""
+msgstr "Thanh trượt Mã ngắn/Cyclone"
 
 #: ../themeoptions/options.php:1706
 msgid ""
 "Note: does not work if images are smaller than max. If using sidebar set to "
 "770"
 msgstr ""
+"Lưu ý: không hoạt động nếu hình ảnh nhỏ hơn tối đa. Nếu sử dụng thanh bên "
+"đặt là 770"
 
 #: ../themeoptions/options.php:1766
 msgid "Product Settings"
-msgstr ""
+msgstr "Cài đặt sản phẩm"
 
 #: ../themeoptions/options.php:1767
 msgid "Product Page Settings"
-msgstr ""
+msgstr "Cài đặt Trang Sản phẩm"
 
 #: ../themeoptions/options.php:1772
 msgid "Single Product Layout"
-msgstr ""
+msgstr "Giao diện Sản phẩm Đơn"
 
 #: ../themeoptions/options.php:1773
 msgid ""
 "This determines if the image and product title layout on single product "
 "pages."
 msgstr ""
+"Điều này sẽ xác định xem hình ảnh và cách bố trí tiêu đề sản phẩm trên các "
+"trang sản phẩm đơn."
 
 #: ../themeoptions/options.php:1783
 msgid "Product Sidebar Default"
-msgstr ""
+msgstr "Thanh bên Sản phẩm Mặc định"
 
 #: ../themeoptions/options.php:1784 ../themeoptions/options.php:2089
 #: ../themeoptions/options.php:2120 ../themeoptions/options.php:2128
 msgid "No, Do not Show"
-msgstr ""
+msgstr "Không, không hiển thị"
 
 #: ../themeoptions/options.php:1784 ../themeoptions/options.php:2089
 #: ../themeoptions/options.php:2120
 msgid "Yes, Show"
-msgstr ""
+msgstr "Vâng, Hiển thị"
 
 #: ../themeoptions/options.php:1791
 msgid "Choose a Default Sidebar for your Single Product Pages"
-msgstr ""
+msgstr "Chọn một thanh bên mặc định cho các trang sản phẩm đơn"
 
 #: ../themeoptions/options.php:1799
 msgid "Display variations as radio buttons instead of select box?"
-msgstr ""
+msgstr "Hiển thị biến thể dưới dạng nút radio thay vì hộp chọn?"
 
 #: ../themeoptions/options.php:1800
 msgid "This will display product varations in a box form."
-msgstr ""
+msgstr "Điều này sẽ hiển thị các biến thể của sản phẩm trong một hình hộp."
 
 #: ../themeoptions/options.php:1806
 msgid "Display Product Navigation arrows beside title?"
-msgstr ""
+msgstr "Hiển thị mũi tên điều hướng sản phẩm bên cạnh tiêu đề?"
 
 #: ../themeoptions/options.php:1807
 msgid ""
 "This will display navigation arrow beside product title to navigate to other "
 "products in the same category."
 msgstr ""
+"Điều này sẽ hiển thị mũi tên điều hướng bên cạnh tiêu đề sản phẩm để điều "
+"hướng đến các sản phẩm khác trong cùng một loại."
 
 #: ../themeoptions/options.php:1813
 msgid "Display product tabs?"
-msgstr ""
+msgstr "Hiển thị các tab sản phẩm?"
 
 #: ../themeoptions/options.php:1814
 msgid "This determines if product tabs are displayed"
-msgstr ""
+msgstr "Điều này sẽ xác định xem các tab sản phẩm có được hiển thị hay không"
 
 #: ../themeoptions/options.php:1820
 msgid "Scroll to Tab?"
-msgstr ""
+msgstr "Cuộn đến Tab?"
 
 #: ../themeoptions/options.php:1821
 msgid "This scrolls the page to the product tab when clicked"
-msgstr ""
+msgstr "Thao tác này cuộn trang đến tab sản phẩm khi được nhấp"
 
 #: ../themeoptions/options.php:1827
 msgid "Product Tab Order - Lowest First"
-msgstr ""
+msgstr "Thứ tự tab của sản phẩm - Thấp nhất đầu tiên"
 
 #: ../themeoptions/options.php:1828
 msgid "Description Tab"
-msgstr ""
+msgstr "Tab Mô tả"
 
 #: ../themeoptions/options.php:1837
 msgid "Additional Information Tab"
-msgstr ""
+msgstr "Tab thông tin bổ sung"
 
 #: ../themeoptions/options.php:1846
 msgid "Reviews Tab"
-msgstr ""
+msgstr "Tab Đánh giá"
 
 #: ../themeoptions/options.php:1864
 msgid "Activate Custom Tab 01"
-msgstr ""
+msgstr "Kích hoạt Tab Tuỳ chỉnh 01"
 
 #: ../themeoptions/options.php:1865 ../themeoptions/options.php:1872
 #: ../themeoptions/options.php:1879
 msgid "This adds a custom product tab to your products"
-msgstr ""
+msgstr "Thao tác này sẽ thêm tab sản phẩm tùy chỉnh vào sản phẩm của bạn"
 
 #: ../themeoptions/options.php:1871
 msgid "Activate Custom Tab 02"
-msgstr ""
+msgstr "Kích hoạt Tab Tuỳ chỉnh 02"
 
 #: ../themeoptions/options.php:1878
 msgid "Activate Custom Tab 03"
-msgstr ""
+msgstr "Kích hoạt Tab Tuỳ chỉnh 03"
 
 #: ../themeoptions/options.php:1885
 msgid "Display related products?"
-msgstr ""
+msgstr "Hiển thị các sản phẩm liên quan?"
 
 #: ../themeoptions/options.php:1886
 msgid "This determines related products are displayed"
-msgstr ""
+msgstr "Điều này quyết định các sản phẩm liên quan được hiển thị"
 
 #: ../themeoptions/options.php:1892
 msgid "Choose how many columns are in related product carousel"
-msgstr ""
+msgstr "Chọn số cột có trong băng chuyền sản phẩm liên quan"
 
 #: ../themeoptions/options.php:1904 ../themeoptions/options.php:1905
 msgid "Portfolio Options"
-msgstr ""
+msgstr "Tùy chọn Danh mục"
 
 #: ../themeoptions/options.php:1910
 msgid "Portfolio Permalink Base"
-msgstr ""
+msgstr "Cơ sở liên kết tĩnh của danh mục"
 
 #: ../themeoptions/options.php:1911
 msgid "Standard: portfolio *NOTE If you change this resave your permalinks"
 msgstr ""
+"Tiêu chuẩn: danh mục đầu tư *CHÚ Ý Nếu bạn thay đổi lưu lại liên kết tĩnh "
+"của bạn"
 
 #: ../themeoptions/options.php:1916
 msgid "Allow Comments on Portfolio Posts"
-msgstr ""
+msgstr "Cho phép Nhận xét về bài viết Danh mục"
 
 #: ../themeoptions/options.php:1917
 msgid "Turn on to allow Comments on Portfolio posts"
-msgstr ""
+msgstr "Bật để cho phép nhận xét về bài viết trên Danh mục"
 
 #: ../themeoptions/options.php:1923
 msgid "Portfolio Navigation Options"
-msgstr ""
+msgstr "Tùy chọn Điều hướng Danh mục"
 
 #: ../themeoptions/options.php:1930
 msgid "All Projects Default Portfolio Page"
-msgstr ""
+msgstr "Trang Danh mục Tất cả các dự án mặc định"
 
 #: ../themeoptions/options.php:1931
 msgid "This sets the link in every portfolio post. You can override in post."
 msgstr ""
+"Điều này đặt liên kết trong mỗi bài viết danh mục. Bạn có thể ghi đè lên "
+"trong bài viết."
 
 #: ../themeoptions/options.php:1936
 msgid "Portfolio Arrow Navigation"
-msgstr ""
+msgstr "Mũi tên Điều hướng Danh mục"
 
 #: ../themeoptions/options.php:1937
 msgid "Navigate through All Posts"
-msgstr ""
+msgstr "Điều hướng qua tất cả bài viết"
 
 #: ../themeoptions/options.php:1937
 msgid "Navigate through Category"
-msgstr ""
+msgstr "Điều hướng qua danh mục"
 
 #: ../themeoptions/options.php:1944
 msgid "Portfolio Category Pages"
-msgstr ""
+msgstr "Điều hướng các trang danh mục"
 
 #: ../themeoptions/options.php:1949
 msgid "Choose how many portfolio columns to show on portfolio catagory pages."
-msgstr ""
+msgstr "Chọn số cột danh mục để hiển thị trên các trang danh mục."
 
 #: ../themeoptions/options.php:1958
 msgid "Choose how many portfolio items show on portfolio catagory pages."
-msgstr ""
+msgstr "Chọn bao nhiêu danh mục hiển thị trên các trang danh mục."
 
 #: ../themeoptions/options.php:1967
 msgid "Portfolio Post Bottom Carousel"
-msgstr ""
+msgstr "Băng chuyển dưới cùng bài viết danh mục"
 
 #: ../themeoptions/options.php:1972
 msgid "Choose how many columns to show on recent portfolio carousel."
-msgstr ""
+msgstr "Chọn số cột để hiển thị trên băng chuyền danh mục hiện tại."
 
 #: ../themeoptions/options.php:1990
 msgid "Choose how many items to show on recent portfolio carousel."
-msgstr ""
+msgstr "Chọn số mục để hiển thị trên băng chuyền danh mục hiện tại."
 
 #: ../themeoptions/options.php:2011 ../themeoptions/options.php:2012
 msgid "Blog Options"
-msgstr ""
+msgstr "Tùy chọn Blog"
 
 #: ../themeoptions/options.php:2017
 msgid "Post Excerpt Length"
-msgstr ""
+msgstr "Chiều dài Trích đoạn Bài viết"
 
 #: ../themeoptions/options.php:2018
 msgid "Determines how many words are in an Excerpt."
-msgstr ""
+msgstr "Xác định có bao nhiêu từ trong trích đoạn bài viết."
 
 #: ../themeoptions/options.php:2027
 msgid "Show Comments Closed Text?"
-msgstr ""
+msgstr "Hiển thị Văn bản Bình luận bị Đóng?"
 
 #: ../themeoptions/options.php:2028
 msgid "Choose to show or hide comments closed alert below posts."
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn nhận xét đang đóng cảnh báo dưới các bài viết."
 
 #: ../themeoptions/options.php:2034
 msgid "Show Author Icon with posts?"
-msgstr ""
+msgstr "Hiển thị Biểu tượng Tác giả với bài viết?"
 
 #: ../themeoptions/options.php:2035
 msgid "Choose to show or hide author icon under post title."
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn biểu tượng tác giả dưới tiêu đề bài viết."
 
 #: ../themeoptions/options.php:2041
 msgid "Show \"posted in\" categories with posts?"
-msgstr ""
+msgstr "Hiển thị \"được đăng trong\" danh mục với các bài viết?"
 
 #: ../themeoptions/options.php:2042
 msgid "Choose to show or hide posted in categories under post title."
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn đăng trong danh mục dưới tiêu đề bài viết."
 
 #: ../themeoptions/options.php:2048
 msgid "Show Comment Icon with posts?"
-msgstr ""
+msgstr "Hiển thị Biểu tượng bình luận với bài viết?"
 
 #: ../themeoptions/options.php:2049
 msgid "Choose to show or hide comment icon under post title."
-msgstr ""
+msgstr "Chọn hiển thị hoặc ẩn biểu tượng bình luận dưới tiêu đề bài viết."
 
 #: ../themeoptions/options.php:2055
 msgid "Show Date with posts?"
-msgstr ""
+msgstr "Hiển thị ngày với bài viết?"
 
 #: ../themeoptions/options.php:2056
 msgid "Choose to show or hide date with post title."
