@@ -1,0 +1,120 @@
+v1.1.0 (Apr 15, 2017)
+ -----------------------------
+ - Minor template improvement
+ 
+ Files updated:
+- functions.php
+- style.css
+- woocommerce/archive-product.php
+
+v1.0.9 (Apr 15, 2017)
+-----------------------------
+- Improve header menu icon on iOS devices
+ 
+ Files updated:
+- functions.php
+- style.css
+
+v1.0.8 (Apr 14, 2017)
+ -----------------------------
+ - Replaced deprecated WooCommerce functions
+ - Open support tab when clicking on Support header link
+ - Added support for new WooCommerce Zoom & Slider effect in the single products
+ - Improved Single products styling
+ 
+ Files updated:
+- functions.php
+- style.css
+- options/js/options.js
+- css/woocommerce2.css
+- woocommerce/archive-product.php
+- woocommerce/single-product.php
+
+v1.0.7 (Apr 05, 2017)
+-----------------------------
+- Include Support tab in Theme Options Panel
+- Fixed Schema Issue
+- Fixed wrong background field constructor args in the Options Panel
+
+Files updated:
+- style.css
+- functions.php
+- theme-options.php
+- options/support.php
+- options/options.php 
+- options/css/options.css
+- options/js/clipboard.min.js
+- options/js/help.js
+- options/fields/background/field_background.php 
+- options/fields/group/field_group.php 
+
+v1.0.6 (Mar 03, 2017)
+-----------------------------
+- Improved Internalization
+
+Files updated:
+- functions.php
+- lang/myportfolio.pot
+- style.css
+
+v1.0.5 (Jan 18, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.0.4 (Dec 13, 2016)
+-----------------------------
+- Fixed demo importer issue on some servers
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/importer/radium-importer.php
+
+
+v1.0.3 (Oct 22, 2016)
+-----------------------------
+- One click demo importer improvements
+- Install Plugins page improvements
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/plugin-activation.php
+
+
+v1.0.2 (Sept 10, 2016)
+---------------------------------------------------
+- Fixed spacing issue on small screens for blog page
+
+Files updated:
+- style.css
+- style.css
+
+
+v1.0.1 (Aug 29, 2016)
+---------------------------------------------------
+- Added new option in the Single Portfolio editor to control the gallery items easily
+- Fixed Single portfolio gallery issue if there is only one slide
+- Fixed if there is only one Single Portfolio 'Entry' then it was not appearing
+
+Files updated:
+- style.css
+- functions.php
+- single-portfolio.php
+- functions/metaboxes.php
+- js/owl.carousel.min.js
+- lang/default.pot
+
+
+v1.0 (Aug 22, 2016)
+---------------------------------------------------
+Theme Released
